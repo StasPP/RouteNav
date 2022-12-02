@@ -1,0 +1,1012 @@
+///---
+EGM08_1Deg.gdf
+EGM2008
+EGM2008 1 град.
+90
+-90
+-180
+180
+generating_institute     gfz-potsdam
+     generating_date     2019/06/19
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008
+             caption     EGM2008 1 град.
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       90.000000000000    
+      latlimit_south      -90.000000000000    
+      longlimit_west      -180.00000000000    
+      longlimit_east       180.00000000000    
+            gridstep       1.0000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           181
+ longitude_parallels           361
+number_of_gridpoints         65341
+            gapvalue            999.0000
+       weighted_mean      2.0012183E-02 meter
+            maxvalue      8.6277659E+01 meter
+            minvalue     -1.0610187E+02 meter
+         signal_wrms      3.0570528E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Africa-North.gdf
+EGM2008_AN
+EGM2008 10 мин. Африка (Север)
+38
+2
+-18
+38
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_AN
+             caption     EGM2008 10 мин. Африка (Север)
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       38.000000000000    
+      latlimit_south       2.0000000000000    
+      longlimit_west      -18.000000000000    
+      longlimit_east       38.000000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           226
+ longitude_parallels           351
+number_of_gridpoints         79326
+            gapvalue            999.0000
+       weighted_mean      2.1657302E+01 meter
+            maxvalue      5.7838462E+01 meter
+            minvalue     -2.0261193E+01 meter
+         signal_wrms      1.4810703E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Africa-South.gdf
+EGM2008_AS
+EGM2008 10 мин. Африка (Юг)
+13,043
+-34,957
+8
+52
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_AS
+             caption     EGM2008 10 мин. Африка (Юг)
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       13.043000000000    
+      latlimit_south      -34.957000000000    
+      longlimit_west       8.0000000000000    
+      longlimit_east       52.000000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           301
+ longitude_parallels           276
+number_of_gridpoints         83076
+            gapvalue            999.0000
+       weighted_mean     -7.0574717E-01 meter
+            maxvalue      3.8911157E+01 meter
+            minvalue     -5.3988117E+01 meter
+         signal_wrms      2.1225571E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Alaska.gdf
+EGM2008_ALA
+EGM2008 10 мин. Аляска и Берингов пролив
+72
+50,08
+-180
+-140
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_ALA
+             caption     EGM2008 10 мин. Аляска и Берингов пролив
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       72.000000000000    
+      latlimit_south       50.080000000000    
+      longlimit_west       180.00000000000    
+      longlimit_east       220.00000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           138
+ longitude_parallels           251
+number_of_gridpoints         34638
+            gapvalue            999.0000
+       weighted_mean      7.4392247E+00 meter
+            maxvalue      2.2137158E+01 meter
+            minvalue     -1.2076305E+01 meter
+         signal_wrms      5.7125616E+00 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Australia.gdf
+EGM2008_AUS
+EGM2008 10 мин. Австралия и Новая Зеландия
+-10
+-48,88
+110
+179,92
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_AUS
+             caption     EGM2008 10 мин. Австралия и Новая Зеландия
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north      -10.000000000000    
+      latlimit_south      -48.880000000000    
+      longlimit_west       110.00000000000    
+      longlimit_east       179.92000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           244
+ longitude_parallels           438
+number_of_gridpoints        106872
+            gapvalue            999.0000
+       weighted_mean      1.8541065E+01 meter
+            maxvalue      8.2232867E+01 meter
+            minvalue     -4.0475835E+01 meter
+         signal_wrms      3.2247893E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Canada.gdf
+EGM2008_CAN
+EGM2008 10 мин. Канада
+70
+41,04
+-141
+-52,04
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_CAN
+             caption     EGM2008 10 мин. Канада
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       70.000000000000    
+      latlimit_south       41.040000000000    
+      longlimit_west       219.00000000000    
+      longlimit_east       307.96000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           182
+ longitude_parallels           557
+number_of_gridpoints        101374
+            gapvalue            999.0000
+       weighted_mean     -2.0161443E+01 meter
+            maxvalue      3.3285865E+01 meter
+            minvalue     -4.9039223E+01 meter
+         signal_wrms      1.5924773E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Cental-Asia.gdf
+EGM2008_ASIA
+EGM2008 10 мин. Центральная Азия
+56
+5,12
+32
+89,92
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_ASIA
+             caption     EGM2008 10 мин. Центральная Азия
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       56.000000000000    
+      latlimit_south       5.1200000000000    
+      longlimit_west       32.000000000000    
+      longlimit_east       89.920000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           319
+ longitude_parallels           363
+number_of_gridpoints        115797
+            gapvalue            999.0000
+       weighted_mean     -3.1419232E+01 meter
+            maxvalue      3.9073236E+01 meter
+            minvalue     -1.0631330E+02 meter
+         signal_wrms      3.1705854E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_China.gdf
+EGM2008_CH
+EGM2008 10 мин. Китай
+54
+18
+72
+136
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_CH
+             caption     EGM2008 10 мин. Китай
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       54.000000000000    
+      latlimit_south       18.000000000000    
+      longlimit_west       72.000000000000    
+      longlimit_east       136.00000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           226
+ longitude_parallels           401
+number_of_gridpoints         90626
+            gapvalue            999.0000
+       weighted_mean     -2.1134596E+01 meter
+            maxvalue      4.6830962E+01 meter
+            minvalue     -7.5834210E+01 meter
+         signal_wrms      3.1076443E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Japan_Korea.gdf
+EGM2008_JC
+EGM2008 10 мин. Япония и Корея
+46
+27,12
+124
+152,96
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_JC
+             caption     EGM2008 10 мин. Япония и Корея
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       46.000000000000    
+      latlimit_south       27.120000000000    
+      longlimit_west       124.00000000000    
+      longlimit_east       152.96000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           119
+ longitude_parallels           182
+number_of_gridpoints         21658
+            gapvalue            999.0000
+       weighted_mean      2.6265034E+01 meter
+            maxvalue      5.1217542E+01 meter
+            minvalue     -3.6123218E+00 meter
+         signal_wrms      8.5947409E+00 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_Mexico-Carribean.gdf
+EGM2008_MEX
+EGM2008 10 мин. Мексика и Карибский бассейн
+33
+7,08
+-118
+-60,08
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_MEX
+             caption     EGM2008 10 мин. Мексика и Карибский бассейн
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       33.000000000000    
+      latlimit_south       7.0800000000000    
+      longlimit_west       242.00000000000    
+      longlimit_east       299.92000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           163
+ longitude_parallels           363
+number_of_gridpoints         59169
+            gapvalue            999.0000
+       weighted_mean     -2.4998865E+01 meter
+            maxvalue      2.2158282E+01 meter
+            minvalue     -7.0286722E+01 meter
+         signal_wrms      1.6232498E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_South-America.gdf
+EGM2008_SAM
+EGM2008 10 мин. Южная Америка
+14
+-55,92
+-82
+-34
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_SAM
+             caption     EGM2008 10 мин. Южная Америка
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       14.000000000000    
+      latlimit_south      -55.920000000000    
+      longlimit_west       278.00000000000    
+      longlimit_east       326.00000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           438
+ longitude_parallels           301
+number_of_gridpoints        131838
+            gapvalue            999.0000
+       weighted_mean      8.1361709E-01 meter
+            maxvalue      5.3053032E+01 meter
+            minvalue     -5.3586345E+01 meter
+         signal_wrms      1.8552582E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_South-East_Asia.gdf
+EGM2008_ASIASE
+EGM2008 10 мин. Юго-Восточная Азия		
+30
+-11,92
+88
+153,92
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_ASIASE
+             caption     EGM2008 10 мин. Юго-Восточная Азия		   
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       30.000000000000    
+      latlimit_south      -11.920000000000    
+      longlimit_west       88.000000000000    
+      longlimit_east       153.92000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           263
+ longitude_parallels           413
+number_of_gridpoints        108619
+            gapvalue            999.0000
+       weighted_mean      2.1166319E+01 meter
+            maxvalue      8.7783870E+01 meter
+            minvalue     -7.3512900E+01 meter
+         signal_wrms      4.2311908E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_10min_USA.gdf
+EGM2008_USA
+EGM2008 10 мин. США
+50
+25,04
+-130
+-60,08
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_USA
+             caption     EGM2008 10 мин. США 
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       50.000000000000    
+      latlimit_south       25.040000000000    
+      longlimit_west       230.00000000000    
+      longlimit_east       299.92000000000    
+            gridstep      0.16000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           157
+ longitude_parallels           438
+number_of_gridpoints         68766
+            gapvalue            999.0000
+       weighted_mean     -3.0358643E+01 meter
+            maxvalue     -5.4695367E+00 meter
+            minvalue     -5.2107560E+01 meter
+         signal_wrms      9.5438182E+00 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_5min_Europe-East.gdf
+EGM2008_EE
+EGM2008 5 мин. Восточная Европа
+71
+35,0144
+17
+39,9908
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_EE
+             caption     EGM2008 5 мин. Восточная Европа
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       71.000000000000    
+      latlimit_south       35.014400000000    
+      longlimit_west       17.000000000000    
+      longlimit_east       39.990800000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           433
+ longitude_parallels           277
+number_of_gridpoints        119941
+            gapvalue            999.0000
+       weighted_mean      2.6356731E+01 meter
+            maxvalue      4.8149113E+01 meter
+            minvalue      5.1373743E+00 meter
+         signal_wrms      9.7473206E+00 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_5min_Europe-West.gdf
+EGM2008_EW
+EGM2008 5 мин. Западная Европа
+71
+35,0144
+-24
+17,9832
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_EW
+             caption     EGM2008 5 мин. Западная Европа
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       71.000000000000    
+      latlimit_south       35.014400000000    
+      longlimit_west      -24.000000000000    
+      longlimit_east       17.983200000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           433
+ longitude_parallels           505
+number_of_gridpoints        218665
+            gapvalue            999.0000
+       weighted_mean      5.0257927E+01 meter
+            maxvalue      6.8984795E+01 meter
+            minvalue      2.3473633E+01 meter
+         signal_wrms      8.2049018E+00 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_5min_Russia1.gdf
+EGM2008_Rus1
+EGM2008 5 мин. Россия - Запад
+70
+40,012
+27
+59,9868
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_Rus1
+             caption     EGM2008 5 мин. Россия - Запад
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       70.000000000000    
+      latlimit_south       40.012000000000    
+      longlimit_west       27.000000000000    
+      longlimit_east       59.986800000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           361
+ longitude_parallels           397
+number_of_gridpoints        143317
+            gapvalue            999.0000
+       weighted_mean      7.2876070E+00 meter
+            maxvalue      4.0645657E+01 meter
+            minvalue     -2.8784060E+01 meter
+         signal_wrms      1.4951482E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_5min_Russia2.gdf
+EGM2008_Rus2
+EGM2008 5 мин. Россия - Урал и Западная Сибирь
+75
+48,0108
+59
+110,9792
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_Rus2
+             caption     EGM2008 5 мин. Россия - Урал и Западная Сибирь
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       75.000000000000    
+      latlimit_south       48.010800000000    
+      longlimit_west       59.000000000000    
+      longlimit_east       110.97920000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           325
+ longitude_parallels           625
+number_of_gridpoints        203125
+            gapvalue            999.0000
+       weighted_mean     -2.5507031E+01 meter
+            maxvalue      4.8827843E+00 meter
+            minvalue     -5.0977228E+01 meter
+         signal_wrms      1.1828168E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+EGM2008_5min_Russia3.gdf
+EGM2008_Rus3
+EGM2008 5 мин. Россия - Дальний Восток
+75
+40,014
+110
+179,972
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     EGM2008_Rus3
+             caption     EGM2008 5 мин. Россия - Дальний Восток
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       75.000000000000    
+      latlimit_south       40.014000000000    
+      longlimit_west       110.00000000000    
+      longlimit_east       179.97200000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           421
+ longitude_parallels           841
+number_of_gridpoints        354061
+            gapvalue            999.0000
+       weighted_mean      4.7948932E+00 meter
+            maxvalue      4.1799243E+01 meter
+            minvalue     -3.2099040E+01 meter
+         signal_wrms      1.3536369E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+GAO2012_1.gdf
+GAO2012_1
+ГАО2012 5 мин. Россия - Запад
+70
+40,012
+27
+59,9868
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     GAO2012_1
+             caption     ГАО2012 5 мин. Россия - Запад
+     max_used_degree           360
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       70.000000000000    
+      latlimit_south       40.012000000000    
+      longlimit_west       27.000000000000    
+      longlimit_east       59.986800000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           361
+ longitude_parallels           397
+number_of_gridpoints        143317
+            gapvalue            999.0000
+       weighted_mean      7.3059239E+00 meter
+            maxvalue      4.0926271E+01 meter
+            minvalue     -2.8795696E+01 meter
+         signal_wrms      1.4958324E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+GAO2012_2.gdf
+GAO2012_2
+ГАО2012 5 мин. Россия - Урал и Западная Сибирь
+75
+48,0108
+59
+110,9792
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     GAO2012_2
+             caption     ГАО2012 5 мин. Россия - Урал и Западная Сибирь
+     max_used_degree           360
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       75.000000000000    
+      latlimit_south       48.010800000000    
+      longlimit_west       59.000000000000    
+      longlimit_east       110.97920000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           325
+ longitude_parallels           625
+number_of_gridpoints        203125
+            gapvalue            999.0000
+       weighted_mean     -2.5492161E+01 meter
+            maxvalue      5.8263156E+00 meter
+            minvalue     -5.1792380E+01 meter
+         signal_wrms      1.1855226E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+GAO2012_3.gdf
+GAO2012_3
+ГАО2012 5 мин. Россия - Дальний Восток
+75
+42,0132
+110
+179,972
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     GAO2012_3
+             caption     ГАО2012 5 мин. Россия - Дальний Восток
+     max_used_degree           360
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       75.000000000000    
+      latlimit_south       42.013200000000    
+      longlimit_west       110.00000000000    
+      longlimit_east       179.97200000000    
+            gridstep      0.83300000000000E-01
+     height_over_ell          0.0000 m
+  latitude_parallels           397
+ longitude_parallels           841
+number_of_gridpoints        333877
+            gapvalue            999.0000
+       weighted_mean      4.6760345E+00 meter
+            maxvalue      3.4670535E+01 meter
+            minvalue     -3.1897754E+01 meter
+         signal_wrms      1.3259518E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+
+///---
+GECO_30min.gdf
+GECO30
+GECO 30 мин.		
+89
+-89
+-180
+180
+generating_institute     gfz-potsdam
+     generating_date     2019/06/21
+        product_type     gravity_field
+                body     earth
+           modelname     GECO30
+             caption     GECO 30 мин.		   
+     max_used_degree          2190
+         tide_system     tide_free
+          functional     height_anomaly_ell
+    zero_degree_term     included
+                unit     meter
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       89.000000000000    
+      latlimit_south      -89.000000000000    
+      longlimit_west      -180.00000000000    
+      longlimit_east       180.00000000000    
+            gridstep      0.50000000000000    
+     height_over_ell          0.0000 m
+  latitude_parallels           357
+ longitude_parallels           721
+number_of_gridpoints        257397
+            gapvalue            999.0000
+       weighted_mean      8.2654756E-03 meter
+            maxvalue      8.5957005E+01 meter
+            minvalue     -1.0631050E+02 meter
+         signal_wrms      3.0574587E+01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    height_anomaly_ell
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+

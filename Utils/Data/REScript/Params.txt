@@ -1,0 +1,7 @@
+ -mgpx
+ -meangpx
+ -meantxt
+ -rtgpx
+ -prgpx
+ -prtxt
+ -melx

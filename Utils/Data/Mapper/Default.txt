@@ -1,0 +1,255 @@
+
+//
+WForm
+Загрузка карт GoogleMaps
+
+Bevel2
+
+Label2
+*ВНИМАНИЕ! Без ключа Google количество загружаемых данных ограничено!
+
+GroupBox1
+Загружаемые карты/снимки
+
+Image1
+
+Bevel1
+
+Label1
+Тип:
+
+Label4
+Уровень увеличения:
+
+Label7
+Уровень увеличения может быть изменен в режиме карты
+
+ComboBox1
+
+Edit1
+
+
+CheckBox1
+Ключ Google API*
+
+ComboBox2
+
+Button1
+Далее >>
+
+GroupBox2
+Отобразить на карте
+
+Label3
+Начальная точка пути
+
+Label5
+Участок работ
+
+Label6
+Подложки
+
+Button3
+Добавить
+
+Button4
+Добавить
+
+Button5
+Добавить
+
+Panel1
+
+SpeedButton1
+
+
+
+SpeedButton2
+
+
+
+MapList
+
+AsdbList
+
+Panel2
+
+SpeedButton4
+
+
+
+Edit2
+
+
+Panel3
+
+SpeedButton3
+
+
+
+Edit3
+
+
+Edit4
+
+
+Button2
+Получить ключ Google API
+
+OpenMaps
+
+OpenRoutes
+
+//
+MapFm
+Карта
+
+Stats
+
+Comments
+
+
+EX
+
+EY
+
+Csys
+
+EZ
+
+Panel1
+
+JumpBase
+
+
+
+JumpRoutes
+
+
+
+DopPan
+
+m2
+
+
+
+m3
+
+
+
+Canv
+
+Tools
+
+PC
+Основные
+Загрузка подложек GoogleMaps
+Редактор подложек
+
+POptions
+
+B2a
+
+Задать координаты базы
+
+B2
+
+Переместить базу
+
+B1
+
+Перемещение карты
+
+B4
+
+Загрузить маршруты
+
+B5a
+
+Загрузить подложки
+
+B5c
+
+Очистить подложки
+
+B4a
+
+Очистить маршруты
+
+PGoogle
+
+Label2
+Увеличение:
+
+Label3
+Тип:
+
+Label5
+Выбрано участков:
+
+SpeedButton1
+Скачать выбранные
+
+
+SpeedButton2
+Сброс выбранного
+
+
+StaticText2
+
+StaticText3
+
+StaticText5
+
+AZoom
+AUTO
+
+PMapEd
+
+B01
+
+Перемещение карты
+
+B5
+
+Выбор и редактирование тайлов
+
+B5b
+
+Сохранение карты
+
+B5d
+
+Удалить тайл
+
+PopupMenu1
+
+N81
+Увеличить
+
+N101
+Уменьшить
+
+PopupMenu2
+
+N1
+Карта дорог
+
+N2
+Космоснимки
+
+N3
+Гибрид
+
+N4
+Физическая карта
+
+OpenRoutes
+
+OpenMaps
+
+PopupMenu3
+
+SaveM
+
+//

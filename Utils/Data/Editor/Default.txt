@@ -1,0 +1,2842 @@
+
+//
+MapFm
+Карта
+
+Stats
+
+Comments
+
+
+EX
+
+EY
+
+Csys
+
+EZ
+
+NavPanel
+
+JumpXY
+
+Перейти к координатам (новый "флажок")
+
+JumpRoutes
+
+Перейти к маршрутам
+
+JumpBase
+
+Перейти к "флажку"
+
+DopPan
+
+m1
+
+Множественное выделение (Shift)
+
+m2
+
+Добавить к выделенному (Ctrl)
+
+m3
+
+Вычесть из выделенного (Alt)
+
+DopPan2
+
+m4
+
+Притянуть к точке/маркеру
+
+DopPan3
+
+m5
+
+Притянуть к рамке участка
+
+DopPan4
+
+m6
+
+Удалить
+
+DopPan5
+
+m7
+
+Притянуть к маршруту
+
+DopPan6
+
+JumpTrack
+
+Перейти к траектории
+
+ScrPanel
+
+ScreenShot
+
+Снимок экрана
+
+SetB
+
+Настройки
+
+Refresh
+
+Пересчитать координаты объектов
+
+Ruler
+
+Линейка
+
+Tools
+
+PC
+Основные
+Разбить участок на маршруты
+Разбивка по пикетам
+Редактировать  маршруты
+Имитация полета
+Треки
+GoogleMaps
+YandexMaps
+
+POptions
+
+B1
+
+Перемещение карты
+
+B4
+
+Загрузить маршруты
+
+B4a
+
+Очистить маршруты
+
+B5a
+
+Загрузить подложки
+
+B5c
+
+Очистить подложки
+
+B4b
+
+Сохранить маршруты
+
+B4d
+
+Сохранить маршруты в текстовый файл
+
+Label9
+Полупрозрачность:
+
+Bm1
+
+Загрузить маркеры
+
+Bm3
+
+Убрать маркеры
+
+B4c
+
+Информация о маршрутах
+
+AGoogle2
+
+Автоматически скачать подложку
+
+Bm2
+
+Сохранить маркеры
+
+B5e
+
+Растр в ASDB (утилита геопривязки)
+
+Blend
+
+TabSheet1
+
+B6a
+
+Загрузить участок работ
+
+B01
+
+Перемещение карты
+
+B6c
+
+Сохранить маршруты
+
+B6b
+
+Разбить участок работ
+
+Label1
+Интервал, м:
+
+Label2
+Угол, °
+
+Label5
+Нумерация с:
+
+PrevS
+
+Изменить начальную сторону
+
+NextS
+
+Изменить начальную сторону
+
+Label8
+Отступ, м:
+
+isDA
+к стороне:
+
+
+Step
+
+Deg
+
+NUm0
+
+Extra
+Добавить маршрут за границей участка
+
+MinShift
+
+isMinL
+Мин. длина, м:
+
+MinL
+
+TabSheet3
+
+SpeedButton7
+
+Убрать маркеры
+
+SpeedButton8
+
+Загрузить маркеры
+
+B0001
+
+Перемещение карты
+
+SpeedButton10
+
+Сохранить маркеры
+
+MrkRoutes
+
+Выделить поворотные точки маршрутов в маркеры
+
+B31
+
+
+
+MarkRoute
+
+Создать маршрут из маркеров
+
+DevStar
+
+Создать калибровочные маршруты ("звезду девиаций")
+
+MarkFrame
+
+Создать участок из маркеров
+
+B30
+
+Режим работы с петлями ЗСБ
+
+KnotPanel
+
+KnotsNew
+
+Разбивка петель ЗСБ
+
+KnotsOpen
+
+Загрузить петли
+
+KnotsDestroy
+
+Очистить петли
+
+KnotsSave
+
+Сохранить петли
+
+KnotsToMarkers
+
+Преобразовать в маркеры
+
+TabSheet2
+
+B001
+
+Перемещение карты
+
+SpeedButton3
+
+Сохранить маршруты
+
+B25
+
+Добавить границу участка
+
+B26
+
+Добавить маршрут
+
+B21
+
+Редактировать рамку
+
+B22
+
+Редактировать точки рамки
+
+B24
+
+Редактировать точки маршрутов
+
+B23
+
+Редактировать маршруты
+
+EdW
+
+Показать список
+
+B27
+
+Добавить точки рамки
+
+B28
+
+Добавить точки маршрутов
+
+UndoB
+
+Отменить действие
+
+RedoB
+
+Вернуть действие
+
+OrdW
+
+Показать список
+
+B29
+
+Разбить маршруты
+
+BrkRoutes
+
+Разбить маршрут на отрезки (добавить поворотные точки)
+
+RouteBoxPan
+
+RouteBox
+
+TabSheet4
+
+SpeedButton6
+
+Загрузить маршруты
+
+B00001
+
+Перемещение карты
+
+SpeedButton12
+
+Имитировать полет
+
+SpeedButton13
+
+Сохранить полет
+
+imiLabel1
+Мин. радиус, м:
+
+imiLabel3
+Шаг смены маршрутов:
+
+imiLabel2
+Отклонения, м:
+
+ImiRad
+
+imiSwicth
+Полет петлями
+
+imiStep
+
+imiAnim
+Показать анимацию
+
+imiRandom
+
+TabSheet5
+
+B000001
+
+Перемещение карты
+
+BNmea
+
+Загрузить треки из NMEA/GPX
+
+Btxt
+
+Импортировать треки
+
+B40
+
+Информация о точках трека
+
+Bred
+
+Выполнить редукции
+
+Button2
+
+
+
+BDelTrack
+
+Очистить трек
+
+Rtops
+
+Операции с маршрутами
+
+Rinf
+
+Информация о треке
+
+B41
+
+Следование по маршрутами
+
+Rtt
+
+Загрузить трек из RTT/RTA
+
+RttSave
+
+Сохранить трек в RTT
+
+RTable
+
+Таблица точек трека
+
+RouteBoxPan2
+
+Estim
+
+Утилита оценки качества
+
+RouteBox2
+
+TabSheet6
+
+B0000001
+
+Перемещение карты
+
+B50
+
+Ручное добавление Google тайлов
+
+AGoogle
+
+Добавить автоматически
+
+B5b
+
+Сохранение карты
+
+B5d
+
+Удалить тайл
+
+B5
+
+Выбор и редактирование тайлов
+
+GPan
+
+Label3
+Тип:
+
+GDownLoad
+
+Скачать
+
+GReset
+
+Сброс
+
+Label4
+Масштаб:
+
+Label6
+Выбрано:
+
+GStyle
+
+Gcount
+0
+
+Azoom
+(авто)
+
+GZoom
+
+TabSheet7
+
+B51
+
+Ручное добавление Google тайлов
+
+B2b2
+
+Сохранение карты
+
+B5d2
+
+Удалить тайл
+
+B6
+
+Выбор и редактирование тайлов
+
+AYandex
+
+Добавить автоматически
+
+B00000001
+
+Перемещение карты
+
+Ypan
+
+Label7
+Тип:
+
+YDownload
+
+Скачать
+
+YReset
+
+Сброс
+
+Label10
+Масштаб:
+
+Label11
+Выбрано:
+
+Label12
+Язык:
+
+Ystyle
+
+Ycount
+0
+
+YAZoom
+(auto)
+
+YZoom
+
+Ylang
+
+Canv
+
+CutPan
+
+Bcut
+
+Разбить маршруты
+
+Bres
+
+Сбросить
+
+InfCut
+Продлить линию среза
+
+RulPan
+
+RulReset
+
+Закрыть
+
+DelLast
+
+Удалить последнюю
+
+Label13
+Точек:
+
+Label14
+Расстояние, м:
+
+Label15
+На эллипсоиде, м:
+
+DoneLine
+
+Готово
+
+DopRul
+
+Расширенный вид
+
+Rlength
+
+Rcount
+
+REllLength
+
+RulPan2
+
+Label16
+Текущий отрезок, м:
+
+Label17
+Истинный азимут, °:
+
+Label18
+Дирекционный угол, °:
+
+ShowDA
+
+
+ShowAzmt
+
+
+ShowLength
+
+
+RCL
+
+RCAZ
+
+RCDA
+
+NewKnotPanel
+
+ApplyKnots
+
+Применить
+
+KnotLabel
+Сторона петли, м:
+
+Label19
+Шаг, м:
+
+NoNewKnots
+
+Сбросить
+
+ShowNewKnots
+
+Показать на карте
+
+Label20
+°
+
+KnotPts
+Настройка
+
+
+KnotOutpos
+Отступ от начала, м:
+
+Bevel2
+
+Bevel3
+
+Bevel1
+
+Label23
+Пикеты:
+
+Knex2
+Test string value 2
+
+KnEx1
+Test string value 1
+
+Label21
+Формат имени точек:
+
+Label24
+(Профильная расстановка)
+
+Label25
+0
+
+KnotSize
+
+KnotRoutes
+
+KnotStep
+
+KnotAngRoute
+Азимут по ходу маршрута
+
+KnotAngOwn
+Задать вручную
+
+KnotAng
+
+KnotAngAdd
+Прибавить к азимуту маршрута
+
+KnotStartL
+
+KnotContinue
+Продлить петли за маршрут
+
+KnotNames
+
+NewKnotPanel2
+
+Label22
+Начать номера с:
+
+KnotStart
+
+KnotSettings
+
+SetKnNameLabel
+Имя (профиля):
+
+SetKnAngLabel
+Азимут, °
+
+SetKnSizeLabel
+Сторона петли, м
+
+SetKnLLabel
+Номер расстановки
+
+SetKnXY
+Координаты центра
+
+
+SetKnNameKindLabel
+Формат имени точек:
+
+SetKnTest1
+Test string value 1
+
+SetKnTest2
+Test string value 2
+
+SetKnPts
+Настройка пикетов
+
+
+SCancelKn
+
+Сбросить
+
+SOkKn
+
+Применить
+
+SDelKn
+
+Удалить
+
+SMoveKn
+
+Показать на карте
+
+SViewKn
+
+Показать на карте
+
+Label26
+(Профильная расстановка)
+
+Label27
+Пикеты:
+
+Label28
+0
+
+SetKnName
+Name
+
+SetKnAng
+
+SetKnSize
+
+SetKnL
+
+SetKnNameKind
+
+OpenRoutes
+
+OpenMaps
+
+PopupMenu3
+
+SaveR
+
+SaveR2
+
+PopupMenu1
+
+MenuItem1
+Добавить точку
+
+OpenMarkers
+
+PopupMenu2
+
+MenuItem2
+Добавить маркер
+
+SaveGPS
+
+OpenNMEA
+
+OpenTXT
+
+Savejpg
+
+SaveM
+
+PopupMenu4
+
+extfiles1
+Text files
+
+SurferBlnusingPulkovo19421
+Surfer *.Bln (WGS-84 UTM)
+
+SurferBlnCS42GaussKruger1
+Surfer *.Bln (Pulkovo 1942 Gauss-Kruger)
+
+NavisGalsListlstWGS841
+Navis Gals List *.lst (WGS-84)
+
+Garmingpx1
+Garmin/GPS Exchange format *.gpx
+
+SaveBlN
+
+SaveLst
+
+PopupMenu5
+
+GoogleMaps1
+GoogleMaps
+
+YandexMaps1
+YandexMaps
+
+SaveGPX
+
+SaveRTT
+
+OpenRTT
+
+PopupMenu6
+
+Doreload1
+Загрузить заново
+
+DoAdd1
+Добавить к существующим
+
+PopupMenu7
+
+DoReload2
+Разбить заново
+
+DoAdd2
+Добавить к существующим
+
+PopupMenu8
+
+DoReaload3
+Загрузить трек заново
+
+DoAdd3
+Добавить к существующему
+
+PopupMenu9
+
+MenuItem3
+Создать петлю
+
+PopupMenu10
+
+MenuItem4
+Загрузть заново
+
+MenuItem5
+Добавить к сущестующим
+
+SaverKnots
+
+OpenerKnots
+
+//
+FLoadGPS
+Загрузка данных...
+
+Panel1
+
+LCount
+1/1
+
+MapLoad
+Загрузка растровых карт
+
+Label1
+Скачивание...
+
+Label2
+Конвертация...
+
+Label3
+Подождите...
+
+ProgressBar1
+
+//
+LoadRData
+Параметры открываемого файла
+
+Label3
+Фрагмент результатов открытия файла при заданных настройках
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+StringGrid1
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RSpacer
+Разделители
+Пробелы
+Tab
+Другие
+;
+,
+
+Spacer
+
+
+ValueList
+
+SpinEdit1
+
+RoutesBE
+Начало/конец маршрута
+В одной строке
+Четные/нечетные строки
+Метка a, b в имени
+Общее имя
+
+ValueList2
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+//
+GeoCalcFm
+Введите координаты
+
+LabelZ
+LabelZ
+
+LabelY
+LabelY
+
+LabelX
+LabelX
+
+Label3
+Измененные данные будут переведены в WGS-84 и переданы назад
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+EX
+
+
+EY
+
+
+EZ
+
+
+Button1
+OK
+
+Button2
+Отмена
+
+//
+HintForm
+Важная информация
+
+Image1
+
+BitBtn1
+Далее
+Далее
+
+Memo1
+
+//
+CSForm
+Выбор системы координат
+
+Bevel1
+
+ComboBox2
+
+ListBox4
+
+Button1
+Выбрать
+
+//
+SaveTXTFm
+Сохранить в текстовом формате
+
+Bevel1
+
+Button1
+OK
+
+RSpacer
+Разделители
+Пробелы
+Tab
+Другие
+;
+,
+
+RoutesBE
+Начало/конец маршрута
+В одной строке
+Четные/нечетные строки
+Метка a, b в имени
+Общее имя
+
+Spacer
+
+
+Csys
+
+MarkH
+Сохранить высоты
+
+DoHE
+Эллипсоидальные высоты
+
+DoHGeo
+Ортометрические высоты
+
+//
+MarkEd
+Редактировать координаты
+
+Panel1
+
+BB1
+
+
+
+BB2
+
+
+
+Bevel1
+
+CCS
+...
+
+
+Label3
+Широта B, °:
+
+Label4
+Долгота L, °:
+
+Label5
+Широта B, °:
+
+Label6
+Долгота L, °:
+
+Label7
+Z:
+
+SpeedButton1
+
+
+
+Button1
+OK
+
+Button2
+Отмена
+
+Edit2
+S 0° 00' 24,7200"
+
+Edit3
+E 0° 01' 45,9705"
+
+Edit4
+S 0° 00' 24,7200"
+
+Edit5
+E 0° 01' 45,9705"
+
+Edit6
+
+
+label2
+Координаты WGS:
+
+RadioButton1
+WGS 84 (Широта/Долгота)
+
+Panel2
+
+Label1
+Имя:
+
+Button3
+Удалить маркер
+
+Edit1
+Новый маркер
+
+//
+EdWin
+Маршруты
+
+TreeView1
+
+ImageList1
+
+//
+Edtools
+Tools
+
+Bevel1
+
+BPos
+
+Задать координаты точки
+
+BName
+
+Переименовать (маршрут)
+
+BShift
+
+Перемещение
+
+BDel
+
+Удалить
+
+CB
+
+
+//
+Movep
+Сдвиг
+
+Bevel1
+
+SpeedButton4
+
+
+
+Label1
+Шаг, м
+
+SpeedButton1
+
+
+
+SpeedButton3
+
+
+
+SpeedButton2
+
+
+
+StpEd
+
+//
+Namer
+Задайте имя
+
+SpeedButton1
+OK
+
+
+Edit1
+Новый маршрут
+
+//
+GetMapPos
+Укажите приближенное местоположение
+
+Image1
+
+Image2
+
+Label2
+N 0 E 0
+
+Panel1
+
+Label1
+
+
+Button1
+OK
+
+//
+OrderW
+Редактировать маршруты
+
+Panel1
+
+RUp
+
+Переместить выше
+
+RDown
+
+Переместить ниже
+
+RInv
+
+В обратном порядке
+
+Panel2
+
+RRew
+
+Инвертировать маршрут
+
+RRnm
+
+Переименовать маршрут
+
+RDel
+
+Удалить маршрут
+
+Collapse
+
+Объединить маршруты
+
+Clone
+
+Копировать маршрут
+
+ListBox1
+
+Panel3
+
+Panel4
+
+OKButton
+OK
+
+//
+LoadT
+Импорт траектории
+
+StringGrid1
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RSpacer
+Разделители
+Пробелы
+Tab
+Другие
+;
+,
+
+Spacer
+
+
+StartFrom
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+GroupBox1
+Дополнительные данные
+
+GroupBox6
+Дата
+
+C12
+В столбце времени
+
+C10
+Отдельным столбцом
+
+C14
+Нет (задать)
+
+Date1
+
+Col10
+
+ScrollBox1
+
+C6
+H (орт.)
+
+C7
+Скорость
+
+C9
+PDop
+
+C5
+H (элл.)
+
+C8
+Азимут
+
+C11
+Примечания
+
+Col5
+
+Col6
+
+Col7
+
+Col8
+
+Col9
+
+Col11
+
+C15
+Высота
+
+Col15
+
+C16
+Спутники
+
+Col16
+
+Col17
+
+C17
+Маршрут
+
+GroupBox3
+Основные данные
+
+Label2
+Время
+
+Label3
+X
+
+Label4
+Y
+
+Label5
+Z
+
+Col1
+
+Col2
+
+Col3
+
+Col4
+
+PanelMinSec
+
+isMin
+Столбец '
+
+isSec
+''
+
+GroupBox4
+Настройки времени
+
+TimeSys
+Система времени
+GPS
+UTC
+
+GroupBox5
+
+
+WeekButton
+?
+
+
+isDoy
+DOY
+
+isFormatted
+По формату:
+
+isWoy
+Week.Seconds
+
+Edit3
+
+isSOW
+Секунды недели
+
+WeekEdit
+
+Edit1
+
+Edit2
+
+//
+RedForm
+Параметры редуцирования
+
+Image1
+
+Panel1
+
+Label4
+
+
+Label10
+Алгоритм:
+
+GroupBox1
+Сдвиги, м
+
+Label1
+U (N):
+
+Label2
+V (E):
+
+Label3
+H (W):
+
+SpeedButton2
+
+
+
+SpeedButton1
+
+
+
+Edit1
+0
+
+Edit2
+0
+
+Edit3
+0
+
+GroupBox2
+Легенда
+
+Image2
+
+Image3
+
+Label5
+- Центр ГНСС-антенны
+
+Label6
+- Искомая точка
+
+StartButton
+Выполнить редуцирование
+
+CloseButton
+Отмена
+
+AnglesSource
+Источник углов
+Координаты точек
+Файл углов
+
+RMethod
+
+Panel2
+
+Filters
+Настройки фильтрации
+Не разряжать
+Разрядить по расстоянию
+Разрядить по времени
+
+DoFilter
+Скользящее среднее
+
+SpinEdit1
+
+PC
+1
+3
+4
+
+TabSheet1
+
+TabSheet3
+
+Label8
+Минимум, м
+
+Edit4
+1
+
+isTPs
+Повороты
+
+TabSheet4
+
+Label9
+Минимум, сек.
+
+Edit5
+5
+
+Timer1
+
+ImageList1
+
+OpenDialog1
+
+SaveDialog1
+
+SaveDialog2
+
+OpenDialog2
+
+//
+TrackSaver
+TrackSaver
+
+GroupBox1
+Параметры редукции
+
+Angs
+Углы: крен, тангаж, курс
+
+dXYH
+Поправки за редукцию
+
+GroupBox2
+Исходные данные
+
+iXYH
+Исходные X, Y, H(msl)
+
+iBLH
+Исходные B, L, H (WGS-84)
+
+GroupBox3
+Редуцированные координаты
+
+RedXYH
+Редуцированные X, Y, H(msl)
+
+RedBLH
+Редуцированные B, L, H (WGS-84)
+
+Button1
+Сохранить
+
+Button2
+Отмена
+
+TimeSys
+Время
+GPS
+UTC
+
+SepDate
+Дата отдельным столбцом
+
+GroupBox4
+Система координат X Y H
+
+OlderCS
+Исходная
+
+newCS
+Задать новую
+
+Csys
+
+OldSys
+
+//
+LoadA
+LoadA
+
+YawKind
+Угол курса
+Дирекционный угол
+Истинный азимут
+Магнитный азимут 
+
+GroupBox4
+Настройки времени
+
+TimeSys
+Система времени
+GPS
+UTC
+
+GroupBox5
+
+
+isDoy
+DOY
+
+isFormatted
+По формату:
+
+isWoy
+Week.Seconds
+
+Edit3
+
+Edit1
+
+Edit2
+
+GroupBox3
+Основные данные
+
+Label2
+Время
+
+Label3
+Курс
+
+Label4
+Тангаж
+
+Label5
+Крен
+
+Col1
+
+Col2
+
+Col3
+
+Col4
+
+StringGrid1
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RSpacer
+Разделители
+Пробелы
+Tab
+Другие
+;
+,
+
+Spacer
+
+
+StartFrom
+
+GroupBox6
+Дата
+
+Col10
+
+C12
+В столбце времени
+
+C10
+Отдельным столбцом
+
+C14
+Не задана
+
+Panel1
+
+Label6
+Магнитное склонение:
+
+Label7
+!
+
+Edit4
+0
+
+Button1
+ОК
+
+Button2
+Отмена
+
+isDegs
+Единицы 
+Градусы
+Радианы
+
+//
+SetFm
+Настройки
+
+Label1
+Язык:
+
+Button1
+OK
+
+Ln
+
+Smooth
+Сглаживание линий
+
+GroupBox1
+Цветовые настройки
+
+BackGroundColor
+
+LinesColor
+
+ObjColor
+
+DopObjColor
+
+IntColor
+
+InfoColor
+
+TrackColor
+
+RedTrackColor
+
+FntColor
+
+BackGround
+Фон
+
+Lines
+Линии сетки
+
+Obj
+Маршруты
+
+Track
+Траектория
+
+Info
+Курсор движения
+
+Int
+Интерфейс
+
+RedTrack
+Редукции/петли
+
+Fnt
+Текст
+
+DopObj
+Объекты/маркеры
+
+ChoosedColor
+
+Choosed
+Выделение
+
+Sav
+
+
+
+Cl
+
+Vsync
+VSync
+
+Button2
+Отмена
+
+SimpleN
+Упрощенный указатель на Север
+
+DrMesh
+Координатная сетка
+
+AlwaysN
+Показывать Север всегда
+
+LabelStyle
+Стиль подписей
+Обычный
+С тенью
+В рамке
+
+ColorDialog1
+
+//
+FRops
+Операции с маршрутами
+
+Label1
+Операции:
+
+MainBox
+
+PageControl1
+TabSheet1
+TabSheet2
+TabSheet3
+TabSheet7
+
+TabSheet1
+
+Label10
+Маршрут:
+
+Label11
+Допуск расстояний, м:
+
+RouteBox2
+
+SpinEdit3
+
+CheckBox1
+Сохранять непрерывность
+
+CheckBox2
+Сбросить старые привязки
+
+TabSheet2
+
+Label12
+Тип маршрута:
+
+RMethod
+
+doMinL
+Минимальная длина, м
+
+isNoReset
+Добавить к существующим маршрутам
+
+isReset
+Сбросить существующие маршруты
+
+MinL
+
+NameLabel
+Задать имя:
+
+NameEdit
+MNK
+
+TabSheet3
+
+PageControl2
+По времени
+По количеству эпох
+по файлу RINEX
+
+TabSheet4
+
+Label2
+Критерий по расстоянию, м:
+
+Label3
+Минимальное время остановки, с
+
+Edit1
+1.0
+
+SpinEdit2
+
+CheckBox3
+Удалить остальные маркеры
+
+TabSheet5
+
+Label6
+Критерий по расстоянию, м:
+
+Label7
+Минимальное количество эпох:
+
+Edit2
+1.0
+
+SpinEdit1
+
+CheckBox4
+Удалить остальные маркеры
+
+TabSheet6
+
+Label8
+Файл не загружен!
+
+SpeedButton1
+
+
+
+Bevel1
+
+Label9
+Итерации
+
+Edit3
+
+
+CheckBox5
+Отбраковка (3*s)
+
+CheckBox6
+Вычесть высоту антенны
+
+CheckBox7
+Удалить остальные маркеры
+
+SpinEdit4
+
+TabSheet7
+
+RouteNLabel3
+Маршрут:
+
+RouteBox3
+
+BrkStep
+
+DoBrk
+Разбить с шагом, м:
+
+isNoReset3
+Добавить к существующим маршрутам
+
+isReset3
+Сбросить существующие маршруты
+
+IsoNormals
+Нормали по отрезкам
+
+SaveAsMarks
+Выделить маркеры из точек
+
+SaveBorders
+Не выходить за края трека
+
+Button1
+Применить
+
+Button2
+Отмена
+
+GroupBox1
+Применить к участку траектории
+
+Label4
+От:
+
+Label5
+До:
+
+Time1
+
+Date1
+
+Date2
+
+Time2
+
+OpenDialog1
+
+//
+FRList
+FRList
+
+TrackPts
+
+Panel1
+
+ScrollBox1
+
+Bevel2
+
+Bevel1
+
+Label1
+used CS
+
+C5
+H (орт.)
+
+C6
+Скор-ть
+
+C8
+PDop
+
+C4
+H (элл.)
+
+C7
+Курс
+
+C12
+Комментарий
+
+C10
+Выс. над землей
+
+C11
+N спут.
+
+C9
+Маршрут
+
+C3
+Шир.-долг. WGS-84
+
+C2
+Координаты
+
+C1
+Дата и время
+
+PopupMenu1
+
+N1
+Привязать к маршруту
+
+N2
+(нет маршрута)
+
+N3
+Удалить
+
+//
+EOpen
+EstimOpn
+
+Button1
+Открыть утилиту оценки
+
+HGTBox
+Выдерживание высот над земной поверхностью
+
+HLabelLV
+По лазерному высотомеру, м:
+
+HLabelRV
+По радиовысотомеру, м:
+
+dotsLabel1
+...
+
+dotsLabel2
+...
+
+MaxHgtL
+
+MinHgtL
+
+MinHgtR
+
+MaxHgtR
+
+GroupBox1
+Выдерживание маршрутов
+
+Label1
+Предел уклонений от маршрута, м:
+
+MaxXTE
+
+//
+RouteOps
+Операции с маршрутами
+
+RouteNLabel3
+Маршрут:
+
+RouteBox
+
+OkButton
+ОК
+
+CancelButton
+Отмена
+
+RPC
+TabSheet1
+TabSheet2
+
+TabSheet1
+
+Label2
+Символ разделителя (имя-номер)
+
+Edit1
+P
+
+CheckBox1
+Задать имя маркеров
+
+Edit2
+_
+
+TabSheet2
+
+Label1
+Шаг, м:
+
+BrkStep
+
+//
+MarkerList
+Маркеры
+
+MainPanel
+
+AllMarks
+
+LButtonsPanel
+
+ViewBtn
+
+Показать на карте
+
+EdBtn
+
+Редактировать
+
+DelBtn
+
+Удалить
+
+ShiftBtn
+
+Редактировать
+
+//
+MarkerOps
+Создать маршрут по маркерам
+
+MainPanel
+
+Splitter
+
+RPanel
+
+RouteMarks
+
+RButtonsPanel
+
+UpBtn
+
+Выше
+
+DelBtn
+
+Удалить
+
+UpBtn2
+
+В начало
+
+DownBtn2
+
+В конец
+
+DownBtn
+
+Ниже
+
+DelAllBtn
+
+Удалить все
+
+RTitlePanel
+
+RTitle
+Маркеры, включаемые в маршрут:
+
+LPanel
+
+AllMarks
+
+LButtonsPanel
+
+SendBtn
+
+Добавить к маршруту
+
+SendAllBtn
+
+Добавить к маршруту все маркеры
+
+LTitlePanel
+
+LTitle
+Доступные маркеры:
+
+SpacerPanel
+
+BottomPanel
+
+ButtonsPanel
+
+OkButton
+Построить маршрут
+
+CancelButton
+Отмена
+
+//
+FCalendar
+Введите дату
+
+Label1
+Номер дня в году:
+
+Label2
+Неделя GPS:
+
+Label3
+Неделя GPS +д/н:
+
+Label4
+0
+
+Label5
+0
+
+Label6
+0
+
+Label7
+Доп. секунды:
+
+Label8
+0
+
+Button1
+ОК
+
+Button2
+Отмена
+
+Date1
+
+//
+CloneFm
+Копировать маршрут
+
+Label1
+Количество копий:
+
+Label3
+метров
+
+Label4
+Угол сдвига (дирекционный):
+
+Label5
+град.
+
+Image1
+
+Image2
+
+Bevel1
+
+Label6
+Имена новых маршрутов:
+
+Label7
+Начать с:
+
+Label8
+Шаг:
+
+Label9
+Разделитель:
+
+ECount
+
+Button1
+Копировать
+
+Button2
+Отмена
+
+EShift
+
+EDeg
+
+NameEdit
+Маршрут
+
+AddN
+Добавлять номера копий
+
+Nfrom
+
+NStep
+
+NameSep
+-
+
+DoShiftR
+Сдвинуть каждый новый:
+
+//
+DevStarFm
+Создать калибровочные маршруты
+
+Label1
+Имя:
+
+Label2
+Диаметр, м:
+
+Label3
+B:
+
+Label4
+L:
+
+CalcMe
+
+
+
+MBox
+
+EditNm
+Дев
+
+GroupBox1
+Количество маршрутов
+
+Image1
+
+Image2
+
+Image3
+
+is2
+2
+
+is4
+4
+
+is0
+4
+
+Diam
+
+Edit2
+0
+
+Edit3
+0
+
+AcceptButton
+Создать
+
+CancelButton
+Отмена
+
+GroupBox2
+Координаты центра
+
+RB1
+Середина участка съемки
+
+RB2
+Маркер
+
+RB3
+Середина рабочего окна
+
+RB4
+Ввести вручную
+
+Panel1
+
+Label5
+%
+
+GapVal
+
+AddGaps
+Разрывы по краям
+
+//
+FKnotList
+Генераторные петли ЗСБ
+
+AllKnots
+
+LButtonsPanel
+
+DelKn
+
+Удалить
+
+EditKn
+
+Редактировать
+
+ViewKn
+
+Показать на карте
+
+ShiftKn
+
+Сдвинуть
+
+//
+FSaveKnots
+Сохранить набор генераторных петель
+
+GroupBox1
+Перевести в маркеры
+
+doP
+Пикеты
+
+doK
+Углы петель
+
+doC
+Центры петель
+
+Button1
+Применить
+
+Button2
+Отмена
+
+GroupBox2
+Экспортировать результат
+
+DoTXT
+Текстовый файл
+
+DoGPX
+Файл *.gpx (GPS EXchange)
+
+DoBLN
+Файл Surfer *.bln
+
+Csys
+
+DoDel
+Удалить маркеры после сохранения
+
+//
+FKnotPickets
+Настройка пикетов для петель ЗСБ
+
+Img
+
+Panel1
+
+MainPC
+MainP
+EditorP
+
+MainP
+
+Label4
+
+
+GroupBox3
+Параметры расстановки пикетов
+
+Label2
+Предельное удаление от центра, м:
+
+Label13
+Тип расстановки:
+
+PktMethod
+
+PktPages
+T1
+T2
+T3
+T4
+T7
+
+TabSheet1
+
+Label1
+Шаг расстановки, м:
+
+l1
+
+Rdrop
+Спроецировать на профиль
+
+RouteBox
+
+TabSheet2
+
+Label5
+Шаг расстановки, м:
+
+Label6
+Продольный
+
+Label7
+Поперечный
+
+l2x
+
+l2y
+
+Drop2
+По азимуту петли
+
+TabSheet3
+
+Label3
+Шаг расстановки, м:
+
+Label8
+Шаг отступа луча, °
+
+l3
+
+a3
+
+DoRang
+От азимута расстановки
+
+DontRang
+От азимута петли
+
+TabSheet6
+
+Label11
+Выносы на каждый n-й пикет:
+
+Label10
+Продольный шаг, м
+
+Label12
+Поперечный шаг, м
+
+l4x
+
+l4y
+
+a4
+
+T7
+
+Label15
+Масштаб, %
+
+AddTemplate
+
+
+
+EditTemplate
+
+
+
+Deltemplate
+
+
+
+Label16
+Доп. поворот,°
+
+PktTemplates
+
+Scale5
+
+a5
+
+Drop5
+Азимут петли
+
+Lmax
+
+GroupBox2
+Имена пикетов
+
+Knex
+Test string value 1
+
+Knk
+
+Knk2
+
+Button2
+Отмена
+
+Button1
+Применить
+
+GroupBox1
+Настройки петель
+
+KnotLabel
+Сторона петли, м:
+
+lk
+
+Применить ко всем
+
+KnotSize
+
+PG
+T4
+T5
+
+TabSheet4
+
+Label9
+Азимут петли,°
+
+Label14
+Азимут расстановки,°
+
+SetKnAng
+
+SetRtAng
+
+TabSheet5
+
+Label20
+°
+
+KnotAngRoute
+Азимут по ходу маршрута
+
+KnotAngOwn
+Задать вручную
+
+KnotAngAdd
+Прибавить к азимуту маршрута
+
+KnotAng
+
+EditorP
+
+Label17
+Внимание! Текущее положение точек соответствует нулевому азимуту расстановки.
+
+SpeedButton1
+
+
+
+SpeedButton2
+
+
+
+SpeedButton3
+
+
+
+SpeedButton4
+
+
+
+Label23
+Имя шаблона:
+
+Label24
+Пикеты:
+
+Button3
+Сохранить изменения
+
+Button4
+Сохранить как новый
+
+Button5
+Отмена
+
+ListBox1
+
+CoordPC
+Прямоугольные координаты
+Полярные координаты
+
+T10
+
+Bevel1
+
+Label21
+Отступ на Восток, м:
+
+Label22
+Отступ на Север, м:
+
+SpinEdit3
+
+SpinEdit4
+
+T11
+
+Bevel2
+
+Label18
+Расстояние от центра, м:
+
+Label19
+Дирекционный угол, °
+
+SpinEdit1
+
+SpinEdit2
+
+RadioButton1
+Прямоугольные координаты
+
+RadioButton2
+Полярные координаты
+
+ComboBox1
+
+Timer1
+
+//

@@ -1,0 +1,14 @@
+Change the Title of the Chart?
+Change the Axis Titles?
+Apply the legend Settings from File?
+Axis X Format differs from current! Accept new one?
+Unable to import settings from file 
+Axis Y Format differs from current! Accept new one?
+Apply the Settings of View?
+Apply the Chart Constraints?
+Apply the Window Size?
+Import the Chart Settings from File?
+Rewrite Existing file?
+Load File from String 
+(in case of cancelling the file would be open from the start)
+Unable to import settings from file 

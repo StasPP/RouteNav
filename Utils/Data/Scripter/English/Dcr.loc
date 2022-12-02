@@ -1,0 +1,35 @@
+Link to script file. Used with of without conditional operators before. Directory must be absolute or relevant for RouteNav directory.
+Send command to GPS (GNSS) device. Command strings are depend on chip consumer. Use # char in strings's start for sending HEX code.
+Set BaudRate for COM/USB port of GPS (GNSS) device.
+Set port refresh rate for GPS (GNSS) device. Parameter must be set in milliseconds (1 second is 1000 milliseconds).
+Get test string from GPS (GNSS). The first parameter 1 is timeout limit for test. The second parameter is control string (RMC or GLL for NMEA0183). In case of timeout the settings than changed by script will be reset to previous.
+Send command to AUX device. Command strings are depend on chip consumer. Use # char in strings's start for sending HEX code.
+Set BaudRate for COM/USB port of AUX device.
+Set port refresh rate for AUX device. Parameter must be set in milliseconds (1 second is 1000 milliseconds).
+Get test string from AUS device. The first parameter 1 is timeout limit for test. The second parameter is control string. In case of timeout the settings than changed by script will be reset to previous.
+Condition that will start operators in case of name of GPS (GNSS) device have substring with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of name of GPS (GNSS) device is similar with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of name of GPS (GNSS) device have NO substring with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of GPS (GNSS) device's port refresh rate is equal to the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port refresh rate is NOT equal to the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port refresh rate is larger than the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port refresh rate is less than the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port BaudRate is equal to the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port BaudRate is NOT equal to the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port BaudRate is larger than the parameter.
+Condition that will start operators in case of GPS (GNSS) device's port BaudRate is less than the parameter.
+Condition that will start operators in case of name of AUX device have substring with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of name of AUX device is similar with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of name of AUX device have NO substring with parameter. Parameter string is case-insensetive.
+Condition that will start operators in case of AUX device's port refresh rate is equal to the parameter.
+Condition that will start operators in case of AUX device's port refresh rate is NOT equal to the parameter.
+Condition that will start operators in case of AUX device's port refresh rate is larger than the parameter.
+Condition that will start operators in case of AUX device's port refresh rate is less than the parameter.
+Condition that will start operators in case of AUX device's port BaudRate is equal to the parameter.
+Condition that will start operators in case of AUX device's port BaudRate is NOT equal to the parameter.
+Condition that will start operators in case of AUX device's port BaudRate is larger than the parameter.
+Condition that will start operators in case of AUX device's port BaudRate is less than the parameter.
+Operator brackets: begin
+Operator brackets: end
+Comments (any string)
+

@@ -1,0 +1,1032 @@
+
+//
+Form1
+RouteNav: Геокалькулятор v.0.8
+
+Label12
+Геоид:
+
+SpeedButton8
+...
+
+
+Label13
+Геоид:
+
+SpeedButton9
+...
+
+
+SpeedButton4
+Загрузить
+
+
+SpeedButton1
+Загрузить
+
+
+SpeedButton2
+Сохранить
+
+
+SpeedButton3
+Сохранить
+
+
+SpeedButton5
+
+
+
+SpeedButton6
+
+
+
+Geoid1
+
+Geoid2
+
+Button6
+<- Вычислить
+
+Button3
+Вычислить ->
+
+StringGrid1
+
+StringGrid2
+
+StatusBar1
+
+PageControl1
+От датума к датуму
+От СК к СК
+
+TabSheet1
+
+Label5
+*Зона будет закреплена при конвертацию в эту систему координат
+
+Label7
+*Зона будет закреплена при конвертацию в эту систему коодринат
+
+RadioGroup1
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+ListBox1
+
+ListBox2
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+SpinEdit1
+
+CheckBox1
+Задать зону
+
+CheckBox2
+Задать зону
+
+SpinEdit2
+
+TabSheet2
+
+ListBox4
+
+ComboBox1
+
+ListBox5
+
+ComboBox2
+
+ProgressBar1
+
+ProgressBar2
+
+Panel1
+
+Shape1
+
+Label1
+
+
+Label2
+
+
+Label3
+
+
+Label4
+
+
+Label6
+
+
+SpeedButton7
+<
+
+
+Label8
+
+
+Label9
+
+
+Label10
+
+
+Label11
+РЕЖИМ РАСШИРЕННОЙ ОТЛАДКИ
+
+Edit1
+54,5
+
+Edit2
+83,5
+
+Edit3
+0
+
+Edit4
+0
+
+Edit5
+0
+
+Edit6
+0
+
+Edit7
+0
+
+Edit8
+0
+
+Button4
+testFile
+
+Button1
+WGS to SK42
+
+Button2
+SK42 to WGS
+
+Edit9
+0
+
+Edit10
+0
+
+Button10
+UTM to WGS
+
+ListBox3
+
+Button5
+Refresh
+
+Button7
+WGS TO GSK
+
+CheckBox3
+Южное полушарие
+
+Button8
+To MSK54-4
+
+Button9
+Пересчитать по выбранным СК с сохранением остальных столбцов
+
+RS
+Разделитель десятичного числа
+,
+.
+
+LangBox
+
+Panel2
+
+Image1
+
+Panel4
+
+SpeedButton10
+Формат...
+
+ComboBox3
+
+ShowLitera
+N/S/E/W
+
+RS1
+
+RS2
+
+CheckBox4
+Не переводить высоты
+
+OpenDialog1
+
+SaveDialog1
+
+PopupMenu1
+
+N1
+Редактировать системы координат
+
+N4
+Поиск СК
+
+PopupMenu2
+
+MenuItem1
+Редактировать системы координат
+
+N5
+Поиск СК
+
+PopupMenu3
+
+N2
+Редактировать датумы
+
+PopupMenu4
+
+N3
+Редактировать датумы
+
+PopupMenu5
+
+P5N1
+Конвертировать в файл с сохранением дополнительных столбцов
+
+MainMenu1
+
+N6
+Файл
+
+N10
+Открыть файл (левая таблица)
+
+N11
+Открыть файл (правая таблица)
+
+N15
+Поиск системы координат (левая таблица)
+
+N16
+Поиск системы координат (правая таблица)
+
+N20
+Выбрать геоид (левая таблица)
+
+N21
+Выбрать геоид (правая таблица)
+
+N17
+Сохранить данные (левая таблица)
+
+N18
+Сохранить данные (правая таблица)
+
+N26
+Закрыть программу
+
+N7
+Правка
+
+N24
+Очистить левую таблицу
+
+N25
+Очистить правую таблицу
+
+N27
+Перевод координат левая -> правая
+
+N28
+Перевод координат правая -> левая
+
+N29
+Настроить формат вывода результата
+
+N8
+База данных
+
+N12
+Редактировать системы координат
+
+N13
+Редактировать датумы
+
+N14
+Редактировать эллипсоиды
+
+N9
+Инструменты
+
+N22
+Конвертация с сохранением столбцов (левая таблица)
+
+N23
+Локализация план-схемы
+
+N19
+О программе
+
+//
+Form2
+Параметры открываемого файла
+
+Label3
+Фрагмент результатов открытия файла при заданных настройках
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+StringGrid1
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RadioGroup1
+Разделители
+Пробелы
+Табуляция
+Другие
+Точки с запятой
+Запятые
+
+Edit1
+
+
+ValueList
+
+SpinEdit1
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+PopupMenu1
+
+N1
+Поиск системы координат
+
+//
+Form3
+Редактирование систем координиат
+
+Label1
+Название:
+
+Label2
+Уникальное имя:
+
+Label3
+Датум
+
+Label4
+Тип проекции:
+
+Label5
+Параметры:
+
+Label6
+Имя файла:
+
+Label7
+Категория:
+
+ComboBox1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Button1
+...
+
+ComboBox2
+
+Button2
+Создать
+
+Button3
+Сохранить изменения
+
+Button4
+Сброс
+
+ComboBox3
+
+ValueList
+
+Edit3
+
+
+Edit4
+
+Button5
+Удалить
+
+//
+Form4
+Редактирование датумов
+
+Label2
+Уникальное имя:
+
+Label1
+Название:
+
+Label6
+Имя файла:
+
+Label3
+Эллипсоид
+
+Label4
+Связь с другими датумами:
+
+Label5
+Параметры трансформации:
+
+Label7
+Датумы, связанные с выбранным:
+
+Edit1
+
+
+Edit2
+
+
+Edit3
+
+
+ComboBox1
+
+Button1
+...
+
+GroupBox1
+Режим "От датума к датуму":
+
+CheckBox1
+Разрешить пересчет в проекцию Гаусса-Крюгера
+
+CheckBox2
+Разрешить пересчет в UTM
+
+Button2
+Добавить
+
+Button3
+Создать
+
+Button4
+Сохранить изменения
+
+Button5
+Удалить
+
+Button6
+Сброс
+
+ListBox1
+
+ListBox2
+
+Button7
+Удалить
+
+ValueList
+
+Button8
+Сохранить
+
+Button9
+Сброс
+
+ListBox3
+
+//
+Form5
+Редактирование эллипсоидов
+
+Label6
+Имя файла:
+
+Label1
+Название:
+
+Label2
+Уникальное имя:
+
+Label3
+Большая полуось (a), метры:
+
+Label4
+Знаменатель сжатия (1/f):
+
+ListBox1
+
+Button1
+Сохранить
+
+Button2
+Сброс
+
+Button3
+Добавить
+
+Button4
+Удалить
+
+Edit3
+
+
+Edit2
+
+
+Edit1
+
+
+Edit4
+
+
+Edit5
+
+
+//
+Form6
+Поиск системы координат
+
+ListBox1
+
+Panel1
+
+Edit1
+Введите фрагмент имени для поиска
+
+//
+Form7
+Геоиды
+
+Image1
+
+Label2
+Уникальное имя:
+
+Label1
+Название:
+
+Label6
+Имя файла:
+
+Label3
+Описание:
+
+Shape1
+
+Bevel1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Edit3
+
+
+Button1
+Отмена
+
+Button2
+Выбрать
+
+Memo1
+
+//
+OpenTabFm
+Импорт данных
+
+Label1
+Начать со строки:
+
+Label2
+Предварительный просмотр:
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+StringGrid1
+
+SepG
+Разделители
+Пробелы
+Табуляция
+Другие
+Точки с запятой
+Запятые
+
+Edit1
+'
+
+ValueList
+
+SpinEdit1
+
+//
+LocForm
+Локализация план-схем
+
+GroupBox1
+Настройки локализации
+
+Label3
+Метод:
+
+Label1
+Допуск контроля, м:
+
+MB
+
+Sc1
+Одинаковый масштаб
+
+Button1
+Далее >>
+
+CheckBox2
+Промежуточная проекция
+
+ErrLimit
+0.01
+
+SH
+Одинаковая высота
+
+SK1
+СК с заданным исходным датумом
+
+Load1
+
+
+
+Save1
+
+
+
+Clear1
+
+
+
+CSCat
+
+CSNum
+
+StringGrid1
+
+SK2
+СК с определяемыми параметрами локализации
+
+Clear2
+
+
+
+Save2
+
+
+
+Load2
+
+
+
+Edit1
+План-схема (локальная прямоугольная СК)
+
+PlanKind
+
+StringGrid2
+
+OpenDialog1
+
+SaveDialog1
+
+//
+LocalizationFm
+Вычислить параметры локализации
+
+MainGrid
+
+Panel1
+
+Label1
+Итоговая погрешность, м:
+
+Label2
+dX:
+
+Label3
+dY:
+
+Label4
+dH:
+
+Isol
+Вычислить изолированные погрешности 
+
+Edit1
+0.0
+
+Panel2
+
+SaveButton
+Сохранить параметры локализации
+
+
+RefreshButton
+
+
+
+CloseButton
+Выход
+
+
+Edit2
+0.0
+
+Edit3
+0.0
+
+CAll
+
+COnly
+
+Panel3
+
+Bevel2
+
+ShowPan
+
+
+
+Label5
+Исходный датум:
+
+Bevel1
+
+Label6
+-
+
+Label7
+-
+
+Label8
+СК/Проекция:
+
+ValueList
+
+ImageList1
+
+//
+SaveLoc
+Сохранить параметры локализации
+
+Bevel2
+
+SaveButton
+Сохранить параметры локализации
+
+
+Label1
+ID-имя:
+
+Label2
+Заголовок:
+
+Label3
+Категория:
+
+Label4
+Тип:
+
+CloseButton
+Отмена
+
+
+Label5
+Исходный датум:
+
+Label6
+Исходная СК/проекция:
+
+Label7
+-
+
+Bevel1
+
+Label8
+-
+
+ValueList
+
+Edit1
+План-схема (локальная прямоугольная СК)
+
+PlanKind
+
+Edit2
+Local01
+
+Edit4
+Пользовательская локальная система координат
+
+ComboBox1
+
+//
+Form8
+Формат вывода координат
+
+GroupBox1
+Десятичные разделители
+
+RS1
+
+RS2
+
+GroupBox2
+Широта и долгота
+
+Label1
+Знаков после запятой:
+
+ShowLitera
+N/S/E/W
+
+ComboBox3
+
+ComboBox4
+
+GroupBox3
+Координаты в метрах
+
+Label2
+Знаков после запятой:
+
+ComboBox5
+
+Button1
+OK
+
+Button2
+Отмена
+
+GroupBox4
+Высоты
+
+Label3
+Знаков после запятой:
+
+ComboBox6
+
+CheckBox4
+Не переводить высоты
+
+//
+Form9
+Редактирование систем координат, датумов, эллипсоидов
+
+Label17
+ВНИМАНИЕ! Чтобы изменения систем координат вступили в силу для программ серии RouteNav/RouteEditor (и дополнительных утилит, входящих в программный пакет RouteNav), необходимо перезапустить их. 
+
+Image1
+
+GroupBox1
+Системы координат
+
+SpeedButton1
+Редактировать системы координат
+
+
+Label1
+Доступно: 
+
+Label2
+Проекция Гаусса-Крюгера: 
+
+Label3
+Проекция Меркатора: 
+
+Label4
+Локализация: 
+
+Label5
+Другие: 
+
+Label6
+0
+
+Label7
+0
+
+Label8
+0
+
+Label9
+0
+
+Label10
+0
+
+SpeedButton2
+Локализация план-схемы
+
+
+GroupBox2
+Датумы
+
+SpeedButton3
+Редактировать датумы
+
+
+Label11
+Доступно: 
+
+Label16
+0
+
+GroupBox3
+Эллипсоиды
+
+SpeedButton4
+Редактировать эллипсоиды
+
+
+Label12
+Доступно: 
+
+Label13
+0
+
+GroupBox4
+Геоиды
+
+SpeedButton5
+Доступные геоиды
+
+
+Label14
+Доступно: 
+
+Label15
+0
+
+LangBox
+
+//

@@ -1,0 +1,152 @@
+Krasowsky
+SK-42
+SK-95
+GOST R
+GOST
+Zone
+zone
+zone
+ E 
+ W 
+ N 
+ S 
+Cartesian coordinates
+Pulkovo
+Northern hemisphere
+Southern hemisphere
+Rectangular (Cartesian)
+Latitude
+Longtitude
+Gauss-Kruger
+SK42
+SK95
+ E 
+ W 
+ N 
+ S 
+Russian Federation Local Coordinate Systems
+Rectangular (Cartesian/ECEF) Coordinate Systems
+3 degree
+6 degree
+1.5 deg. zones
+6 deg. zones
+3 deg. zones
+Coordinate system 1963
+region
+MSK
+Republic
+Adygei
+Bashkortostan
+Buryat
+Altay
+Dagestan
+Ingushetia
+Kalmykia
+Karachai-Cherkess
+Karelia
+Komi
+Mari-El
+Mordovia
+Sakha (Yakutia)
+North Ossetia
+Tatarstan
+Udmurtia
+Chuvash
+Chechen
+kray
+Altaian
+Krasnodarsky
+Krasnoyarsky
+Primorie
+Stavropol
+Khabarovsky
+oblast'
+Arkhangel'skaya
+Astrakhanskaya
+Belgorodskaya
+Bryanskaya
+Vladimirskaya
+Volgogradskaya
+Vologodskaya
+Voronezhskaya
+Ivanovskaya
+Irkutskaya
+Kaliningradskaya
+Kaluzhskaya
+Kamchatsky
+Kemerovskaya
+Kirovskaya
+Kostromskaya
+Kurganskaya
+Leningradskaya
+Lipetskaya
+Magadanskaya
+Moskow and Moskowskaya
+Murmanskaya
+Nizhegorodskaya
+Novgorodskaya
+Novosibirskaya
+(new)
+Omskaya
+Orenburgskaya
+Orlovskaya
+Penzenskaya
+Permsky
+Rostovskaya
+Pskovskaya
+Ryazanskaya
+Samarskaya
+Saratovskaya
+Sakhalinskaya
+Sverdlovskaya
+Smolenskaya
+Tambovskaya
+Tverskaya
+Tomskaya
+Tul'skaya
+Tyumenskaya
+Local coordinate system
+Local fo Tyumen'saya obl.
+Ulyanovskaya
+Ckelyabinskaya
+Transbaikalia
+Yaroslavskaya
+Autonomous
+District
+Nenetsky
+Khanty-Mansy
+Chukotsky
+St. Petersburg
+Berdsk
+Iskitim
+Novosibirsk
+Kurskaya
+Moscow Local Coordinate system
+Kabardino-Balkaria
+Amurskaya
+Yugra
+based on
+GSK-2011
+PZ-90
+(for
+Localizations
+1 deg.
+min.
+Africa - North
+Africa - South
+Alaska and Biering Gulf
+Australia and New Zeland
+Canada
+Cental Asia
+China
+Japan and Korea
+Mexico and Carribean
+South America
+South-East Asia
+USA 
+Eastern Europe
+Western Europe
+Russia - West
+Russia - Urals and W. Siberia
+Russia - Baikal to Far East
+GAO2012

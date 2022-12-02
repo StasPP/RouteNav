@@ -1,0 +1,511 @@
+
+//
+Form1
+GeoFunctions: Геокалькулятор v.0.6
+
+Label12
+Геоид:
+
+SpeedButton8
+...
+
+
+Label13
+Геоид:
+
+SpeedButton9
+...
+
+
+SpeedButton4
+Загрузить
+
+
+SpeedButton1
+Загрузить
+
+
+SpeedButton2
+Сохранить
+
+
+SpeedButton3
+Сохранить
+
+
+SpeedButton5
+
+
+
+SpeedButton6
+
+
+
+Button6
+<- Вычислить
+
+Button3
+Вычислить ->
+
+StringGrid1
+
+StringGrid2
+
+StatusBar1
+
+PageControl1
+От датума к датуму
+От СК к СК
+
+TabSheet1
+
+Label5
+*Зона будет закреплена при конвертацию в эту систему координат
+
+Label7
+*Зона будет закреплена при конвертацию в эту систему коодринат
+
+RadioGroup1
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+ListBox1
+
+ListBox2
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+SpinEdit1
+
+CheckBox1
+Задать зону
+
+CheckBox2
+Задать зону
+
+SpinEdit2
+
+TabSheet2
+
+ListBox4
+
+ComboBox1
+
+ListBox5
+
+ComboBox2
+
+ComboBox3
+
+ProgressBar1
+
+ProgressBar2
+
+ShowLitera
+N/S/E/W
+
+Panel1
+
+Shape1
+
+Label1
+
+
+Label2
+
+
+Label3
+
+
+Label4
+
+
+Label6
+
+
+SpeedButton7
+<
+
+
+Label8
+
+
+Label9
+
+
+Label10
+
+
+Label11
+РЕЖИМ РАСШИРЕННОЙ ОТЛАДКИ
+
+Label12
+Геоид:
+
+Label13
+Геоид:
+
+Edit1
+54,5
+
+Edit2
+83,5
+
+Edit3
+0
+
+Edit4
+0
+
+Edit5
+0
+
+Edit6
+0
+
+Edit7
+0
+
+Edit8
+0
+
+Button4
+testFile
+
+Button1
+WGS to SK42
+
+Button2
+SK42 to WGS
+
+Edit9
+0
+
+Edit10
+0
+
+Button10
+UTM to WGS
+
+ListBox3
+
+Button5
+Refresh
+
+Button7
+WGS TO GSK
+
+CheckBox3
+Южное полушарие
+
+Button8
+To MSK54-4
+
+Button9
+Пересчитать по выбранным СК с сохранением остальных столбцов
+
+RS
+Разделитель десятичного числа
+,
+.
+
+CheckBox4
+Не переводить высоты
+
+N1
+Редактировать системы координат
+
+N4
+Поиск системы координат
+
+MenuItem1
+Редактировать системы координат
+
+N5
+Поиск системы координат
+
+N2
+Редактировать датумы
+
+N3
+Редактировать датумы
+
+P5N1
+Конвертировать файл с сохранением дополнительных столбцов
+
+//
+Form2
+Параметры открываемого файла
+
+Label3
+Фрагмент результатов открытия файла при заданных настройках
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+StringGrid1
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RadioGroup1
+Разделители
+Пробелы
+Табуляция
+Другие
+Точки с запятой
+Запятые
+
+Edit1
+
+
+ValueList
+
+SpinEdit1
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+N1
+Поиск системы координат
+
+//
+Form3
+Редактирование систем координиат
+
+Label1
+Название:
+
+Label2
+Уникальное имя:
+
+Label3
+Датум
+
+Label4
+Тип проекции:
+
+Label5
+Параметры:
+
+Label6
+Имя файла:
+
+Label7
+Категория:
+
+ComboBox1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Button1
+...
+
+ComboBox2
+Нет (Широта/Долгота)
+Нет (Геоцентрические координаты)
+Проекция Гаусса-Крюгера
+Проекция UTM, Северное полушарие
+Проекция UTM, Южное полушарие
+
+Button2
+Создать
+
+Button3
+Сохранить изменения
+
+Button4
+Сброс
+
+ComboBox3
+
+ValueList
+
+Edit3
+
+
+Edit4
+
+Button5
+Удалить
+
+//
+Form4
+Редактирование датумов
+
+Label2
+Уникальное имя:
+
+Label1
+Название:
+
+Label6
+Имя файла:
+
+Label3
+Эллипсоид
+
+Label4
+Связь с другими датумами:
+
+Label5
+Параметры трансформации:
+
+Label7
+Датумы, связанные с выбранным:
+
+Edit1
+
+
+Edit2
+
+
+Edit3
+
+
+ComboBox1
+
+Button1
+...
+
+GroupBox1
+Режим "От датума к датуму":
+
+CheckBox1
+Разрешить пересчет в проекцию Гаусса-Крюгера
+
+CheckBox2
+Разрешить пересчет в UTM
+
+Button2
+Добавить
+
+Button3
+Создать
+
+Button4
+Сохранить изменения
+
+Button5
+Удалить
+
+Button6
+Сброс
+
+ListBox1
+
+ListBox2
+
+Button7
+Удалить
+
+ValueList
+
+Button8
+Сохранить
+
+Button9
+Сброс
+
+ListBox3
+
+//
+Form5
+Редактирование эллипсоидов
+
+Label6
+Имя файла:
+
+Label1
+Название:
+
+Label2
+Уникальное имя:
+
+Label3
+Большая полуось (a), метры:
+
+Label4
+Знаменатель сжатия (1/f):
+
+ListBox1
+
+Button1
+Сохранить
+
+Button2
+Сброс
+
+Button3
+Добавить
+
+Button4
+Удалить
+
+Edit3
+
+
+Edit2
+
+
+Edit1
+
+
+Edit4
+
+
+Edit5
+
+
+//
+Form6
+Поиск системы координат
+
+ListBox1
+
+Edit1
+Введите фрагмент имени для поиска
+
+
+//

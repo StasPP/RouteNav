@@ -1,0 +1,21 @@
+$PSRF100,1,115200,8,1,0*0E //       GlobalSat 353 s4: Set   4800 Bps (DEFAULT)
+$PSRF100,1,115200,8,1,0*05 //       GlobalSat 353 s4: Set 115200 Bps
+$PSRF103,00,07,00,01*23 //          GlobalSat 353 s4: Set  1 Hz Rate (DEFAULT)
+$PSRF103,00,06,00,01*22 //          GlobalSat 353 s4: Set  5 Hz Rate
+---
+$PMTK251,4800*14 //                 GlobalSat 353 GLONASS: Set   4800 Bps (DEFAULT) 
+$PMTK251,115200*1F //               GlobalSat 353 GLONASS: Set 115200 Bps
+$PMTK220,1000*1F //                 GlobalSat 353 GLONASS: Set  1 Hz NMEA Rate (DEFAULT) 
+$PMTK220,200*2C //                  GlobalSat 353 GLONASS: Set  5 Hz NMEA Rate 
+$PMTK220,100*2F //                  GlobalSat 353 GLONASS: Set 10 Hz NMEA Rate 
+---
+$PUBX,41,1,0003,0003,9600,0*14 //   UBlox 6 Series: Set   9600 Bps (DEFAULT) 
+$PUBX,41,1,0003,0003,19200,0*21 //  UBlox 6 Series: Set  19200 Bps
+$PUBX,41,1,0003,0003,115200,0*1C // UBlox 6 Series: Set 115200 Bps
+# B5 62 06 08 06 00 E8 03 01 00 01 00 01 39 // UBlox 6 Series: Set   1 Hz NMEA (Default)
+# B5 62 06 08 06 00 F4 01 01 00 01 00 0B 77 // UBlox 6 Series: Set   2 Hz NMEA 
+# B5 62 06 08 06 00 C8 00 01 00 01 00 DE 6A // UBlox 6 Series: Set   5 Hz NMEA 
+# B5 62 06 08 06 00 64 00 01 00 01 00 7A 12 // UBlox 6 Series: Set  10 Hz NMEA  
+---
+$PUBX,41,1,0007,0003,19200,0*25 //  UBlox M8 Series: Set 19200 Bps
+---

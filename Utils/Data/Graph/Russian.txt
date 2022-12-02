@@ -1,0 +1,687 @@
+Графики v. 1.2
+Выберите график
+Комментарий
+//
+Form1
+RefreshButton2
+Построить графики
+
+//
+Form1
+Label9
+Конец:
+//
+Form1
+Label8
+Начало:
+//
+Form1
+Label7
+Имя:
+//
+Form1
+Label6
+Ось абсцисс (X):
+//
+Form1
+Label5
+Имя:
+//
+Form1
+Label4
+Конец:
+//
+Form1
+Label3
+Ось ординат (Y):
+//
+Form1
+Label2
+Начало:
+//
+Form1
+Label18
+Начать со строки:
+//
+Form1
+Label17
+Номер п/п
+//
+Form1
+Label16
+Тип:
+//
+Form1
+Label15
+Параметры графиков:
+//
+Form1
+Label14
+Формат данных Y:
+//
+Form1
+Label13
+Формат данных X:
+//
+Form1
+Label12
+Столбец значений Y:
+//
+Form1
+Label10
+Параметры данных:
+//
+Form1
+Label1
+Заголовок:
+//
+Form1
+Label27
+Мин. цена деления:
+//
+Form1
+Label28
+Мин. цена деления:
+//
+Form1
+HidePan1
+
+Закрыть панель
+//
+Form1
+Label29
+Размер шрифта:
+//
+Form1
+Label30
+Заголовок:
+//
+Form1
+Label31
+Имена осей:
+//
+Form1
+Label32
+Значения:
+//
+Form1
+Label21
+Формат времени:
+//
+Form1
+Label11
+Формат даты:
+//
+Form1
+DoXCol
+Столбец значений X 
+//
+Form1
+YFormat
+Число
+Град Мин Сек
+Дата и время
+Дата
+Время
+
+//
+Form1
+Xformat
+Число
+Град Мин Сек
+Дата и время
+Дата
+Время
+//
+Form1
+GraphTypes
+Линейные
+Точечные
+Площадные
+//
+Form1
+DoTearXY
+Разрывы если dY >:
+//
+Form1
+DoTearByX
+Разрывы если dX >:
+//
+Form1
+DotandZpt
+Заменять точки и запятые при необходимости
+//
+Form1
+DoNameCol
+Столбец с именами
+//
+Form1
+ShowLegend
+Показать легенду
+//
+Form1
+AutoLim
+Задать пределы автоматически
+//
+Form1
+Anim
+Отрисовывать постепенно
+//
+Form1
+LegendPos
+Справа
+Слева
+Внизу
+Вверху
+
+//
+Form1
+VY
+  
+лет
+суток
+дней
+часов
+минут
+секунд
+град
+'
+''
+раз (тек/пред)
+//
+Form1
+VX
+  
+лет
+суток
+часов
+минут
+секунд
+град
+'
+''
+раз (тек/пред)
+
+//
+Form1
+MapMode
+Режим карты
+//
+Form1
+DoLabelCol
+Столбец меток: 
+//
+Form1
+Hold1
+Закрепить границы
+//
+Form1
+StatusLabel
+Показаны первые 150 строк
+//
+Form1
+HidePan2
+
+Закрыть панель
+//
+Form1
+ScrPanel2
+
+
+//
+Form1
+ShowAllFile
+Показать весь файл
+
+//
+Form1
+ScrPanel
+
+Свернуть/развернуть панель
+//
+Form1
+_label
+Подпрограмма для построения графиков Версия 1.0
+//
+Form1
+BL2
+  Окна
+//
+Form1
+BH2
+
+//
+Form1
+NoWrite
+Доступ ограничен
+//
+Form1
+ShowTextFile
+
+Файл данных
+//
+Form1
+ShowSettings
+
+Настройки
+//
+Form1
+ShowDataRows
+
+Ряды данных
+//
+Form1
+StyleWin
+
+Панель настроек стиля
+//
+Form1
+ZoomInB
+
+Увеличить масштаб
+//
+Form1
+ZoomOutB
+
+Уменьшить масштаб
+//
+Form1
+ResZoom
+
+Сброс масштаба
+//
+Form1
+DoSquare
+
+Выровнять масштаб по осям (F3)
+//
+Form1
+BL3
+  Навигация
+//
+Form1
+BH3
+
+//
+Form1
+Unblock
+
+Снять блокировку
+//
+Form1
+OpenTabFile
+
+Открыть набор данных
+//
+Form1
+AddData
+
+Добавить данные
+//
+Form1
+OpenSetFile
+
+Открыть настройки графиков
+//
+Form1
+SaveSet
+
+Сохранить настройки графиков
+//
+Form1
+Refresh
+
+Обновить графики (F5)
+//
+Form1
+BL1
+  Данные
+//
+Form1
+BH1
+
+//
+Form1
+ShowXYB
+
+Линейка
+//
+Form1
+SaveImg
+
+Сохранить графики как изображение (F2)
+//
+Form1
+BL4
+  Инструменты
+//
+Form1
+BH4
+
+//
+Form1
+Comments
+
+Комментарии
+//
+Form1
+BL5
+  Графики
+//
+Form1
+BH5
+
+//
+Form1
+SaveGraph
+
+Сохранить графики
+//
+Form1
+AddGraph
+
+Загрузить (добавить) графики
+//
+Form1
+ResetAll
+
+Очистить графики
+//
+Form1
+BL6
+  Меню
+//
+Form1
+BH6
+
+//
+Form1
+KeepP3
+
+//
+Form1
+Label19
+Ряды данных:
+//
+Form1
+BUp
+
+Поместить выше
+//
+Form1
+BDown
+
+Поместить ниже
+//
+Form1
+DelSeries
+
+Удалить элемент
+//
+Form1
+SortAz
+
+Упорядочить
+//
+Form1
+HidePan5
+
+Закрыть панель
+//
+Form1
+CheckUncheck
+
+Показать/Скрыть Всё
+//
+Form1
+Label22
+Точки:
+//
+Form1
+Label20
+Настройка  выбранного:
+//
+Form1
+Label23
+Прочее:
+//
+Form1
+Label24
+Размер:
+//
+Form1
+Label25
+Тип:
+//
+Form1
+Label26
+Толщина линий:
+//
+Form1
+ScolorLabel
+Цвет:
+//
+Form1
+SNameLabel
+Имя:
+//
+Form1
+SShow
+Подписи данных
+//
+Form1
+ShoDots
+Показать точки
+//
+Form1
+ShowBorder
+Бордюр
+//
+Form1
+ShowDotBorder
+Бордюр (для точек)
+//
+Form1
+SStairs
+Ступени
+//
+Form1
+Panel10C
+
+//
+Form1
+BL7
+ Управление линейкой
+//
+Form1
+BH7
++
+//
+Form1
+PickGraph2
+Притягивать к отдельному графику
+//
+Form1
+StyleLabel
+Цвет фона:
+//
+Form1
+Label36
+Шрифт значений/легенды:
+//
+Form1
+Label37
+Шрифт заголовка:
+//
+Form1
+Label38
+Значения:
+//
+Form1
+Label39
+Имена осей:
+//
+Form1
+Label40
+Заголовок:
+//
+Form1
+Label41
+Легенда:
+//
+Form1
+HidePan13
+
+Закрыть панель
+//
+Form1
+Label42
+X1:
+//
+Form1
+Label43
+X2:
+//
+Form1
+Label44
+Y1:
+//
+Form1
+Label45
+Y2:
+//
+Form1
+Label46
+Минимальная цена деления
+//
+Form1
+Label47
+Y:
+//
+Form1
+Label48
+X:
+//
+Form1
+Label53
+x
+//
+Form1
+ShowLeg2
+Показать легенду
+//
+Form1
+StyleBox
+Белый
+Кремовый
+Серый
+Системный
+//
+Form1
+LegPos2
+Справа
+Слева
+Внизу
+Вверху
+//
+Form1
+ALim2
+Задать пределы графика вручную
+//
+Form1
+Hold2
+(закрепить)
+//
+Form1
+WSS
+Закрепить размер окна
+//
+Form1
+HidePan11
+
+Закрыть панель
+//
+Form1
+Label33
+Комментарии:
+//
+Form1
+AcceptComm
+
+Принять изменения
+//
+Form1
+DeleteComm
+
+Удалить комментарий
+//
+Form1
+CommTextLabel
+Текст комментария:
+//
+Form1
+Label35
+Положение:
+//
+Form1
+CommXLabel
+X:
+//
+Form1
+CommYLabel
+Y:
+//
+Form1
+CommArrowLabel
+Шрифт:
+//
+Form1
+CommFontLabel
+Высота сноски:
+//
+Form1
+Label34
+Фон:
+//
+Form1
+Label49
+Размер:
+//
+Form1
+Label50
+Точки:
+//
+Form1
+Label51
+Цвет:
+//
+Form1
+Label52
+Тип:
+//
+Form1
+ShowComms
+Показать комментарии
+//
+Form1
+PickGraph
+Притягивать к отдельному графику
+//
+Form1
+Label54
+Новый комментарий
+//
+Form1
+Label55
+Разрывы
+//
+Form2a
+F2Label
+ВНИМАНИЕ! Чтобы притягивать маркер к точкам всех видимых графиков, зажмите Ctrl (привязка к ближайшим точкам) или Shift (к ближайшим отрезкам). При этом режим привязки к отдельному графику необходимо отключить.
+//
+Form2a
+PickPar
+Параметры привязки
+Привязать к ближайшей точке
+Спроецировать на ближайший отрезок
+//

@@ -1,0 +1,619 @@
+Language
+Mode
+Realtime Fly
+Emulation (play GPS file)
+Automatic Mode
+Output Coordinate system
+Gauss-Kruger (Pulkovo 1942) 
+South hemisphere
+Set zone automatically 
+Zone number:
+Clear current GPS observations
+Load configuration
+Save configuration
+Cancel
+OK
+Connection with receiver
+Port refresh rate, ms
+Joystick
+Connected
+Status
+Redefine buttons
+Connection test...
+Routes File:
+Data separators
+Space
+Another
+Routes fly order
+in consecutive order
+consecutive with step i
+Switches with step i
+Input file Coordinate system:
+Base coordinates
+Set automatically
+Enter manually
+Disconnected
+Base coordinates in WGS-84
+Choose from List
+Start from
+First
+Nearest
+Show frame (if available)
+Route Start/End format
+In a single string
+Odd/even strings
+By markers 'a' and 'b'
+Fly estimation criteria
+Maximum distance, m:
+Reset current routes
+GPS File:
+Load files with continuation parts*
+*Files, must be situated in same directory and have the same name with selected one with endings '_N', where N = 1, 2, 3, ...
+Image settings
+Smooth lines
+Bold lines
+Track settings
+Hide
+Crop over 1000 points
+Optimize
+Big size
+Icons
+Sensors
+Colors
+Background:
+Mesh:
+Cursor:
+Track:
+Routes:
+Done routes:
+Active route:
+Choosed/base/frame:
+Yawing limits:
+Interface:
+Choosed menus:
+Additional elements
+Mesh
+Scale line
+Additional info
+Start program in full screen (F2)
+Allow mouse control
+Autoload settings on every start:
+Main
+Connection with GPS
+Project Routes
+Play file (Fly Emulation)
+Raster Maps
+Graphics etc.
+RouteNav: Navigation Software for Aerial Geophysics
+Version:
+Close the program (F12)
+Background maps (form ASDB files)
+Show raster
+Alpha-blend raster
+ATTENTION!
+Rasters (with geographic information) must be prepared by special utility program. Click on the button below to start the program
+Prepare rasters utility
+Settings
+Automode Settings
+Waiting (speed less than 10 kmph)
+Scale
+Orientation
+Fly to area / to base
+Routes passing
+Distance for start Following mode, m:
+Go from route to route
+Action in case of maximal distance violation
+Ask with message
+Refly current route again
+Ignore until the distantion less than...
+Change current route to nearest one
+Accept
+Cancel
+Stop expectation
+Waiting for signal from port...
+SUCCESS!
+Recomended the same Coordinate system for view and routes
+Do you want to Accept the same systems?
+
+Draw mesh with dash lines?
+Redefine joystick buttons
+Button 
+ACTION button (the same as Enter key):
+CANCEL button (the same as Esc key):
+Move map*:
+Change scale*:
+Turn on/off the AutoMode:
+Show arrow to the next route:
+*Move map button and scale change button are used with joystic axis keys/ left rod
+*Map can be moved only on MapView Fly Mode
+Push any button on joystick
+Show/hide/crop track:
+Define
+Accept
+Cancel
+
+Zone (projection): 
+Satellites: 
+GPS Time: 
+Current path:
+Full path:
+Move the map by mouse using
+Left Mouse Button or W S A D keys
+Maximum distance to route exceeded
+Refly the current route
+Route is already done. Refly again?
+Distance is out of limit. Continue folowing route?
+Base is reached
+All routes are done
+Files added: 
+Invalid file format! Check the settings and try again.
+Speed: 
+ km/h
+Azimuth: 
+Altitude(A): 
+ m
+Fly Mode: 
+Scale: 
+Current: 
+Next:  
+ km
+From current: 
+AutoMode: 
+ON
+OFF
+Refly the current
+Jump to the nearest
+Continue folowing
+Fly again
+route
+the current route
+Route 
+Status: 
+ not done
+ current
+ done (ok)
+ done (low)
+Fly again
+Cancel
+To routes
+To base
+Continue fly
+End navigation
+(Go back to area)
+(View map, Auto: off)
+Fly a route again
+Return to base
+Turn AutoMode off
+Map View
+Go to Survey Site
+Follow the Route
+Return to Base
+VIEW
+SITE
+FLW
+BASE
+(orientation on North)
+(orientation on azimuth)
+(orientation on route)
+Smooth azimuth and altitudes output
+Loading Data
+Reconnection to receiver:
+Button 7 + Button 8 + Button 9 + Button 10
+Button 1 + Button 3 + Button 5
+Button 1 + Button 2 + Button 3 + Button 4
+ (North)
+ (Az.)
+ (Route) 
+ not done
+ Ok
+ low
+ From "to survey site" mode:
+ From "from route to routes":
+Show slips
+Filtering GPS data...
+Loading raster maps...
+Show/hide Raster maps:
+Next: 
+Zoom limits:
+The order of rasters in the list sets the order of their rendering
+
+_E
+Datums
+Coordinate systems
+Kind of coordinates
+Latitude/Longtitude
+ECEF Coordinates
+Gauss-Kruger
+UTM - North 
+UTM - South
+Format properties
+Start string:
+Open
+Cancel
+Datatable preview
+Variable
+Column
+Name
+Latitude B, 
+Longtitude L, 
+X, m
+Y, m
+Z, m
+North, m
+South, m
+North/South, m
+East/West, m
+West, m
+East, m
+Open Routes file
+Open Routes
+Create routes (launch utility)
+Launch GeoCalculator
+Loaded Routes
+Markers
+Delete 
+Add marker
+Move base here
+Lat/Long (WGS-84):
+Marker file name:
+Marker's caption:
+HINT: You can add and delete markers by Right Mouse Button clicking in MapView Mode
+New mark
+Rewrite
+Delete
+Rewrite already existig file:
+Save changes in markers?
+Invert order
+Last in list
+Name
+Start B
+Start L
+End B
+End L
+Status
+Start from choosed
+Make choosed not done
+Make choosed Done (ok)
+Make choosed Done (low)
+Enter New Coordinates
+*Changed coordinates will be returned in WGS-84
+R: 
+Deviations
+Protocol:
+Warning conditions 
+Maximum speed, kmph
+Optimal altitude (RA), m
+AUX Data
+Port COM
+Aux Data Input
+Enable AUX Data
+AUX Data kind
+Radio Altimeter
+Laser Altimeter
+Contains AUX Data
+(LA), m
+Altitude(R):
+Altitude(L):
+Alt.(A):
+Alt.(R):
+Alt.(L):
+Altitude
+Fill active route zone
+Filter Data (recommended)
+Loading GPS file
+Compute by coords
+Imitate (precompute) file
+Compute and draw arc to the next route
+Arc radius, m
+Draw normal to the route
+Program start settings
+Azimuths processing
+Route-to-route navigation
+From route
+From current position
+From observations
+Debugging
+Show FPS
+Routes linear deviations report
+Show when program being closed
+Name   	Start     	End        	Lin.dev.(RMS)	Bad Heights
+*From wrong route
+Emulation mode. File name:
+Analyse
+Utilites Manager
+Enabled COM-Ports
+Refresh
+Registration form
+Device ID:
+Serial Key:
+Contact your software vendor for serial number for current device with your ID. If this copy of RouteNav software was installed from CD use the key from CD cover or CD box.
+Wrong Serial key!
+Warning! You can use the unregistered program only before 
+Demonstration date is out. You can't use the software anymore until getting the serial key for it.
+Register
+The program is registered successfully
+Fast options panel
+Show/hide Info panels
+Show/crop/hide trajectory
+Show/hide raster background maps
+Show/hide altitude control panel
+Reconnect to GNSS-receiver
+Reconnect to AUX (altimeters)
+Restart script 
+Labels size/details
+Tutorial Mode
+ 
+ 
+Open the main settings window
+Exit Tutorial Mode 
+Tut.
+ 
+Free Navigation
+FREE
+Ask to return to base if distance from routes (m) more than:
+Show Altimeter (Line) Panel
+Choosed in menu
+Radio Altimeter only
+Laser Altimeter only
+AUX data can be received in realtime mode only. Switch working mode to realtime?
+Import from GoogleMaps
+Next
+done 
+Same name
+Cursor size
+New configuration
+Open Settings
+Precise angle
+Welcome Menu
+New Configuration Wizard
+Advanced settings...
+Configuration File Name:
+Altimeters and other devices
+Raster maps or space images for background
+Additional
+Next >>
+<< Previous
+Finish
+Show the loaded routes
+Switch Navigation Modes 
+Template:
+Configuration is ready. Check all the settings one more time before pressing "Finish" button.
+Configuration File Name
+Main Settings
+GPS-receiver connection
+Play (Emulate) fly
+Routes File
+Routes Following
+Routes Following (page 2)
+Altimeters and other devices
+Altitude Estimation
+Maps/space images for backround
+Markers
+Set Controls
+Graphics
+Graphics (page 2)
+Base point
+Final step
+Speed Limit
+(Import from configuration file...)
+Sensors (Font size)
+Show arrow to next route when finishing current
+by radio-altimeter
+by laser altimeter
+Save changes (routes status)
+Save changes (routes status)
+Choose from list
+Base sites
+New
+Edit
+Delete
+OK
+Cancel
+Enter the station name
+Station data
+(STARTING)
+(FOLLOWING)
+Minimize window
+Maximize window
+Dual screen mode...
+Dual screen settings
+Enable Dual-screen Mode
+Enable Dual-screen on every start (if it's possible)
+Screen name:
+Viewer window refresh rate, ms:
+Screen 
+Hold cursor on the Main Screen
+Info
+Window Always on Top
+Faster if Mouse on Screen
+Intermediate Scale 
+Second GPS Receiver
+Grid Azmt:
+GA:
+Az:
+H(A): 
+H(R): 
+H(L): 
+HA:
+HR:
+HL:
+M0: 
+D: 
+M1: 
+MD: 
+Spd: 
+L
+R
+Autosearch COM
+Autosearch properties...
+Settings of COM Autosearcing
+Search Device by Name
+Options
+Answer Timeout, s
+Ask user's confirmation
+Search COMs
+Only visible (system reg)
+Set port numbers
+All ports (1..256)
+Finding criteria
+NMEA0183 Format
+AUX Protocol Format
+Special keyword
+Any data
+Keyword:
+Ok
+Cancel
+Pause
+Continue
+The Device COM Port not found
+Apply
+Stop the process?
+Searching COM-Port...
+Device:
+Current:
+Criteria:
+Other settings:
+COM-Ports list
+Test Baudrates
+Received strings:
+Ask confirmation when found
+Prevous
+Next
+Exit
+About
+Launch with script
+Script Editor
+Scripting
+Ready. Window will close in: 
+Don't close
+File must have *.rts format. Convert into it?
+Do not save
+Save to the new file (same dir)
+Save to the same file
+File not found:
+Routes file not found: 
+Script file not found: 
+NMEA/GPS file not found: 
+Search directory: 
+Search in another directory?
+Save changes?
+Configuration is not copletely opened. One or more files are not found.
+Change file directory
+File name:
+New folder:
+Ok
+Cancel
+One or more of Raster map files not found. Set another directory to each? 
+On first start only
+Start script now
+Test settings
+The COM is unavailable. Continue the script?
+Units
+Distantion:
+Speed:
+Meters + kilometers
+Meters (priority)
+Kilometers (priority)
+Miles + Yards + Feet
+Miles + Feet
+Kilometers per hour
+Miles per hour
+Knots
+Meters per second
+Feet per second
+m
+km
+mi
+ft
+km/h
+mi/h
+kn
+m/s
+ft/s
+yd
+
+Lines thickness:
+Directions
+Arrows only
+Precise aiming for points
+Precise aiming always
+Window Scale
+Launch RouteEditor
+R to ON/OFF Ruler mode
+Summary length:
+The route started not from begin!
+Wrong direction!
+Reverse and fly
+Ignore
+Refly again
+Action in case of wrong direction on route
+Ask with message
+Refly the route
+Reverse the route
+Ignore
+Action in case of starting route not from start
+Ask with message
+Continue the route
+Refly the route
+Show on map done/not done parts of routes
+Full routes done only
+Manual rules (flight real-time imitation)
+Manual rules 
+TUTORIAL MODE
+Denied due the route tracing
+No coordinates data
+Tutorial Example Routes: generation settings
+ATTENTION! Example routes being created automatically when Tutorial mode enter. To activate the Tutorial mode use the fast menu or Ctrl+U keys. The mode available only out of working routes and following mode and when the initial GNSS coordinates are known.
+Example routes amount:
+Distance between the routes, m:
+Distance from start point, m:
+Automaticaly exit the tutorial mode 
+Accept
+Reset
+Tutorial Example Routes
+Routes length, m:
+Simple (fast) output
+Show full track
+AUX Altitude limits, m
+Hide the mouse cursor when it's inactive
+Full screen/Windowed
+On/off Dualscreen
+Show additional info (coordinates, time etc.)? In case of decline the satellites number and HDOP only will be showed. 
+Main window
+FullScreen
+Smooth position output
+Off (no smooth)
+Behind last position
+Predict new position
+The linear parallel routes are detected with the distance between them: 
+Recomended maximum tracing distance value is: 
+Apply the recomendation?
+
+(user's preset)
+Enter the preset name
+New preset
+Rewrite the existing preset with the same name?
+Delete the preset?
+Keep the route on the screen by reducing the scale
+2x Route Max Distance
+Action in case of all Routes Distance overlimit (m)
+Return to base
+On the axis of route only
+RouteNav is already running. Continue starting new one?
+
+Routes survey direction
+Any direction always
+Set in file (*.rts only)
+Fixed start-to-end always
+UP!
+Stretch
+Alarm in case of low altitude
+Indent, m
+Go to base automatically if all the routes finished
+Fly to area mode in case of the distance to current route more than
+Exit from the mode
+Precise Start Only
+ERROR!
+Approximated position
+COORDINATES TRANSFORMATION ERROR!   CHECK THE SETTINGS
+Check Coordinates

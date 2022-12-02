@@ -1,0 +1,3618 @@
+
+//
+MapFm
+Route Editor
+
+Stats
+
+Comments
+
+
+EX
+
+EY
+
+Csys
+
+EZ
+
+NavPanel
+
+JumpXY
+
+Go to coordinates (move flag)
+
+JumpRoutes
+
+Go to the routes
+
+JumpBase
+
+Go to the flag
+
+DopPan
+
+m1
+
+Multi-selection (Shift)
+
+m2
+
+Add to selected (Ctrl)
+
+m3
+
+Subtract from selected (Alt)
+
+DopPan2
+
+m4
+
+Magnet to point
+
+DopPan3
+
+m5
+
+Project to frame
+
+DopPan4
+
+m6
+
+Delete (Del)
+
+DopPan5
+
+m7
+
+Project to route
+
+DopPan6
+
+JumpTrack
+
+Go to track
+
+ScrPanel
+
+ScreenShot
+
+Save Screenshot
+
+SetB
+
+Settings
+
+Refreshbtn
+
+Recompute coordinates
+
+Ruler
+
+Ruler Tool
+
+StatBtn
+
+Statistics
+
+Tools
+
+PC
+Main
+Split survey area
+Edit markers
+Edit routes
+Fligth imitation
+Tracks
+GoogleMaps
+YandexMaps
+
+POptions
+
+B1
+
+Move Map
+
+B4
+
+Load routes
+
+B4a
+
+Reset routes
+
+B5a
+
+Load raster maps
+
+B5c
+
+Reset raster maps
+
+B4b
+
+Save routes
+
+B4d
+
+Save routes as... 
+
+Label9
+Blending:
+
+Bm1
+
+Load markers
+
+Bm3
+
+Reset markers
+
+B4c
+
+Routes info
+
+AGoogle2
+
+Auto-download GoogleMaps
+
+Bm2
+
+Save markers
+
+Blend
+
+TabSheet1
+
+B6a
+
+Load survey area frame
+
+B01
+
+Move map
+
+B6c
+
+Save routes
+
+B6b
+
+Split the survey area
+
+Label1
+Interval, m:
+
+Label2
+Angle,∞
+
+Label5
+Numbers from:
+
+PrevS
+
+Choose start-side
+
+NextS
+
+Choose start-side
+
+Label8
+Indent, m:
+
+Step
+
+Deg
+
+NUm0
+
+AdvSplit
+Advanced
+
+Extra
+Add extra-route after the end
+
+Extra2
+Fixed Routes Directions
+
+Extra3
+Invert Odd/even Directions
+
+MinShift
+
+isMinL
+Min. length, m:
+
+MinL
+
+TabSheet3
+
+SpeedButton7
+
+Reset markers
+
+SpeedButton8
+
+Load markers
+
+B0001
+
+Move map
+
+SpeedButton9
+
+Split survey area
+
+SpeedButton10
+
+Save markers
+
+SpeedButton11
+
+Save routes
+
+LabelNA0
+NOT AVAILABLE YET! CHECK THE NEWEST VERSION!
+
+BrkRoutes
+
+Add equalled-step waypoints to route(s)
+
+MrkRoutes
+
+Make markers frow route(s)
+
+MList
+
+Marker List
+
+MarkRoute
+
+Create route from markers
+
+MarkFrame
+
+Create frame from markers
+
+DevStar
+
+Create calibration routes 
+
+MeleskButton
+
+Build Hgt Graph for Markers
+
+B31
+
+Edit markers
+
+B30
+
+TEM Transmitter loops editor
+
+KnotPanel
+
+KnotsNew
+
+Create loops by profiles (routes)
+
+KnotsOpen
+
+Load loops
+
+KnotsDestroy
+
+Clear loops
+
+KnotsSave
+
+Save loops
+
+KnotsToMarkers
+
+Cornvert to markers
+
+KnotsNew2
+
+Create loops within the area borders
+
+SaveKnotMarkers
+
+Save markers as TEM loops
+
+TabSheet2
+
+B001
+
+Move map
+
+SpeedButton3
+
+Save routes
+
+B25
+
+Add area frame
+
+B26
+
+Add route
+
+B21
+
+Edit frame
+
+B22
+
+Edit frame points
+
+B24
+
+Edit points of routes
+
+B23
+
+Edit routes
+
+EdW
+
+Show Object List
+
+B27
+
+Add points to frame
+
+B28
+
+Add points to routes
+
+UndoB
+
+Undo
+
+RedoB
+
+Redo
+
+OrdW
+
+Edit routes list
+
+B29
+
+Cut routes
+
+RouteBoxPan
+
+RouteBox
+
+TabSheet4
+
+SpeedButton6
+
+Load routes
+
+B00001
+
+Move map
+
+SpeedButton12
+
+Imitate flight track
+
+SpeedButton13
+
+Save track
+
+imiLabel1
+Min. radius, m:
+
+imiLabel3
+Step:
+
+imiLabel2
+Deviation, m:
+
+ImiRad
+
+imiSwicth
+loops
+
+imiStep
+
+imiAnim
+Animate
+
+imiRandom
+
+TabSheet5
+
+B000001
+
+Map move
+
+BNmea
+
+Import track from NMEA/GPX
+
+Btxt
+
+Import track from text table
+
+B40
+
+Show info for track points
+
+Bred
+
+Reduction
+
+Button2
+
+
+
+BDelTrack
+
+Reset track
+
+Rtops
+
+Operations with tracks
+
+Rinf
+
+Track info
+
+B41
+
+Routes and Tracks
+
+Rtt
+
+Load RTT/RTA files
+
+RttSave
+
+Save as RTT
+
+RTable
+
+Track points table
+
+RouteBoxPan2
+
+Estim
+
+Routes tracing Estimation 
+
+RouteBox2
+
+TabSheet6
+
+B0000001
+
+Map move
+
+B50
+
+Add GoogleMap tiles manually
+
+AGoogle
+
+Auto-download GoogleMap tiles
+
+B5b
+
+Save changes to raster map
+
+B5d
+
+Delete map tile
+
+B5e
+
+Image to ASDB (georeferencing utility)
+
+B5
+
+Select map tile
+
+GPan
+
+Label3
+Kind:
+
+GDownLoad
+
+Download
+
+GReset
+
+Reset
+
+Label4
+Scale:
+
+Label6
+Count:
+
+GStyle
+
+Gcount
+0
+
+Azoom
+(auto)
+
+GZoom
+
+TabSheet7
+
+B51
+
+Add Yandex-tiles manually
+
+B2b2
+
+Save Map
+
+B5d2
+
+Delete Tile
+
+B6
+
+Select Map tile
+
+AYandex
+
+Auto-download Yandex tiles
+
+B00000001
+
+Move Map
+
+Ypan
+
+Label7
+Kind:
+
+YDownload
+
+Download
+
+YReset
+
+Reset
+
+Label10
+Scale:
+
+Label11
+Count:
+
+Label12
+Language:
+
+Ystyle
+
+Ycount
+0
+
+YAZoom
+(auto)
+
+YZoom
+
+Ylang
+
+Canv
+
+CutPan
+
+Bcut
+
+Split (cut) routes
+
+Bres
+
+Reset
+
+InfCut
+Infinite cutting line
+
+RulPan
+
+RulReset
+
+Close Ruler Tool
+
+DelLast
+
+Delete last point
+
+Label13
+Points:
+
+Label14
+Full length, m:
+
+Label15
+On Ellipsoid, m:
+
+DoneLine
+
+√ÓÚÓ‚Ó
+
+DopRul
+
+Advanced
+
+Rlength
+
+Rcount
+
+REllLength
+
+RulPan2
+
+Label16
+Current , m:
+
+Label17
+Azimuth, ∞:
+
+Label18
+Directional angle, ∞:
+
+RCL
+
+ShowLength
+
+
+RCAZ
+
+ShowAzmt
+
+
+RCDA
+
+ApplyKnots
+
+Apply
+
+NoNewKnots
+
+Reset
+
+Label20
+∞
+
+KnotPts
+Settings
+
+
+Label23
+Pickets:
+
+Label21
+Naming format:
+
+Label24
+(Set the pickets)
+
+Label25
+0
+
+ShowPkts
+
+Show/hide pickets
+
+KnotAngRoute
+Azimuth as route has
+
+KnotAngOwn
+Set manually
+
+KnotAngAdd
+Add to route's azimuth
+
+KnotLabel
+Loop side, m:
+
+Label19
+Step, m:
+
+ShowNewKnots
+
+Show on the map
+
+KnotOutpos
+Indent, m:
+
+Checkmates
+
+Group Indent mode
+
+KnotContinue
+Continue after route's end
+
+Label29
+Grid settings:
+
+Label30
+Loop side, m:
+
+Label32
+Lengthwise, m:
+
+Label33
+Crosswise, m:
+
+Label34
+Azimuth, ∞:
+
+NewKnShift
+...
+Advanced settings
+
+ShowNewAreaKnots
+
+Show on the map
+
+Label22
+Row numbers from:
+
+SetKnNameLabel
+Row (profiles) name:
+
+SetKnAngLabel
+Azimuth, ∞
+
+SetKnSizeLabel
+Loop side, m:
+
+SetKnSizeLabel2
+Loop side 2, m:
+
+SStepLabel
+Corner points step, m:
+
+SetKnLLabel
+Loop number
+
+SetKnXY
+Coordinates of center
+
+
+SetKnNameKindLabel
+Naming format:
+
+SetKnPts
+Picket settings
+
+
+SCancelKn
+
+Reset
+
+SOkKn
+
+Apply
+
+SDelKn
+
+Delete
+
+SMoveKn
+
+Move the knot
+
+SViewKn
+
+Show on the map
+
+Label26
+(...)
+
+Label27
+Pickets:
+
+Label28
+0
+
+Label35
+North:
+
+Label36
+East:
+
+Label31
+Placement shift, m:
+
+Label37
+Profile Names:
+
+KnotAreaName
+Pr
+
+InvAreaOrder
+Invert rows order
+
+Label38
+Start numbers from:
+
+KnotsLTogether
+End-to-end numbering
+
+ShowDA
+
+
+OpenMaps
+
+PopupMenu3
+
+SaveR
+
+SaveR2
+
+PopupMenu1
+
+MenuItem1
+Add point
+
+OpenMarkers
+
+PopupMenu2
+
+MenuItem2
+Add marker
+
+N1
+Standard
+
+N2
+Routes
+
+N3
+Color analisys
+
+SaveGPS
+
+OpenNMEA
+
+OpenTXT
+
+Savejpg
+
+SaveM
+
+PopupMenu4
+
+extfiles1
+Text files
+
+SurferBlnusingPulkovo19421
+Surfer *.Bln (WGS-84 UTM)
+
+SurferBlnCS42GaussKruger1
+Surfer *.Bln (Pulkovo 1942 Gauss-Kruger)
+
+NavisGalsListlstWGS841
+Navis Gals List *.lst (WGS-84)
+
+Garmingpx1
+Garmin/GPS Exchange format *.gpx
+
+SaveBlN
+
+SaveLst
+
+PopupMenu6
+
+Doreload1
+Reload routes
+
+DoAdd1
+Add to existing
+
+PopupMenu7
+
+DoReload2
+Resplit the area 
+
+DoAdd2
+Add to existing
+
+PopupMenu8
+
+DoReaload3
+Reload track (clear existing)
+
+DoAdd3
+Add to existing
+
+DopAdd4
+Add track for comparising
+
+GoogleMaps1
+GoogleMaps
+
+YandexMaps1
+YandexMaps
+
+MenuItem3
+Create TEM loop
+
+MenuItem4
+Load new only
+
+MenuItem5
+Add to existing
+
+MenuItem6
+RouteNav *.rnk
+
+MenuItem7
+Text table *.txt
+
+Surferbln1
+Surfer *.bln
+
+GPSeXchange1
+GPS eXchange *.gpx
+
+//
+FLoadGPS
+Loading data...
+
+Panel1
+
+LCount
+1/1
+
+MapLoad
+Raster Map is being loaded...
+
+Label1
+Download...
+
+Label2
+Converting to Asdb...
+
+Label3
+Please wait...
+
+ProgressBar1
+
+//
+LoadRData
+Import file settings
+
+Label3
+Preview
+
+Button1
+Open
+
+Button2
+Cancel
+
+StringGrid1
+
+GroupBox2
+Format parameters
+
+Label1
+Start from:
+
+RSpacer
+Separators
+Space
+Tab
+Other
+;
+,
+
+Spacer
+
+
+ValueList
+
+SpinEdit1
+
+RoutesBE
+Start/end of route
+One sting
+Even/odd strings
+Label a, b in name
+Same name
+
+ValueList2
+
+PageControl1
+Datums
+Coordinate systems
+
+HgtTabIs
+Height
+No
+Orthometric
+Ellipsoid
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Kind
+Latitude/Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM (WGS84) - North
+UTM (WGS84) - South
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+OTSave
+
+Save the import template
+
+OTDel
+
+Delete the import template
+
+CheckGlobe
+?
+Check the coordinates
+
+//
+GeoCalcFm
+Geocalculator
+
+LabelZ
+LabelZ
+
+LabelY
+LabelY
+
+LabelX
+LabelX
+
+Label3
+New data will be returned in WGS-84
+
+PageControl1
+Datums
+Coordinate systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Kind
+Latitude/Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM (WGS84) - North
+UTM (WGS84) - South
+
+OTSave
+
+Save the import template
+
+OTDel
+
+Delete the import template
+
+CheckGlobe
+?
+Check the coordinates
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+EX
+
+
+EY
+
+
+EZ
+
+
+Button1
+OK
+
+Button2
+Cancel
+
+//
+HintForm
+Important information
+
+Image1
+
+BitBtn1
+Next
+Next
+
+Memo1
+
+//
+CSForm
+Choose the coordinate system
+
+Bevel1
+
+ComboBox2
+
+ListBox4
+
+Button1
+Accept
+
+//
+SaveTXTFm
+Save as TXT
+
+Bevel1
+
+Button1
+OK
+
+RSpacer
+Separators
+Space
+Tab
+Other
+;
+,
+
+RoutesBE
+Start/end of route
+One sting
+Even/odd strings
+Label a, b in name
+Same name
+
+Spacer
+
+
+Csys
+
+MarkH
+Save Heights
+
+DoHE
+Ellipsoidal H
+
+DoHGeo
+Orthometric H
+
+//
+MarkEd
+Edit coordinates
+
+Panel1
+
+BB1
+
+
+
+BB2
+
+
+
+Bevel1
+
+CCS
+...
+
+
+Label3
+B:
+
+Label4
+L:
+
+Label5
+X:
+
+Label6
+Y:
+
+Label7
+Z:
+
+SpeedButton1
+
+
+
+Button1
+Ok
+
+Button2
+Cancel
+
+Edit2
+N 000 00 00.00
+
+Edit3
+E 000 00 00.00
+
+Edit4
+
+
+Edit5
+
+
+Edit6
+
+
+label2
+WGS-84 Lat./Long.:
+
+RadioButton1
+Click to select CS
+
+Panel2
+
+Label1
+Name:
+
+Button3
+Delete marker
+
+Edit1
+*
+
+//
+EdWin
+Routes
+
+TreeView1
+
+ImageList1
+
+//
+Edtools
+Tools
+
+Bevel1
+
+BPos
+
+Change coordinates for point
+
+BName
+
+Rename route
+
+BShift
+
+Shift points
+
+BDel
+
+Delete
+
+CB
+
+
+Hgt
+
+Edit Altitude
+
+//
+Movep
+Move points
+
+Bevel1
+
+SpeedButton4
+
+
+
+Label1
+Step, m
+
+SpeedButton1
+
+
+
+SpeedButton3
+
+
+
+SpeedButton2
+
+
+
+StpEd
+
+//
+Namer
+Enter the name
+
+SpeedButton1
+OK
+
+
+Edit1
+
+
+//
+GetMapPos
+Approximated position
+
+Image1
+
+Image2
+
+Label2
+N 0 E 0
+
+Label3
+COORDINATES TRANSFORMATION ERROR!   CHECK THE SETTINGS
+
+Panel1
+
+Label1
+
+
+Button1
+OK
+
+//
+OrderW
+Edit Route List
+
+Panel1
+
+RUp
+
+Move above
+
+RDown
+
+Move below
+
+RInv
+
+Reverse order
+
+Panel2
+
+RRew
+
+Invert points order in route(s)
+
+RRnm
+
+Rename route
+
+RDel
+
+Delete route
+
+Collapse
+
+Unite routes
+
+Clone
+
+Copy route
+
+AddOrt
+
+Create orthogonal routes
+
+rHidden
+
+Visible/Hidden status
+
+rFix
+
+Set Fixed/non-fixed Direction
+
+Panel3
+
+Panel4
+
+OKButton
+OK
+
+N1
+Fast Merging (auto)
+
+N2
+Manual settings
+
+//
+LoadT
+Import track
+
+StringGrid1
+
+PageControl1
+Datums
+Coordinate systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Kind
+Latitude/Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM (WGS84) - North
+UTM (WGS84) - South
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+GroupBox2
+Format parameters
+
+Label1
+Start from:
+
+RSpacer
+Separators
+Space
+Tab
+Other
+;
+,
+
+Spacer
+
+
+StartFrom
+
+Button1
+Open
+
+Button2
+Cancel
+
+GroupBox1
+Additional data
+
+GroupBox6
+Date
+
+Col10
+
+C12
+Time column
+
+C10
+Set column
+
+C14
+None (Set Manually)
+
+ScrollBox1
+
+C6
+H (msl)
+
+C7
+Speed
+
+C9
+PDop
+
+C5
+H (Ellipsoid)
+
+C8
+Azimuth
+
+C11
+Comment
+
+Col5
+
+Col6
+
+Col7
+
+Col8
+
+Col9
+
+Col11
+
+C15
+Altitude
+
+Col15
+
+C16
+Sat. N
+
+Col16
+
+Col17
+
+C17
+Route
+
+GroupBox3
+Main data
+
+Label2
+Time
+
+Label3
+X
+
+Label4
+Y
+
+Label5
+Z
+
+Col1
+
+Col2
+
+Col3
+
+Col4
+
+PanelMinSec
+
+isMin
+Column '
+
+isSec
+''
+
+GroupBox4
+Time settings
+
+TimeSys
+Time system
+GPS
+UTC
+
+GroupBox5
+
+
+isDoy
+DOY
+
+isFormatted
+Formatted:
+
+isWoy
+Week.Seconds
+
+Edit3
+
+isSOW
+Seconds of Week
+
+WeekEdit
+
+Edit1
+
+Edit2
+
+//
+RedForm
+Reduction parameters
+
+Image1
+
+Panel1
+
+Label4
+
+
+Label10
+Algorithm:
+
+GroupBox1
+Shifts, m
+
+Label1
+U (N):
+
+Label2
+V (E):
+
+Label3
+H (W):
+
+SpeedButton2
+
+
+
+SpeedButton1
+
+
+
+Edit1
+0
+
+Edit2
+0
+
+Edit3
+0
+
+GroupBox2
+Legend
+
+Image2
+
+Image3
+
+Label5
+- GNSS Antenna center
+
+Label6
+- Measuring center
+
+Filters
+Rarefaction
+No rarefaction
+Distantion between points
+Time span between points
+
+StartButton
+Apply reduction
+
+CloseButton
+Cancel
+
+AnglesSource
+Source of angles
+Track points
+Load from file
+
+PC
+1
+3
+4
+
+TabSheet1
+
+TabSheet3
+
+Label8
+Minimum, m
+
+Edit4
+1
+
+isTPs
+Turns
+
+TabSheet4
+
+Label9
+Minimum, s
+
+Edit5
+5
+
+RMethod
+
+DoFilter
+Moving average
+
+SpinEdit1
+
+Timer1
+
+ImageList1
+
+OpenDialog1
+
+SaveDialog1
+
+SaveDialog2
+
+OpenDialog2
+
+//
+TrackSaver
+TrackSaver
+
+GroupBox1
+Reduction parameters
+
+Angs
+Angles: pitch, roll, yaw
+
+dXYH
+corrections to X,Y,H 
+
+GroupBox2
+Original data
+
+iXYH
+Original X, Y, H(msl)
+
+iBLH
+Original B, L, H (WGS-84)
+
+GroupBox3
+Reducted data
+
+RedXYH
+Reducted X, Y, H(msl)
+
+RedBLH
+Reducted B, L, H (WGS-84)
+
+Button1
+Save
+
+Button2
+Cancel
+
+TimeSys
+Time
+GPS
+UTC
+
+SepDate
+Separate date column
+
+GroupBox4
+Coordinate system
+
+OlderCS
+Track's original
+
+newCS
+Set manually
+
+Csys
+
+OldSys
+
+//
+LoadA
+LoadA
+
+YawKind
+Yaw angle kind
+Directional angle
+Azimuth
+Magnetic azimuth 
+
+GroupBox4
+Time settings
+
+TimeSys
+Time system
+GPS
+UTC
+
+GroupBox5
+
+
+isDoy
+DOY
+
+isFormatted
+Formatted:
+
+isWoy
+Week.Seconds
+
+Edit3
+
+Edit1
+
+Edit2
+
+GroupBox3
+Main data
+
+Label2
+Time
+
+Label3
+Yaw
+
+Label4
+Pitch
+
+Label5
+Roll
+
+Col1
+
+Col2
+
+Col3
+
+Col4
+
+StringGrid1
+
+GroupBox2
+Format parameters
+
+Label1
+Start from:
+
+RSpacer
+Separators
+Space
+Tab
+Other
+;
+,
+
+Spacer
+
+
+StartFrom
+
+GroupBox6
+Date
+
+Col10
+
+C12
+Time column
+
+C10
+Set column
+
+C14
+No data
+
+Panel1
+
+Label6
+Magnetic declination:
+
+Label7
+!
+
+Edit4
+0
+
+Button1
+OK
+
+Button2
+Cancel
+
+isDegs
+Units
+Degrees
+Radians
+
+//
+SetFm
+Settings
+
+Label1
+Language:
+
+Label2
+Key of Google API:
+
+Button1
+OK
+
+Ln
+
+Smooth
+Anti-aliasing
+
+GroupBox1
+Colors
+
+BackGroundColor
+
+LinesColor
+
+ObjColor
+
+DopObjColor
+
+IntColor
+
+InfoColor
+
+TrackColor
+
+RedTrackColor
+
+FntColor
+
+BackGround
+Background
+
+Lines
+Mesh
+
+Obj
+Routes
+
+Track
+Track
+
+Info
+Track cursor
+
+Int
+Interface
+
+RedTrack
+Reduction track/knots
+
+Fnt
+Font
+
+DopObj
+Objects, markers
+
+ChoosedColor
+
+Choosed
+Selection
+
+Sav
+
+
+
+Cl
+
+Vsync
+VSync
+
+Button2
+Cancel
+
+Button3
+Get key
+
+SimpleN
+Simple arrow to North
+
+DrMesh
+Coordinate Mesh
+
+ColorDialog1
+
+AlwaysN
+Draw Arrow to North Always
+
+LabelStyle
+Style of labels 
+Default
+Add shadows
+Framed
+
+TA
+Show track's direction
+
+//
+FRops
+Operations with tracks
+
+Label1
+Operations:
+
+MainBox
+
+PageControl1
+TabSheet1
+TabSheet2
+TabSheet3
+
+TabSheet1
+
+Label10
+Route:
+
+Label11
+Maximum distance (XTE):
+
+ComboBox2
+
+SpinEdit3
+
+CheckBox1
+Solidity
+
+CheckBox2
+Reset existing references to routes
+
+TabSheet2
+
+Label12
+Route:
+
+RMethod
+
+doMinL
+Minimal Distance, m
+
+doNewStep
+Resample with step, m
+
+isNoReset
+Add to existing
+
+isReset
+Reset existing
+
+MinL
+
+
+NameLabel
+Special Name:
+
+NameEdit
+LST
+
+TabSheet3
+
+PageControl2
+Stops by time span 
+by epochs count
+from RINEX
+
+TabSheet4
+
+Label2
+Max. distance criteria, m:
+
+Label3
+Minimal Time span criteria, sec.:
+
+Edit1
+1.0
+
+SpinEdit2
+
+CheckBox3
+Delete existing markers
+
+TabSheet5
+
+Label6
+Max. distance criteria, m:
+
+Label7
+Minimal epochs count:
+
+Edit2
+1.0
+
+SpinEdit1
+
+CheckBox4
+Delete existing markers
+
+TabSheet6
+
+Label8
+No data loaded
+
+SpeedButton1
+
+
+
+Label9
+NOT AVAILABLE YET!
+
+Edit3
+
+
+CheckBox5
+Filtering (3*sigma)
+
+CheckBox6
+Subtract Antenna Heights 
+
+CheckBox7
+Delete existing markers
+
+Label9
+Iterrations:
+
+TabSheet7
+
+RouteNLabel3
+Route:
+
+RouteBox3
+
+BrkStep
+
+DoBrk
+Make step-points, m:
+
+isNoReset3
+Add to existing routes
+
+isReset3
+Clear existing routes
+
+IsoNormals
+Normals for each segment
+
+SaveAsMarks
+Create markers from points
+
+SaveBorders
+Don't out of track's ends
+
+Button1
+Accept
+
+Button2
+Cancel
+
+GroupBox1
+Apply to track's fragment
+
+Label4
+From:
+
+Label5
+To:
+
+Time1
+
+Date1
+
+Date2
+
+Time2
+
+OpenDialog1
+
+//
+FRList
+Track Points Table
+
+TrackPts
+
+Panel1
+
+ScrollBox1
+
+Bevel2
+
+Bevel1
+
+Label1
+used CS
+
+C5
+H (msl)
+
+C6
+Speed
+
+C8
+PDop
+
+C4
+H (Ellipsoid)
+
+C7
+Azimuth
+
+C12
+Comment
+
+C10
+Altitude
+
+C13
+Altitude(2)
+
+C11
+Sat. N
+
+C9
+Route
+
+C3
+Lat-Lon WGS-84
+
+C2
+Coordinates
+
+C1
+Date and Time
+
+PopupMenu1
+
+N1
+Get reference to route
+
+N2
+(none)
+
+N3
+Delete
+
+sb1
+
+Get reference to route
+
+sb1
+
+Get reference to route
+
+sb2
+
+Delete point(s)
+
+sb4
+
+Shift timestamp of point(s)
+
+sb3
+
+Dilute the track
+
+sb3
+
+Dilute the track
+
+sb0
+
+Heights profile
+
+sb5
+
+Search the epoch
+
+sb6
+
+Add Comment
+
+sb7
+
+Save the Table
+ 
+//
+EOpen
+EstimOpn
+
+Button1
+Open Estimaton utility
+
+HGTBox
+Heights above ground limits
+
+HLabelLV
+By laser altimeter, m:
+
+HLabelRV
+By radio altimeter, m:
+
+dotsLabel1
+...
+
+dotsLabel2
+...
+
+MaxHgtL
+
+MinHgtL
+
+MinHgtR
+
+MaxHgtR
+
+GroupBox1
+Distances from routes (XTE)
+
+Label1
+Maximum tolerance for distance, m:
+
+MaxXTE
+
+//
+RouteOps
+Operations with routes
+
+RouteNLabel3
+Route:
+
+
+OkButton1
+OK
+
+CancelButton1
+Cancel
+
+Label2
+Name-number separator symbol
+
+CheckBox1
+Special name
+
+CheckBox2
+Shift numbers as Initial Route
+
+Edit2
+_
+
+Label1
+Step, m:
+
+Label3
+Indent, m:
+
+Label5
+Name:
+
+Label4
+Separator:
+
+Label6
+Step, m:
+
+Label7
+Start from:
+
+OrtSep
+_
+
+OrtName
+P
+
+Do1ort
+Add just one route
+
+DoSeveral
+Add routes with step
+
+Label8
+Outstep to left and right:
+
+DoM
+Create Markers
+
+MNamesBox
+Marker Names
+
+MSepL
+Separator:
+
+MNFromL
+From:
+
+MNStepL
+Step:
+
+DelM
+Delete old ones
+
+EndM
+Add ending marker
+
+//
+MarkerList
+Markers
+
+MainPanel
+
+AllMarks
+
+LButtonsPanel
+
+EdBtn
+
+Edit
+
+DelBtn
+
+Delete
+
+ViewBtn
+
+Show on map
+
+BottomPanel
+
+ButtonsPanel
+
+OkButton
+Close
+
+ShiftBtn
+
+Shift coordinates
+
+//
+MarkerOps
+Create Route from Markers
+
+MainPanel
+
+Splitter
+
+RPanel
+
+RouteMarks
+
+RButtonsPanel
+
+UpBtn
+
+Move Up
+
+DelBtn
+
+Delete
+
+UpBtn2
+
+Move on top
+
+DownBtn2
+
+Move to end
+
+DownBtn
+
+Move Down
+
+DelAllBtn
+
+Delete All
+
+RTitlePanel
+
+RTitle
+Markers to include:
+
+LPanel
+
+AllMarks
+
+LButtonsPanel
+
+SendBtn
+
+Add to include list
+
+SendAllBtn
+
+Add All
+
+LTitlePanel
+
+LTitle
+Markers available:
+
+SpacerPanel
+
+BottomPanel
+
+ButtonsPanel
+
+OkButton
+Create Route
+
+CancelButton
+Cancel
+
+//
+FCalendar
+GPS Calendar
+
+Label1
+Day of Year:
+
+Label2
+GPSWeek:
+
+Label3
+GPSWeek π:
+
+Label4
+0
+
+Label5
+0
+
+Label6
+0
+
+Label7
+Leap seconds:
+
+Label8
+0
+
+Button1
+OK
+
+Button2
+Cancel
+
+Date1
+
+//
+CloneFm
+Copy route
+
+Label1
+Copies amount:
+
+Label3
+meters
+
+Label4
+Shift directional angle:
+
+Label5
+deg.
+
+Image1
+
+Image2
+
+Bevel1
+
+Label6
+Names of the new routes:
+
+Label7
+Start from:
+
+Label8
+Step:
+
+Label9
+Separator:
+
+SpeedButton1
+
+Left to normal
+
+SpeedButton2
+
+Right to normal
+
+ECount
+
+Button1
+Accept copying
+
+Button2
+Cancel
+
+EShift
+
+EDeg
+
+NameEdit
+Route
+
+AddN
+Add copy number
+
+Nfrom
+
+NStep
+
+NameSep
+-
+
+DoShiftR
+Shift each new route:
+
+//
+DevStarFm
+Create calibration routes
+
+Label1
+Name:
+
+Label2
+Diameter, m:
+
+Label3
+B:
+
+Label4
+L:
+
+Label6
+Azimuth, ∞
+
+CalcMe
+
+Change the coordinates
+
+MBox
+
+EditNm
+Dev
+
+GroupBox1
+Routes number
+
+Image1
+
+Image2
+
+Image3
+
+is2
+2
+
+is4
+4
+
+is8
+8
+
+Diam
+
+Edit2
+Edit2
+
+Edit3
+Edit2
+
+AcceptButton
+Create the routes
+
+CancelButton
+Cancel
+
+GroupBox2
+Coordinates of the cross point
+
+RB1
+Survea area's (frame) center
+
+RB2
+Choose the marker
+
+RB3
+Window's center on the map
+
+RB4
+Set manually
+
+fixDir
+Doubled oppositely-directed routes (fixed directions)
+
+AddGaps
+Spaces before edges
+
+//
+FKnotList
+TEM Transmitter loops
+
+DelKn
+
+Delete
+
+EditKn
+
+Edit
+
+ViewKn
+
+Show on map
+
+ShiftKn
+
+Move
+//
+FSaveKnots
+Save TEM loops set
+
+GroupBox1
+Convert into markers
+
+doP
+Pickets
+
+doK
+Loop corners
+
+doC
+Loop centers
+
+Button1
+Accept
+
+Button2
+Cancel
+
+DoExp
+Export results
+
+DelOld
+Actions with existing markers
+Delete existing
+Add to existing
+
+Exp
+
+
+
+//
+FKnotPickets
+Pickets positions for TEM loops
+
+SpeedButton1
++
+
+
+SpeedButton2
+-
+
+
+SpeedButton3
+
+
+
+GroupBox3
+Pickets position parameters
+
+Label2
+Maximum distance to center:
+
+Label13
+Kind of set up:
+
+Label1
+Step along the profile, m:
+
+Rdrop
+Drop to profile(route)
+
+IHalf
+One side
+
+Label5
+Step, m:
+
+Label6
+Lengthwise
+
+Label7
+Crosswise
+
+Drop2
+Loop's asimuth
+
+Label3
+Step (along the ray), m:
+
+Label8
+Angular   step, ∞
+
+DoRang
+By set's asimuth
+
+DontRang
+By loop's asimuth
+
+Label11
+Ortogonal evey n-th picket:
+
+Label10
+Lenthwise step, m
+
+Label12
+Crosswise step, m
+
+Label15
+Scale, %:
+
+EditTemplate
+
+Edit the template
+
+Label16
+Add angle, ∞
+
+Drop5
+By loop's asimuth
+
+GroupBox2
+Picket names
+
+Button2
+Cancel
+
+Button1
+Apply
+
+GroupBox1
+Loop settings
+
+KnotLabel
+Loop side size, m:
+
+lk
+
+Apply to all
+
+Label9
+Loop's azimuth,∞
+
+Label14
+Set's azimuth,∞
+
+Label20
+∞
+
+KnotAngRoute
+By route's azimuth
+
+KnotAngOwn
+Set manually
+
+KnotAngAdd
+Add to route's azimuth
+
+snames
+
+Picket names output mode
+
+Label17
+Attention! Current picket positions are editing for scale = 100% and zero azimuth.
+
+BAdd
+
+Copy choosed picket
+
+bUp
+
+Move choosed up in list
+
+BDel
+
+Delete choosed
+
+bDown
+
+Move choosed down in list
+
+Label23
+Template:
+
+Label24
+Pickets:
+
+bSort
+
+Sort the list
+
+snames2
+
+Picket names output mode
+
+Button3
+Save changes 
+
+Button4
+Save as new
+
+Button5
+Cancel
+
+CoordPC
+Square coordinates
+Polar coordinates
+
+Label21
+East, m
+
+Label22
+North, m
+
+Label18
+Distance to center, m
+
+Label19
+Directional angle, ∞
+
+isSq
+Square coordinates
+
+isPol
+Polar coordinates
+
+Button6
+Delete
+
+bApply
+
+Apply
+
+bCenter
+
+Focus on
+
+bCancel
+
+Cancel
+
+N1
+Craete picket here
+
+N2
+Move choosed here
+
+N3
+North to South, West to East
+
+N4
+West to East, North to South 
+
+N7
+Invert the order
+
+//
+LoadBlnData
+Import from Surfer *.Bln
+
+Label1
+Kind of objects being impotred:
+
+Label2
+File Coordinate System:
+
+Label3
+Coordinate Order:
+
+Button1
+Import
+
+Button2
+Cancel
+
+//
+FExportKnots
+Export Markers as TEM Loops
+
+DoDel
+Delete markers after export
+
+NewOnly
+Export the last-created only
+
+EPC
+Text file *.txt
+Surfer *.bln
+GPS EXchange *.gpx
+EMDP *.xyz/*.mxyz
+
+GroupBox1
+Data to save
+
+doP
+Pickets
+
+doK
+Corners
+
+doC
+Centers
+
+RSpacer
+Separators
+Space
+Tab
+Another
+;
+,
+
+AddHeader
+Add Header
+
+AddNum
+Numbers Column
+
+Label3
+Coordinates order:
+
+BlnData
+Data to save
+Borders of loops
+Profiles (routes)
+Area borders
+
+GroupBox2
+Data to save
+
+gPick
+Pickets
+
+gCorn
+Loop corners
+
+gCent
+Loop centers
+
+gRout
+Profiles (routes)
+
+gArea
+Area borders (as route)
+
+gKnot
+Borders of loops (as routes)
+
+EMDP
+Format
+XYZ
+mXYZ
+
+EMDP_ext
+Add extensions *.prf/*.eds
+
+EMDP_name
+Generator numbers by Loop names
+
+EMDP_dec
+Round coordinates to integers
+
+SaveEveryOne
+Add files for each loop
+
+Button1
+Save
+
+Button2
+Cancel
+
+//
+FreduceTrack
+Dilute the track
+
+Label1
+sec.
+
+Label2
+m
+
+dTEp
+By time
+
+dLEp
+By distance
+
+Label4
+m
+
+Label3
+not rare than
+
+dAzmtEp
+By saving the direction
+
+bOk
+Apply
+
+bCancel
+Cancel
+
+IEp
+Left every i-th point
+
+//
+StatBox
+Statistic report
+
+Button1
+Save
+
+Button2
+Close
+
+iTables
+Paint Tables
+
+iFull
+Full Names
+
+GroupBox1
+Common
+
+iArea
+Area borders
+
+iRoutes
+Routes (profiles)
+
+iRoutesL
+Routes Lengths
+
+GroupBox2
+Trajectory
+
+CompareTrk
+
+Show the comparison graphics
+
+Estim
+
+Estimate flight quality
+
+iSlips
+Table of data slips
+
+iTrack
+Summary
+
+iCompare
+Track points comparison
+
+iTrackRoutes
+Routes tracing estimation
+
+GroupBox3
+TEM loops
+
+iLoopsP
+Project of loops
+
+iLoopsM
+Markers
+
+iCompUDF
+Compare with UDF
+
+iLC
+Centers
+
+iLK
+Corners
+
+iLP
+Pickets
+
+iAccuracy
+Accuracy
+
+//
+FOpenUdf
+Imort *.udf File
+
+Label10
+Coordinates order:
+
+CSKind
+Importing parameters
+Datum + projection (various zone)
+Direct coordinate system
+
+PageControl1
+TabSheet1
+TabSheet2
+
+TabSheet1
+
+cDatum
+
+cGK
+Gauss-Kruger
+
+cUTM
+UTM
+
+TabSheet2
+
+Csys
+
+ToAll
+Apply to all
+
+Button1
+OK
+
+GroupBox1
+File information
+
+Label1
+Aerage coordinates, m:
+
+Label5
+N:
+
+Label7
+H:
+
+Label2
+Deviations from average (RMS), m:
+
+Label3
+Plan:
+
+Label4
+Height:
+
+Label6
+E:
+
+Label8
+WGS-84 latitue, longtitude:
+
+Label9
+B:
+
+Label11
+L:
+
+lL
+-
+
+lB
+-
+
+lPl
+-
+
+lHg
+-
+
+lE
+-
+
+lN
+-
+
+lH
+-
+
+lTerra
+-
+
+Label12
+FileName
+
+AddTrack
+Load as track
+
+Hgeo
+Heigths above geoid given
+
+Button2
+Cancel
+
+DataOrder
+
+CheckGlobe
+?
+Check the coordinates
+
+//
+HgtGraphs
+Altitude Charts Output
+
+Button1
+Show Chart
+
+Button2
+Cancel
+
+rg
+Data for the Chart
+H orthometric
+H above Ellipsoid
+Altimeter
+Altimeter(2)
+
+//
+MarkH
+Marker Additional Settings
+
+Label1
+Kind:
+
+Label2
+H orthomethric, m:
+
+Label3
+H ellipsoidal, m:
+
+Label4
+Altitude, m:
+
+Bevel1
+
+Button1
+OK
+
+Button2
+Cancel
+
+Edit1
+0
+
+Edit2
+0
+
+SpinEdit1
+
+//
+Fknotgrouprenum
+Change the Loops Numbers
+
+Label1
+Action
+
+Button1
+OK
+
+Button2
+Cancel
+
+KindA
+
+isAllK
+Apply
+To selected loops
+To all
+
+GroupBox1
+Settings
+
+Label2
+Add/Subtract:
+
+Label3
+Start from:
+
+Label4
+Step:
+
+doSortK
+Numbering Order
+By position in list
+By initial number
+
+//
+FTrackCS
+Track Output Color Settings
+
+Label1
+Analized Parameter:
+
+Button1
+Accept
+
+Button2
+Cancel
+
+GroupBox1
+Statistics
+
+Label2
+Min:
+
+Label3
+Max:
+
+eMin
+0
+
+eMax
+0
+
+GroupBox2
+Color scale
+
+Label4
+Template:
+
+Label5
+No data to output
+
+DelT
+
+Remove the template
+
+Button3
+Settings...
+
+isRnd
+Round the output numbers 
+
+R2
+Scale on the current limits
+
+DelM
+
+Delete bound
+
+AddM
+
+Add bound
+
+Button4
+Save As...
+
+Button5
+Save the template
+
+Button6
+Cancel
+
+GroupBox3
+Selected
+
+Label6
+Value:
+
+Label7
+to:
+
+Label8
+Color:
+
+OkM
+
+Accept
+
+ResM
+
+Reset changes
+
+Edit1
+0
+
+GroupBox4
+General
+
+DiscrScale
+Separate color intervals
+
+SmScale
+Smooth color scale
+
+Relev
+Scale automatically
+
+isRnd2
+Round the output numbers 
+
+//
+CollapseFm
+Merge Routes
+
+BottomPanel
+
+GroupBox2
+
+
+imiLabel1
+Min Radius, m:
+
+imiLabel3
+Arc step, ∞
+
+AddH
+Set Altitude, m:
+
+ButtonsPanel
+
+OkButton
+Merge
+
+CancelButton
+Cancel
+
+GroupBox1
+Merging Order
+
+Label2
+Step:
+
+NoLoop
+Strait order
+
+DoLoop
+Loops
+
+DoRad
+Add Arc between Routes
+
+DelOld
+Delete origin routes
+
+UpBtn
+
+Move up
+
+DelBtn
+
+Delete from list
+
+UpBtn2
+
+Set the first
+
+DownBtn2
+
+Set the last
+
+DownBtn
+
+Move down
+
+DelAllBtn
+
+Delete All
+
+RTitle
+Routes to merge:
+
+SendBtn
+
+Add to merge
+
+SendAllBtn
+
+Add All
+
+LTitle
+Routes Available:
+
+//
+KmlOpn
+Open Kml file
+
+Button1
+Open
+
+Button2
+Cancel
+
+GroupBox1
+Objects
+
+DoMark
+Markers
+
+DoRts
+Routes
+
+DoFrame
+Area borders
+
+DoAddR
+Add to existing
+
+DoResetR
+Reset existing
+
+//

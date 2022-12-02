@@ -1,0 +1,11 @@
+This utility provides GoogleMaps(R) data download for offline use in RouteNave and OZiExplorer/Global Mapper software.
+
+The geo-referenced tiles can be choosed and downloaded before download.
+
+For multi-add use Shift key + left mouse button. Multi-deleting made by Ctrl key.
+
+Zoom levels changed by Shift key + mouse wheel up/down turning. Downloaded tiles can be redacted with tile editor.
+
+Downloading more than 40-50 tiles is not recomended.
+
+GoogleMaps(R) copyrighted by Google and the maps/space images owners.

@@ -1,0 +1,204 @@
+LoadScript
+0
+1
+-1
+Scripts\Test.rns
+
+SendCom
+1
+5
+-1
+Command
+
+SetBps
+1
+2
+-1
+115200
+
+SetFrequency
+1
+3
+-1
+100
+
+TestRx
+1
+4
+0
+3
+GLL
+SendAUXCom
+1
+5
+-1
+Command
+
+SetAUXBps
+1
+2
+-1
+115200
+
+SetAUXFrequency
+1
+3
+-1
+100
+
+TestAUXRx
+1
+4
+0
+3
+U=
+If Name Has
+2
+0
+-1
+Ublox
+
+If Name Is
+2
+0
+-1
+Ublox
+
+If Name Not
+2
+0
+-1
+Ublox
+
+If Frequency Is
+2
+3
+-1
+100
+
+If Frequency Not
+2
+3
+-1
+100
+
+If Frequency >
+2
+3
+-1
+100
+
+If Frequency <
+2
+3
+-1
+100
+
+If Bps Is
+2
+2
+-1
+9600
+
+If Bps Not
+2
+2
+-1
+9600
+
+If Bps >
+2
+2
+-1
+9600
+
+If Bps <
+2
+2
+-1
+9600
+
+If NameAUX Has
+2
+0
+-1
+Ublox
+
+If NameAUX Is
+2
+0
+-1
+Ublox
+
+If NameAUX Not
+2
+0
+-1
+Ublox
+
+If FrequencyAUX Is
+2
+3
+-1
+100
+
+If FrequencyAUX Not
+2
+3
+-1
+100
+
+If FrequencyAUX >
+2
+3
+-1
+100
+
+If FrequencyAUX <
+2
+3
+-1
+100
+
+If BpsAUX Is
+2
+2
+-1
+9600
+
+If BpsAUX Not
+2
+2
+-1
+9600
+
+If BpsAUX >
+2
+2
+-1
+9600
+
+If BpsAUX <
+2
+2
+-1
+9600
+
+Begin
+3
+-1
+-1
+
+
+End
+3
+-1
+-1
+
+
+//
+4
+0
+-1
+Hello World
+

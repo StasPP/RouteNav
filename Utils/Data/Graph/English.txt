@@ -1,0 +1,700 @@
+Graphic Builder v.1.3
+Choose graphic
+New comment
+//
+Form1
+RefreshButton2
+Build graphics
+
+//
+Form1
+Label9
+End:
+//
+Form1
+Label8
+Start:
+//
+Form1
+Label7
+Name:
+//
+Form1
+Label6
+Bottom Axis (X):
+//
+Form1
+Label5
+Name:
+//
+Form1
+Label4
+End:
+//
+Form1
+Label3
+Left Axis (Y):
+//
+Form1
+Label2
+Start:
+//
+Form1
+Label18
+Start string:
+//
+Form1
+Label17
+Order number
+//
+Form1
+Label16
+Kind:
+//
+Form1
+Label15
+Parameters:
+//
+Form1
+Label14
+Data format Y:
+//
+Form1
+Label13
+Data format X:
+//
+Form1
+Label12
+Col with Y:
+//
+Form1
+Label10
+Data options:
+//
+Form1
+Label1
+Title:
+//
+Form1
+Label27
+Min. increment:
+//
+Form1
+Label28
+Min. increment:
+//
+Form1
+HidePan1
+
+Close panel
+//
+Form1
+Label29
+Font size:
+//
+Form1
+Label30
+Title:
+//
+Form1
+Label31
+Axis names:
+//
+Form1
+Label32
+Values:
+//
+Form1
+Label21
+Time format:
+//
+Form1
+Label11
+Date format:
+//
+Form1
+DoXCol
+X Values Col: 
+//
+Form1
+YFormat
+Number/Float
+Deg Min Sec
+Date and Time
+Date
+Time
+//
+Form1
+Xformat
+Number/Float
+Deg Min Sec
+Date and Time
+Date
+Time
+//
+Form1
+GraphTypes
+Lines
+Dots
+Areas
+//
+Form1
+DoTearXY
+Break if dY >:
+//
+Form1
+DoTearByX
+Break if dX >:
+//
+Form1
+DotandZpt
+Auto change Decimal sep.
+//
+Form1
+DoNameCol
+Names Col
+//
+Form1
+ShowLegend
+Show Legend
+//
+Form1
+AutoLim
+Auto Bounds
+//
+Form1
+Anim
+Animated building
+//
+Form1
+LegendPos
+Left
+Right
+Up
+Down
+//
+Form1
+VY
+  
+years
+days
+hours
+minutes
+seconds
+degrees
+'
+''
+relat.(cur./prev.)
+//
+Form1
+VX
+  
+years
+days
+hours
+minutes
+seconds
+degrees
+'
+''
+relat.(cur./prev.)
+//
+Form1
+MapMode
+Map Mode
+//
+Form1
+DoLabelCol
+Labels Col: 
+//
+Form1
+Hold1
+Fixed Bounds
+//
+Form1
+StatusLabel
+First 150 strings are in list
+//
+Form1
+HidePan2
+
+Close Panel
+//
+Form1
+ScrPanel2
+
+
+//
+Form1
+ShowAllFile
+Open entire file in list
+
+//
+Form1
+ScrPanel
+
+Hide/Show the panel
+//
+Form1
+_label
+Graphic Builder Program v. 1.3
+//
+Form1
+BL2
+  Windows
+//
+Form1
+BH2
+
+//
+Form1
+NoWrite
+Access closed
+//
+Form1
+ShowTextFile
+
+Data file
+//
+Form1
+ShowSettings
+
+Settings
+//
+Form1
+ShowDataRows
+
+Data Rows
+//
+Form1
+StyleWin
+
+Styles Panel
+//
+Form1
+ZoomInB
+
+Zoom In
+//
+Form1
+ZoomOutB
+
+Zoom Out
+//
+Form1
+ResZoom
+
+Reset Zoom
+//
+Form1
+DoSquare
+
+Equal X and Y scales (F3)
+//
+Form1
+BL3
+  Navigation
+//
+Form1
+BH3
+
+//
+Form1
+Unblock
+
+Unblock
+//
+Form1
+OpenTabFile
+
+Open Data table
+//
+Form1
+AddData
+
+Add Data
+//
+Form1
+OpenSetFile
+
+Open Graphic Settings
+//
+Form1
+SaveSet
+
+Save Graphic Settings
+//
+Form1
+Refresh
+
+Refresh (F5)
+//
+Form1
+BL1
+  Data
+//
+Form1
+BH1
+
+//
+Form1
+ShowXYB
+
+Ruler mode
+//
+Form1
+SaveImg
+
+Save as image (F2)
+//
+Form1
+BL4
+  Tools
+//
+Form1
+BH4
+
+//
+Form1
+Comments
+
+Comments 
+//
+Form1
+BL5
+  Graphics
+//
+Form1
+BH5
+
+//
+Form1
+SaveGraph
+
+Save Graphics
+//
+Form1
+AddGraph
+
+Load (Add) Graphics
+//
+Form1
+ResetAll
+
+Reset
+//
+Form1
+BL6
+  Menu
+//
+Form1
+BH6
+
+//
+Form1
+KeepP3
+
+//
+Form1
+Label19
+Data Rows:
+//
+Form1
+BUp
+
+Move up
+//
+Form1
+BDown
+
+Move down
+//
+Form1
+DelSeries
+
+Delete
+//
+Form1
+SortAz
+
+Order
+//
+Form1
+HidePan5
+
+Close Panel
+//
+Form1
+CheckUncheck
+
+Show/Hide All
+//
+Form1
+Label22
+Points:
+//
+Form1
+Label20
+Settings for choosed:
+//
+Form1
+Label23
+Other:
+//
+Form1
+Label24
+Size:
+//
+Form1
+Label25
+Kind:
+//
+Form1
+Label26
+Line Width:
+//
+Form1
+ScolorLabel
+Color:
+//
+Form1
+SNameLabel
+Name:
+//
+Form1
+SShow
+Data Labels
+//
+Form1
+ShoDots
+Show Points
+//
+Form1
+ShowBorder
+Show Border
+//
+Form1
+ShowDotBorder
+Border (points)
+//
+Form1
+SStairs
+"Stairs"
+//
+Form1
+Panel10C
+
+//
+Form1
+BL7
+ Ruler settings
+//
+Form1
+BH7
++
+//
+Form1
+PickGraph2
+Attract to graphic...
+//
+Form1
+StyleLabel
+Background:
+//
+Form1
+Label36
+Values/Legend font:
+//
+Form1
+Label37
+Title font:
+//
+Form1
+Label38
+Values:
+//
+Form1
+Label39
+Axis Names:
+//
+Form1
+Label40
+Title:
+//
+Form1
+Label41
+Legend:
+//
+Form1
+HidePan13
+
+Close Panel
+//
+Form1
+Label42
+X1:
+//
+Form1
+Label43
+X2:
+//
+Form1
+Label44
+Y1:
+//
+Form1
+Label45
+Y2:
+//
+Form1
+Label46
+Min. Increment
+//
+Form1
+Label47
+Y:
+//
+Form1
+Label48
+X:
+//
+Form1
+Label53
+x
+//
+Form1
+ShowLeg2
+Show Legend
+//
+Form1
+StyleBox
+White
+Creamy
+Gray
+System
+//
+Form1
+LegPos2
+Left
+Right
+Down
+Up
+//
+Form1
+ALim2
+Set Bounds Manually
+//
+Form1
+Hold2
+(Hold)
+//
+Form1
+WSS
+Hold Window size
+//
+Form1
+HidePan11
+
+Close Panel
+//
+Form1
+Label33
+Comment:
+//
+Form1
+AcceptComm
+
+Accept
+//
+Form1
+DeleteComm
+
+Delete comment
+//
+Form1
+CommTextLabel
+Text of comment:
+//
+Form1
+Label35
+Position:
+//
+Form1
+CommXLabel
+X:
+//
+Form1
+CommYLabel
+Y:
+//
+Form1
+CommArrowLabel
+Font:
+//
+Form1
+CommFontLabel
+FootNote Height:
+//
+Form1
+Label34
+Back Color:
+//
+Form1
+Label49
+Размер:
+//
+Form1
+Label50
+Points:
+//
+Form1
+Label51
+Color:
+//
+Form1
+Label52
+Тип:
+//
+Form1
+ShowComms
+Show comments
+//
+Form1
+PickGraph
+Attract to graphic...
+//
+Form1
+RSpacer
+Data separators
+Space
+Tab
+Other
+,
+;
+//
+Form1
+LineMMB
+Middle Mouse Button
+//
+Form1
+LineLMB
+Left Mouse Button (Zoom blocked)
+//
+Form1
+Label54
+New Comment
+//
+Form1
+Label55
+Breaking Points
+//
+Form2a
+F2Label
+ATTENTION! You can attract marker point to all visible graphics. Use CTRL key for attraction to the nearest point or SHIFT to attract to the nearest segment. This mode of attraction (to single graphic) must be turned off.
+//
+Form2a
+PickPar
+Attraction parameters
+To nearest point
+To nearest segment
+//

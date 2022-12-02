@@ -1,0 +1,81 @@
+Utilites Manager
+Launch
+Discription
+Main applications
+Configuration utilities
+Advanced tools
+
+RouteNav
+Main application
+Version 2.04
+The main application of RouteNav package. Provides realtime navigation support for aerial and ground geophysical survey
+RouteNav.exe
+
+RouteEditor
+Route Editor tools 
+Version 1.2
+Multipurpose tool package for creating geophysical routes and automatization of other geodetic and navigation aims
+RouteEditor.exe -all
+
+GeoCalc (Edit CS mode)
+Edit Coordinate systems
+Version 0.8
+Tool for editing datebase of coordinate systems, datums, ellipsoids etc. which used in RouteNav/RouteEditor and the utilities of RouteNav software pack
+Geo.exe -ed
+
+ProtEd
+Additional Data Protocol Editor
+Version 1.0
+Tool for setting parameters of text ASCII Protocol of additional fly data (mainly for altimeters)
+ProtEd.exe
+
+Scripter
+GNSS-receivers Script Editor
+Version 1.0
+Simple script editor for configuring GNSS-receivers and flight settings for RouteNav. Provides syntax test and contains discription of the script commands
+Scripter.exe
+
+Raster Tool
+Georeferencing tools
+Version 0.5
+Utility for georeferencing of raster maps or space images. Ozy Explorer format is supported. Output file is an ASDB archive with tiled image and georeferencing info.
+Raster_E.exe
+
+GetImage
+Download offline Google/Yandex maps
+Version 0.4
+Utility for Geo-referenced tiles download from GoogleMaps and YandexMaps services. Provide offline using.
+GetMap.exe
+
+Estimation Tools
+Flight Estimation (Analysis) tool
+Version 0.5
+Utility for area analyse the results of fly. Can be used for estimation of deviations and heights above ground (HAG) values by saved track
+EstimHgt.exe
+
+GeoCalc
+Geo-Calculator
+Version 0.8
+Simple Geo-Calculator with possibility of adding and editing of datums and coordinate systems.
+Geo.exe
+
+Graphic Builder
+Universal Graphic/Chart Builder
+Version 1.3
+Graphic and chart builder tool. Universal tool for making line, point and area graphics using ANSI-text data tables.
+Graph.exe Data\Graph\spring.txt Data\Graph\spring.chs -l_Data\Graph\English.txt
+
+NomList
+Define Nomenclature of USSR Map
+Version 1.0
+Tool which defines the USSR Map sheet Nomenclature number by coordinates. The part of Raster Georeferencing tool.
+GetNomList_E.exe
+
+NomCoords
+Define USSR Maps Boundaries
+Version 1.0
+Tool which defines the boundaries coordinates of USSR Maps by Nomenclature name. The part of Raster Georeferencing tool.
+NomList_E.exe
+
+
+

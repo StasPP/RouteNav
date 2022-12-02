@@ -1,0 +1,423 @@
+
+//
+WForm
+GoogleMaps Download
+
+Bevel2
+
+Label2
+*Attention! Without using of Google API Key the amount of images is limited. 
+
+GroupBox1
+Download data
+
+Image1
+
+Bevel1
+
+Label1
+Style:
+
+Label4
+Zoom level:
+
+Label7
+
+
+ComboBox1
+Roadmap
+Satellite
+Hybrid
+Terrain
+
+Edit1
+
+
+CheckBox1
+Google API Key*
+
+ComboBox2
+
+Button1
+Next >>
+
+GroupBox2
+Show on map
+
+Label3
+Start point
+
+Label5
+Routes
+
+Label6
+Maps (Asdb)
+
+Button3
+Add
+
+Button4
+Add
+
+Button5
+Add
+
+Panel1
+
+SpeedButton1
+
+
+
+SpeedButton2
+
+
+
+MapList
+
+AsdbList
+
+Panel2
+
+SpeedButton4
+
+
+
+Edit2
+
+
+Panel3
+
+SpeedButton3
+
+
+
+Edit3
+
+
+Edit4
+
+
+Button2
+Get Google API Key
+
+OpenMaps
+
+OpenRoutes
+
+//
+MapFm
+Google/Yandex Maps Download Utility
+
+Stats
+
+Comments
+
+
+EX
+
+EY
+
+Csys
+
+EZ
+
+Canv
+
+Tools
+
+PC
+Main
+GoogleMaps tiles Download
+Tiles editor 
+
+POptions
+
+B2a
+
+Set start point coordinates
+
+B2
+
+Move start point
+
+B1
+
+Move Map
+
+B4
+
+Reload routes
+
+B5a
+
+Load Maps
+
+B5c
+
+Clear maps
+
+B4a
+
+Clear routes
+
+PGoogle
+
+Label2
+Zoom:
+
+Label3
+Style:
+
+Label5
+Tiles to download:
+
+SpeedButton1
+Download selection
+
+
+SpeedButton2
+Reset selection
+
+
+StaticText2
+
+StaticText3
+
+StaticText5
+
+PMapEd
+
+B01
+
+Move Map
+
+B5
+
+Select a tile
+
+B5b
+
+Save the map
+
+B5d
+
+Delete selected tile
+
+AZoom
+AUTO
+
+PopupMenu1
+
+N81
+Zoom In
+
+N101
+Zoom Out
+
+PopupMenu2
+
+N1
+Road map
+
+N2
+Satellite
+
+N3
+Hybrid
+
+N4
+Terrain
+
+OpenRoutes
+
+OpenMaps
+
+PopupMenu3
+
+SaveM
+
+//
+FLoadGPS
+Loading data...
+
+Panel1
+
+MapLoad
+Raster Map is being loaded...
+
+LCount
+1/1
+
+Label1
+Downloading...
+
+Label2
+Convertation to Asdb...
+
+ProgressBar1
+
+//
+LoadRData
+Routes File settings
+
+Label3
+Preview
+
+Button1
+Open
+
+Button2
+Cancel
+
+StringGrid1
+
+GroupBox2
+Format parameters
+
+Label1
+Start from:
+
+RSpacer
+Separators
+Space
+Tab
+Other
+;
+,
+
+Spacer
+
+
+ValueList
+
+SpinEdit1
+
+RoutesBE
+Start/end of route
+One sting
+Even/odd strings
+Label a, b in name
+Same name
+
+ValueList2
+
+PageControl1
+Datums
+Coordinate systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Kind
+Latitude/Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM (WGS84/NAD83) - Nord
+UTM (WGS84/NAD83) - South
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+//
+GeoCalcFm
+Geocalculator
+
+LabelZ
+LabelZ
+
+LabelY
+LabelY
+
+LabelX
+LabelX
+
+Label3
+New data will be returned in WGS
+
+PageControl1
+Datums
+Coordinate systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Kind
+Latitude/Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM (WGS84/NAD83) - Nord
+UTM (WGS84/NAD83) - South
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+EX
+
+
+EY
+
+
+EZ
+
+
+Button1
+OK
+
+Button2
+Cancel
+
+//
+HintForm
+Hint
+
+Image1
+
+BitBtn1
+Next
+Next
+
+Memo1
+
+//
+CSForm
+Choose the coordinate system
+
+Bevel1
+
+ComboBox2
+
+ListBox4
+
+Button1
+Ok
+
+//
+GetMapPos
+Set the approximated position
+
+Image1
+
+Image2
+
+Label2
+N 0 E 0
+
+Panel1
+
+Label1
+
+
+Button1
+OK
+
+//

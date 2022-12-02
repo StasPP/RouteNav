@@ -1,0 +1,423 @@
+
+//
+WForm
+Загрузка карт GoogleMaps
+
+Bevel2
+
+Label2
+*ВНИМАНИЕ! Без ключа Google количество загружаемых данных ограничено!
+
+GroupBox1
+Загружаемые карты/снимки
+
+Image1
+
+Bevel1
+
+Label1
+Тип:
+
+Label4
+Уровень увеличения:
+
+Label7
+Уровень увеличения может быть изменен в режиме карты
+
+ComboBox1
+Карта дорог
+Космоснимки
+Гибрид
+Физическая карта
+
+Edit1
+
+
+CheckBox1
+Ключ Google API*
+
+ComboBox2
+
+Button1
+Далее >>
+
+GroupBox2
+Отобразить на карте
+
+Label3
+Начальная точка пути
+
+Label5
+Участок работ
+
+Label6
+Подложки
+
+Button3
+Добавить
+
+Button4
+Добавить
+
+Button5
+Добавить
+
+Panel1
+
+SpeedButton1
+
+
+
+SpeedButton2
+
+
+
+MapList
+
+AsdbList
+
+Panel2
+
+SpeedButton4
+
+
+
+Edit2
+
+
+Panel3
+
+SpeedButton3
+
+
+
+Edit3
+
+
+Edit4
+
+
+Button2
+Получить ключ Google API
+
+OpenMaps
+
+OpenRoutes
+
+//
+MapFm
+Утилита загрузки карт Google/Yandex Maps
+
+Stats
+
+Comments
+
+
+EX
+
+EY
+
+Csys
+
+EZ
+
+Canv
+
+Tools
+
+PC
+Основные
+Загрузка подложек GoogleMaps
+Редактор подложек
+
+POptions
+
+B2a
+
+Задать координаты базы
+
+B2
+
+Переместить базу
+
+B1
+
+Перемещение карты
+
+B4
+
+Загрузить маршруты
+
+B5a
+
+Загрузить подложки
+
+B5c
+
+Очистить подложки
+
+B4a
+
+Очистить маршруты
+
+PGoogle
+
+Label2
+Увеличение:
+
+Label3
+Тип:
+
+Label5
+Выбрано участков:
+
+SpeedButton1
+Скачать выбранные
+
+
+SpeedButton2
+Сброс выбранного
+
+
+StaticText2
+
+StaticText3
+
+StaticText5
+
+PMapEd
+
+B01
+
+Перемещение карты
+
+B5
+
+Выбор и редактирование тайлов
+
+B5b
+
+Сохранение карты
+
+B5d
+
+Удалить тайл
+
+AZoom
+Авто
+
+PopupMenu1
+
+N81
+Увеличить
+
+N101
+Уменьшить
+
+PopupMenu2
+
+N1
+Карта дорог
+
+N2
+Космоснимки
+
+N3
+Гибрид
+
+N4
+Физическая карта
+
+OpenRoutes
+
+OpenMaps
+
+PopupMenu3
+
+SaveM
+
+//
+FLoadGPS
+Loading data...
+
+Panel1
+
+MapLoad
+Загрузка растровых карт
+
+LCount
+1 / 1
+
+Label1
+Скачивание...
+
+Label2
+Конвертация...
+
+ProgressBar1
+
+//
+LoadRData
+Параметры открываемого файла
+
+Label3
+Фрагмент результатов открытия файла при заданных настройках
+
+Button1
+Открыть
+
+Button2
+Отмена
+
+StringGrid1
+
+GroupBox2
+Параметры формата
+
+Label1
+Начать со строки:
+
+RSpacer
+Разделители
+Пробелы
+Tab
+Другие
+;
+,
+
+Spacer
+
+
+ValueList
+
+SpinEdit1
+
+RoutesBE
+Начало/конец маршрута
+В одной строке
+Четные/нечетные строки
+Метка a, b в имени
+Общее имя
+
+ValueList2
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+//
+GeoCalcFm
+Введите координаты
+
+LabelZ
+LabelZ
+
+LabelY
+LabelY
+
+LabelX
+LabelX
+
+Label3
+Измененные данные будут переведены в WGS-84 и переданы назад
+
+PageControl1
+Датумы
+Системы координат
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Тип координат
+Широта/Долгота
+Пространственные координаты
+Проекция Гаусса-Крюгера
+Проекция UTM (WGS84/NAD83) - Север
+Проекция UTM (WGS84/NAD83) - Юг
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+EX
+
+
+EY
+
+
+EZ
+
+
+Button1
+OK
+
+Button2
+Отмена
+
+//
+HintForm
+Важная информация
+
+Image1
+
+BitBtn1
+Далее
+Далее
+
+Memo1
+
+//
+CSForm
+Выбор системы координат
+
+Bevel1
+
+ComboBox2
+
+ListBox4
+
+Button1
+Выбрать
+
+//
+GetMapPos
+Укажите приблизительное местоположение
+
+Image1
+
+Image2
+
+Label2
+N 0 E 0
+
+Panel1
+
+Label1
+
+
+Button1
+OK
+
+//

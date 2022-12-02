@@ -1,0 +1,82 @@
+Flight quality estimation
+HAG source
+Sort by
+HAG limits, m:
+Side deviatiom lim., m:
+HAG distribution
+Heights above ground, m
+Side deviation distr.
+Linear side deviations, m
+Deviations RMS, m:
+"Bad" HAGs, %:
+Total mark:
+Show altitude graphic
+Show HAG graphic
+Show Side Deviation graphic
+No
+Radio Altimeter
+Laser Altimeter
+Name
+Start
+End
+Side Dev., m
+Bad HAGs, %
+Mark
+Draw Graphic
+Data source
+Current route
+All fligth
+Max. side dev, m:
+Average side dev., m:
+Minimal HAG, m:
+Maximal HAG, m:
+Average HAG, m:
+A (Ok)
+B (Normal) 
+C (Low)
+D (Failed)
+Relative scales for bar charts
+PROCESSING...
+Min Limit
+Max Limit
+Route 
+ -l_Data\Graph\English.txt
+Show Settings
+Hide Settings
+Hide broken routes
+X Axis
+Way length
+GPS Time 
+Would you like to show ground heights (calculated by HAG values)?
+Ground
+Rewrite existing file?
+Save the Table
+Chart for Current Route
+Report 
+Output Report
+Charts
+Tracing errors
+Heights above ground (altimeters)
+Altitudes (GNSS measured)
+X Axis
+Distance
+Time
+Routes
+All
+If mark B or below
+If mark C or below
+If mark D 
+Advanced
+Save Images only
+Add Chart files *.chs
+Create Report
+Result to Show
+Output Report
+Charts Folder
+Slips/errors tolerance, if epcohs less than:
+Show Speed graphic
+Show Number-of-Satellites graphic
+Show PDOP values graphic
+Speed
+Number-of-Satellites
+PDOP values

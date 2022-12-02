@@ -1,0 +1,278 @@
+Latitude B, 
+Longtitude L, 
+X, m
+Y, m
+Z, m
+Nord, m
+South, m
+Nord/South, m
+West/East, m
+West, m
+East, m
+Name
+Variable
+Column
+Click to select a coordinate system
+Add any site data
+Save changes in 
+The points are situated counter-clockwise order. Rewerse them? 
+Use custom text format? Choose 'No' to use default *.mark settings.
+Delete this Marker?
+New Marker
+Edit 
+Rewrite existing file?
+Frame
+Routes
+Point
+The frame is already exists. Recreate it?
+(All routes)
+New Route
+FPS is low. Disable anti-aliasing?
+Point order for selected routes was inverted
+Time
+Date
+Azmt: 
+Speed: 
+ kmpH
+NSat.: 
+PDOP: 
+H(WGS): 
+H(msl): 
+ m
+ km
+Movement
+direcrion
+No points reducted. Check the track or settings
+Date & Time 
+Orig. 
+New 
+Yaw
+Pitch
+Roll
+H(WGS) 
+H(msl) 
+Area (inside the routes' frame): 
+Number of routes: 
+Number of segments: 
+Summary length of routes: 
+Mean length of each route: 
+ m2
+Area perimeter: 
+N
+2D by vector of moving
+2D by shift on track
+Import angles from file
+(user)
+to North:
+to side:
+S
+RoadMap
+Satellite
+Hybrid
+Terrain
+18 (houses)
+16 (streets)
+12 (districts)
+10 (cities and roads)
+08 (states/countries)
+Track Length: 
+Points (epochs) count:  
+Time of the track's start: 
+Time of the track's end: 
+Slips count: 
+Points referenced to routes: 
+Mean Line
+Add routes to file (save as *.rta)?
+Route: 
+XTE: 
+L: 
+Get reference to routes
+Compute mean route
+Make markers for stops
+Close the program?
+The coordinate system hasn't been choosed. Continue with default WGS-84 (Latitude-Longtitude)?
+Stops:
+Error reading file
+Error file format
+Project route points on track
+Woulde you like to break the origin route to waypoints too?
+Create GPX pseudotrack?
+Simple Line (least-squares method)
+Ignore the map projection (for Ozi/MapSource software output)?
+(copy)
+Replace the frame of the survey area?
+The jumping/slipping points are detected. Filter the track? 
+Route
+Knot's borders
+Points
+Enter the Placement Template Name
+Show under Cursor only
+Show point names
+Numbers only
+Delete the Placement Template?
+Latitude, Longtitude
+Longtitude, Latitude
+X, Y, Z
+East, North
+North, East
+Area borders
+Routes (profiles)
+Area + routes
+Save Area Borders to GPX?
+Save markers as loops data?
+Large volume of track data detected. Resample the track for optimization?
+File format settings seems to be wrong. Continue?
+Enter time shift, sec
+Proceed to entire the track? 
+Entered value is incorrect
+Epochs time shift
+RouteEditor Statistic Report
+Area Points: 
+#	Slip start time 	Slip End time	Route
+Route	Tracing start time	Tracing End time	Tracing Dir. Angle,°	StDev, m	Avg XTE, m	Max XTE, m
+Common points: 
+(plan): 
+(height): 
+Difference StDev 
+Average difference  
+Maximumm difference 
+!Errors detected
+Loops amount: 
+Within the Area: 
+Pickets amount: 
+Loop side size
+Pickets by loop
+ (average): 
+from 
+ to 
+Loops density (within the Area): 
+ loops/km
+Summary kilometers(between same profiles loops): 
+Profile line
+Grid set
+Rays
+Profile + orth. lines
+Custom template
+End-to-end numbering
+Compound (merged)
+Compound (separated)
+Grid
+Chess
+Bad coordinate solutions are detected in file. Exclude the bad data from track? 
+Visible
+Hidden
+Point
+Line Route
+Compound Route
+Any Direction
+Fixed Direction
+Create directory for loop files?
+Choose rectangular coordinate system (ex. based on Mercator or Gauss-Rruger projection)
+Current UTM zone: 
+Gauss-Kruger zone: 
+ERROR!
+Centers of Transmitter loops: project
+Corner points of Transmitter loops: project
+Pickets (receivers) positions: project
+Pickets (receivers) positions: measured vs project
+#	Profile	Loop Name	B, °	L, °	Note
+#	Profile	Loop Name	X, m	Y, m	Z, m	Note
+#	Profile	Loop Name	X, m	Y, m	Note
+#	Profile	Loop Number	Angle Name	B, °	L, °	Note
+#	Profile	Loop Number	Angle Name	X, m	Y, m	Z, m	Note
+#	Profile	Loop Number	Angle Name	X, m	Y, m	Note
+#	Profile	Loop Number	Picket Name	B, °	L, °	Note
+#	Profile	Loop Number	Picket Name	X, m	Y, m	Z, m	Note
+#	Profile	Loop Number	Picket Name	X, m	Y, m	Note
+#	Profile	Loop Number	Picket Name	File Name	Bm, °	Lm, °	Hm, m	Bprj, °	Lprj, °	Plan dev., m	
+#	Profile	Loop Number	Picket Name	File Name	Xm, m	Ym, m	Zm, m	Xprj, m	Yprj, m	Zprj, m	Plan dev., m	
+#	Profile	Loop Number	Picket Name	File Name	Xm, m	Ym, m	Hm, m	Xprj, m	Yprj, m	Plan dev., m	
+SD plan, m	SD hgt, m
+Attention! StDev values are calculated for average measured coordinates
+Average of corners
+Comparison by names
+Minimal Distance (Finding naming errors)
+Matches not found
+Search value
+Search value
+Value not found
+Add comment
+Enter comment
+Reached the end of table. Search from start?
+Height (Altitude), m
+Route Name + Separator + Number
+Number
+Route Name
+Separator:
+Prefix:
+Add Number
+Set New Order
+Independent Indents
+Grid
+Chess
+
+Square loop
+Circular loop
+Rectangle loop
+Mixed shapes
+Enter the step for corners, m
+Step for corners, m 
+
+Loop side, m
+Loop radius, m
+Route	Segments	Length
+Enter new import template name
+Delete the template?
+Average Speed: 
+Avg. Flight Speed: 
+Avg. Speed on Routes: 
+Enter new template name
+New
+Altitude
+Altitude: Radioaltimeter
+Altitude: Laser altimeter
+Height above Ellipsoid (H)
+Height above Mean Sea Level (Hgeo)
+Speed, kmph
+Number of Satellites 
+Dilution of Precision (PDOP)
+Tracing (Cross Track) Errors 
+ 
+Altitude, m
+Radioaltimeter, m
+Las. altimeter, m
+Height Ell., m
+Height MSL, m
+Speed, kmph
+Sat. Number
+PDOP
+XTE, m
+
+Set a Custom Scale
+Enter amount meters in 100 pix
+Set a Custom View Angle
+View Angle in °
+Enter the Altitude
+The format supports just one route. Merge existing routes?
+Only the least route will be exported. Continue?
+Common
+Loop center
+Loop border point
+Loop picket point
+(undefined)
+Start point
+(undefined)
+(undefined)
+(undefined)
+(undefined)
+Udf point
+(undefined)
+(undefined)
+(undefined)
+(undefined)
+(undefined)
+Azimuth, °:
+Altitude, m:
+Choose the Heigths Mode
+Heights mode:
+Cancel

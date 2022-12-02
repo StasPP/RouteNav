@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset = "windows1251">
+<title>Отчет по качеству навигационного обеспечения съемки</title>
+<style>
+h2 {
+margin-top: 3em;
+margin-bottom: -0.8em;
+}
+</style>
+</head>
+<body>
+<h1 align="center">Отчет по качеству навигационного обеспечения съемки</h1>

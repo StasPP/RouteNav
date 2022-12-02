@@ -1,0 +1,1038 @@
+
+//
+Form1
+RouteNav GeoCalculator v.0.8
+
+Label12
+Geoid:
+
+SpeedButton8
+...
+
+
+Label13
+Geoid:
+
+SpeedButton9
+...
+
+
+SpeedButton4
+Load
+
+
+SpeedButton1
+Load
+
+
+SpeedButton2
+Save
+
+
+SpeedButton3
+Save
+
+
+SpeedButton5
+
+
+
+SpeedButton6
+
+
+
+Geoid1
+
+Geoid2
+
+Button6
+<- Calculate
+
+Button3
+Calculate ->
+
+StringGrid1
+
+StringGrid2
+
+StatusBar1
+
+PageControl1
+Datum to Datum
+CS to CS
+
+TabSheet1
+
+Label5
+*Zone wil be applied in case of convertation to this Datum
+
+Label7
+**Zone wil be applied in case of convertation to this Datum
+
+RadioGroup1
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+ListBox1
+
+ListBox2
+
+RadioGroup2
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+SpinEdit1
+
+CheckBox1
+Hold Zone
+
+CheckBox2
+Hold Zone
+
+SpinEdit2
+
+TabSheet2
+
+ListBox4
+
+ComboBox1
+
+ListBox5
+
+ComboBox2
+
+ProgressBar1
+
+ProgressBar2
+
+Panel1
+
+Shape1
+
+Label1
+
+
+Label2
+
+
+Label3
+
+
+Label4
+
+
+Label6
+
+
+SpeedButton7
+<
+
+
+Label8
+
+
+Label9
+
+
+Label10
+
+
+Label11
+Debugging mode
+
+Edit1
+54,5
+
+Edit2
+83,5
+
+Edit3
+0
+
+Edit4
+0
+
+Edit5
+0
+
+Edit6
+0
+
+Edit7
+0
+
+Edit8
+0
+
+Button4
+testFile
+
+Button1
+WGS to SK42
+
+Button2
+SK42 to WGS
+
+Edit9
+0
+
+Edit10
+0
+
+Button10
+UTM to WGS
+
+ListBox3
+
+Button5
+Refresh
+
+Button7
+WGS TO GSK
+
+CheckBox3
+Southern hemisphere
+
+Button8
+To MSK54-4
+
+Button9
+Calculate with saving all columns
+
+RS
+Decimal separator
+,
+.
+
+LangBox
+
+Panel2
+
+Image1
+
+StatusBar1
+
+Panel4
+
+SpeedButton10
+Format...
+
+
+Panel3
+
+ComboBox3
+
+ShowLitera
+N/S/E/W
+
+RS1
+
+RS2
+
+CheckBox4
+Don't transformate heights
+
+OpenDialog1
+
+SaveDialog1
+
+PopupMenu1
+
+N1
+Edit Coordinate Systems
+
+N4
+Search Coordinate system
+
+PopupMenu2
+
+MenuItem1
+Edit Coordinate Systems
+
+N5
+Search Coordinate system
+
+PopupMenu3
+
+N2
+Edit Datums
+
+PopupMenu4
+
+N3
+Edit Datums
+
+PopupMenu5
+
+P5N1
+Convert to file (additional info cells are saved)
+
+MainMenu1
+
+N6
+File
+
+N10
+Open file (Left table)
+
+N11
+Open file (Right table)
+
+N15
+Search Coordinate system (Left table)
+
+N16
+Search Coordinate system (Right table)
+
+N20
+Select geoid model (Left table)
+
+N21
+Select geoid model (Right table)
+
+N17
+Save data (Left table)
+
+N18
+Save data (Right table)
+
+N26
+Close
+
+N7
+Edit
+
+N24
+Clear the left table
+
+N25
+Clear the right table
+
+N27
+Convert Left -> Right
+
+N28
+Convert Right -> Left
+
+N29
+Set Format for Result Coordinates 
+
+N8
+Data base
+
+N12
+Edit Coordinate systems
+
+N13
+Edit Datums
+
+N14
+Edit Ellipsoids
+
+N9
+Tools
+
+N22
+Convert left table to file (additional info cells are saved)
+
+N23
+Localization tool
+
+N19
+About
+
+//
+Form2
+File format settings
+
+Label3
+Preview
+
+Button1
+Open
+
+Button2
+Cancel
+
+StringGrid1
+
+GroupBox2
+Format parameters
+
+Label1
+Start string N:
+
+RadioGroup1
+Separators
+Space
+Tab
+Other
+;
+,
+
+Edit1
+
+
+ValueList
+
+SpinEdit1
+
+PageControl1
+Datums
+Coordinate Systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+PopupMenu1
+
+N1
+Search Coordinate system
+
+//
+Form3
+Edit Coordinate Systems
+
+Label1
+Name:
+
+Label2
+ID Name:
+
+Label3
+Datum
+
+Label4
+Projection:
+
+Label5
+Parameters:
+
+Label6
+File Name:
+
+Label7
+Group:
+
+ComboBox1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Button1
+...
+
+ComboBox2
+
+Button2
+New
+
+Button3
+Save Changes
+
+Button4
+Reset
+
+ComboBox3
+
+ValueList
+
+Edit3
+
+
+Edit4
+
+Button5
+Delete
+
+//
+Form4
+Edit Datums
+
+Label2
+ID Name:
+
+Label1
+Name:
+
+Label6
+File Name:
+
+Label3
+Ellipsoid:
+
+Label4
+Convertations:
+
+Label5
+Convertation parameters:
+
+Label7
+Datum2:
+
+Edit1
+WGS84
+
+Edit2
+WGS-84
+
+Edit3
+Data\Datums\WGS84.txt
+
+ComboBox1
+
+Button1
+...
+
+GroupBox1
+Datum To Datum mode:
+
+CheckBox1
+Allow Gauss-Kruger
+
+CheckBox2
+Allow UTM
+
+Button2
+Add
+
+Button3
+New
+
+Button4
+Save
+
+Button5
+Delete
+
+Button6
+Reset
+
+ListBox1
+
+ListBox2
+
+Button7
+Delete
+
+ValueList
+
+Button8
+Save
+
+Button9
+Reset
+
+ListBox3
+
+//
+Form5
+Edit Ellipsoids
+
+Label6
+File Name:
+
+Label1
+Name:
+
+Label2
+ID Name:
+
+Label3
+Semi-major axis (a), meters:
+
+Label4
+inverse flattering (1/f):
+
+ListBox1
+
+Button1
+Save
+
+Button2
+Reset
+
+Button3
+Add
+
+Button4
+Delete
+
+Edit3
+
+
+Edit2
+
+
+Edit1
+
+
+Edit4
+
+
+Edit5
+
+
+//
+Form6
+Search for Coordinate system
+
+ListBox1
+
+Panel1
+
+Edit1
+Enter a title fragment to search
+
+//
+Form7
+Geoids
+
+Image1
+
+Label2
+ID name:
+
+Label1
+Title (caption):
+
+Label6
+File name:
+
+Label3
+Discription (header):
+
+Shape1
+
+Bevel1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Edit3
+
+
+Button1
+Cancel
+
+Button2
+Accept
+
+Memo1
+
+//
+OpenTabFm
+Import data
+
+Label1
+Start from:
+
+Label2
+Preview:
+
+Button1
+Open
+
+Button2
+Cancel
+
+StringGrid1
+
+SepG
+Separators
+Space
+Tab
+Other
+;
+,
+
+Edit1
+'
+
+ValueList
+
+SpinEdit1
+
+//
+LocForm
+Localization tool
+
+GroupBox1
+Settings
+
+Label3
+Method:
+
+Label1
+Error limit, m:
+
+MB
+
+Sc1
+No scaling
+
+Button1
+Next >>
+
+CheckBox2
+Add a projection
+
+ErrLimit
+0.01
+
+SH
+No height differences
+
+SK1
+Complete coordinate system
+
+Load1
+
+
+
+Save1
+
+
+
+Clear1
+
+
+
+CSCat
+
+CSNum
+
+StringGrid1
+
+SK2
+New coordinate system
+
+Clear2
+
+
+
+Save2
+
+
+
+Load2
+
+
+
+Edit1
+Plan (local rectangular coordinate system)
+
+PlanKind
+
+StringGrid2
+
+OpenDialog1
+
+SaveDialog1
+
+//
+LocalizationFm
+Localization calculator
+
+MainGrid
+
+Panel1
+
+Label1
+Error, m:
+
+Label2
+dX:
+
+Label3
+dY:
+
+Label4
+dH:
+
+Isol
+Compute isolated errors 
+
+Edit1
+0.0
+
+Panel2
+
+SaveButton
+Save the localization
+
+
+RefreshButton
+
+
+
+CloseButton
+Close
+
+
+Edit2
+0.0
+
+Edit3
+0.0
+
+CAll
+
+COnly
+
+Panel3
+
+Bevel2
+
+ShowPan
+
+
+
+Label5
+Initial Datum:
+
+Bevel1
+
+Label6
+-
+
+Label7
+-
+
+Label8
+CS/Projection:
+
+ValueList
+
+ImageList1
+
+//
+SaveLoc
+Save the localization
+
+Bevel2
+
+SaveButton
+Save the localization
+
+
+Label1
+ID-name:
+
+Label2
+Title:
+
+Label3
+Group:
+
+Label4
+Kind:
+
+CloseButton
+Cancel
+
+
+Label5
+Initial Datum:
+
+Label6
+CS/Projection:
+
+Label7
+-
+
+Bevel1
+
+Label8
+-
+
+ValueList
+
+Edit1
+Plan (local rectangular coordinate system)
+
+PlanKind
+
+Edit2
+Local01
+
+Edit4
+User's localization
+
+ComboBox1
+
+//
+Form8
+Coordinates Output Settings
+
+GroupBox1
+Decimal separator
+
+RS1
+
+RS2
+
+GroupBox2
+Latitude/Longtitude
+
+Label1
+Decimal signs:
+
+ShowLitera
+N/S/E/W
+
+ComboBox3
+
+ComboBox4
+
+GroupBox3
+Coordinates
+
+Label2
+Decimal signs:
+
+ComboBox5
+
+Button1
+OK
+
+Button2
+Cancel
+
+GroupBox4
+Heights
+
+Label3
+Decimal signs:
+
+ComboBox6
+
+CheckBox4
+Do not process heights
+
+//
+Form9
+Edit coordinate systems, datums, ellipsoids etc.
+
+Label17
+Attention! To accept changes made due using the editor, RouteNav/RouteEditor and the utilities of RouteNav software pack must be restarted.
+
+Image1
+
+GroupBox1
+Coordinate Systems
+
+SpeedButton1
+Edit coordinate systems
+
+
+Label1
+Available: 
+
+Label2
+Gauss-Kruger based: 
+
+Label3
+Transverse Merkator: 
+
+Label4
+Localizations: 
+
+Label5
+Other: 
+
+Label6
+0
+
+Label7
+0
+
+Label8
+0
+
+Label9
+0
+
+Label10
+0
+
+SpeedButton2
+Localization tool
+
+
+GroupBox2
+Datums
+
+SpeedButton3
+Edit Datums
+
+
+Label11
+Available: 
+
+Label16
+0
+
+GroupBox3
+Ellipsoids
+
+SpeedButton4
+Edit Ellipsoids
+
+
+Label12
+Available: 
+
+Label13
+0
+
+GroupBox4
+Geoids
+
+SpeedButton5
+Geoids List
+
+
+Label14
+Available: 
+
+Label15
+0
+
+LangBox
+
+//
+

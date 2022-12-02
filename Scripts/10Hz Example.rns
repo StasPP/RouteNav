@@ -1,0 +1,66 @@
+// This simple script set 10 Hz data frequency for GPS UBlox and GlobalSat
+// You can add any other receivers
+
+// Этот скрипт-пример устанавливает ГНСС-приемник на частоту данных 10 Гц
+// Вы можете добавить приемники других моделей и производителей
+
+
+
+// for UBLox Neo 5x
+// для приемников UBlox Neo 5x
+
+if Name has UBLOX
+begin
+  if Bps not 115200
+  begin
+    
+
+    // Sending command to receiver (Set 115200 Bps)
+    // Отправляю команду на приемник (Скорость обмена 115200 Bps)
+    Sendcom $PUBX,41,1,0003,0003,115200,0*1C  
+
+    // Set BaudRate 115200 Bps
+    // Устанавливаю Бодрейт 115200 Bps
+
+    SetBps 115200
+
+  end
+  
+
+  // Sending command to receiver (Set Data Frequency 10 Hz)
+  // Отправляю команду на приемник (Установить частоту данных 10 Гц)
+  
+  Sendcom # B5 62 06 08 06 00 64 00 01 00 01 00 7A 12 
+
+
+  // Set COM-Port Rate to 10 Hz (100 ms)
+  // Устанавливаю частоту опроса COM 10 Гц (100 мс)
+
+  SetFrequency 100
+
+end
+
+// for GlobalSat (the same algorithm)
+// Для приемников GlobalSat (аналогичный алгоритм)
+
+if Name has PROLIFIC
+begin
+  if Bps not 115200
+  begin
+    Sendcom $PSRF100,1,115200,8,1,0*05
+    Sendcom $PMTK251,115200*1F
+    SetBps 115200 
+  end
+  Sendcom $PSRF103,00,06,00,01*22
+  Sendcom $PMTK220,100*2F
+  SetFrequency 100
+end
+
+
+// Test result: wait for receiver's string contains 'RMC'.
+// In case of time out the settings will be reset to previous.
+
+// Проверяю отклик - 3 секунды жду сообщение, содержащее текст 'RMC'
+// В случае, если такая строка не придет, настройки будут сброшены.
+
+TestRx 3 RMC

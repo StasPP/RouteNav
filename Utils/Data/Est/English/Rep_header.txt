@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Flight Navigation Quality Report</title>
+<style>
+h2 {
+margin-top: 3em;
+margin-bottom: -0.8em;
+}
+</style>
+</head>
+<body>
+<h1 align="center">Flight Navigation Quality Report</h1>

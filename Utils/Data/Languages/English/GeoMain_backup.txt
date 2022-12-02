@@ -1,0 +1,510 @@
+
+//
+Form1
+GeoFunctions: GeoCalc v.0.6 by Shevchuk S. 
+
+Label12
+Geoid:
+
+SpeedButton8
+...
+
+
+Label13
+Geoid:
+
+SpeedButton9
+...
+
+
+SpeedButton4
+Load
+
+
+SpeedButton1
+Load
+
+
+SpeedButton2
+Save
+
+
+SpeedButton3
+Save
+
+
+SpeedButton5
+
+
+
+SpeedButton6
+
+
+
+Geoid1
+
+Geoid2
+
+Button6
+<- Calculate
+
+Button3
+Calculate ->
+
+StringGrid1
+
+StringGrid2
+
+StatusBar1
+
+PageControl1
+Datum to Datum
+CS to CS
+
+TabSheet1
+
+Label5
+*Zone wil be applied in case of convertation to this Datum
+
+Label7
+**Zone wil be applied in case of convertation to this Datum
+
+RadioGroup1
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+ListBox1
+
+ListBox2
+
+RadioGroup2
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+SpinEdit1
+
+CheckBox1
+Hold Zone
+
+CheckBox2
+Hold Zone
+
+SpinEdit2
+
+TabSheet2
+
+ListBox4
+
+ComboBox1
+
+ListBox5
+
+ComboBox2
+
+ComboBox3
+
+ProgressBar1
+
+ProgressBar2
+
+ShowLitera
+N/S/E/W
+
+Panel1
+
+Shape1
+
+Label1
+
+
+Label2
+
+
+Label3
+
+
+Label4
+
+
+Label6
+
+
+SpeedButton7
+<
+
+
+Label8
+
+
+Label9
+
+
+Label10
+
+
+Label11
+ADVANCED DEVELOPER's MODE
+
+Edit1
+54,5
+
+Edit2
+83,5
+
+Edit3
+0
+
+Edit4
+0
+
+Edit5
+0
+
+Edit6
+0
+
+Edit7
+0
+
+Edit8
+0
+
+Button4
+testFile
+
+Button1
+WGS to SK42
+
+Button2
+SK42 to WGS
+
+Edit9
+0
+
+Edit10
+0
+
+Button10
+UTM to WGS
+
+ListBox3
+
+Button5
+Refresh
+
+Button7
+WGS TO GSK
+
+CheckBox3
+South Hemisphere
+
+Button8
+To MSK54-4
+
+Button9
+Calculate with saving all columns
+
+RS
+Decimal separator
+,
+.
+
+CheckBox4
+Don't transformate heights
+
+N1
+Edit Coordinate Systems
+
+N4
+Search Coordinate system
+
+MenuItem1
+Edit Coordinate Systems
+
+N5
+Search Coordinate system
+
+N2
+Edit Datums
+
+N3
+Edit Datums
+
+P5N1
+Convert to file (additional info cells are saved)
+
+//
+Form2
+File format settings
+
+Label3
+Preview
+
+Button1
+Open
+
+Button2
+Cancel
+
+StringGrid1
+
+GroupBox2
+Format parameters
+
+Label1
+Start string N:
+
+RadioGroup1
+Separators
+Space
+Tab
+Other
+;
+,
+
+Edit1
+
+
+ValueList
+
+SpinEdit1
+
+PageControl1
+Datums
+Coordinate Systems
+
+TabSheet1
+
+ComboBox1
+
+RadioGroup2
+Coordinates kind
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM - North Hemisphere
+UTM - South Hemisphere
+
+TabSheet2
+
+ComboBox2
+
+ListBox4
+
+N1
+Search Coordinate system
+
+//
+Form3
+Edit Coordinate Systems
+
+Label1
+Name:
+
+Label2
+ID Name:
+
+Label3
+Datum
+
+Label4
+Projection:
+
+Label5
+Parameters:
+
+Label6
+File Name:
+
+Label7
+Group:
+
+ComboBox1
+
+ListBox1
+
+Edit1
+
+
+Edit2
+
+
+Button1
+...
+
+ComboBox2
+No (Latitude-Longtitude)
+ECEF (Cartesian )
+Gauss-Kruger
+UTM - North
+UTM - South
+
+Button2
+New
+
+Button3
+Save Changes
+
+Button4
+Reset
+
+ComboBox3
+
+ValueList
+
+Edit3
+
+
+Edit4
+
+Button5
+Delete
+
+//
+Form4
+Edit Datums
+
+Label2
+ID Name:
+
+Label1
+Name:
+
+Label6
+File Name:
+
+Label3
+Ellipsoid:
+
+Label4
+Convertations:
+
+Label5
+Convertation parameters:
+
+Label7
+Datum2:
+
+Edit1
+
+
+Edit2
+
+
+Edit3
+
+
+ComboBox1
+
+Button1
+...
+
+GroupBox1
+Datum To Datum mode:
+
+CheckBox1
+Allow Gauss-Kruger
+
+CheckBox2
+Allow UTM
+
+Button2
+Add
+
+Button3
+New
+
+Button4
+Save
+
+Button5
+Delete
+
+Button6
+Reset
+
+ListBox1
+
+ListBox2
+
+Button7
+Delete
+
+ValueList
+
+Button8
+Save
+
+Button9
+Reset
+
+ListBox3
+
+//
+Form5
+Edit Ellipsoids
+
+Label6
+File Name:
+
+Label1
+Name:
+
+Label2
+ID Name:
+
+Label3
+Semi-major axis (a), meters:
+
+Label4
+inverse flattering (1/f):
+
+ListBox1
+
+Button1
+Save
+
+Button2
+Reset
+
+Button3
+Add
+
+Button4
+Delete
+
+Edit3
+
+
+Edit2
+
+
+Edit1
+
+
+Edit4
+
+
+Edit5
+
+
+
+//
+Form6
+Search for Coordinate system
+
+ListBox1
+
+Edit1
+Enter a title fragment to search
+
+
+//

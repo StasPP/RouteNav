@@ -1,0 +1,10 @@
+if Bps not 115200
+begin   
+  Sendcom $PUBX,41,1,0003,0003,115200,0*1C  
+  SetBps 115200
+end
+
+Sendcom # B5 62 06 08 06 00 64 00 01 00 01 00 7A 12 
+SetFrequency 100
+
+TestRx 3 RMC

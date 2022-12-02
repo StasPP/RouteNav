@@ -1,0 +1,65 @@
+Latitude B, 
+Longtitude L, 
+X, m
+Y, m
+Z, m
+Nord, m
+South, m
+Nord/South, m
+West/East, m
+West, ì
+East, ì
+Name
+Variable
+Column
+Click to select a coordinate system
+Add any site data
+Save changes in
+Hgt, m
+Lat. of natural origin:
+Long. of natural origin:
+Scale:
+False Easting:
+False Northing:
+Name of Datum2:
+TX (m):
+TY (m):
+TZ (m):
+wx ("):
+wy ("):
+wz ("):
+scale (ppm):
+The name is already exists. Try entering another.
+(none)
+File is already exists. Rewrite?
+Control error limit is incorrect
+The same named points amount is not enough. Need at least 3 common points to calculate localization with control.
+ON
+Gauss-Kruger projection
+Transverse Mercator (UTM)
+, zone 
+Geo database sucessfully loaded
+Error loading Geo datebase!
+ transformed succesfully!
+Can't find initial coordinate system
+Can't find both coordinate systems!
+Computing: 
+Can't find the tranformation parameters! 
+Can't compute the transfotmation to: 
+Flat 2D localization + constant elevation
+Right-hand axis orientation
+Left-hand axis orientation
+All the points
+Turned ON only
+Parameter
+Value
+Localization: Axis orientation
+Localization: Scale
+Localization: Plan angle (rad.)
+Localization: Shift X
+Localization: Shift Y
+Localization: Shift Z
+The initial coordinate system must be not localized-type
+Loading geoid...
+Processing...
+Default

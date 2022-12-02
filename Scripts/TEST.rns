@@ -1,0 +1,13 @@
+LoadScript Test
+
+if Name has UBLOX
+   LoadScript Scripts\Ublox 115200 Bps 10Hz.rns
+
+// for GlobalSat (the same algorithm)
+// Для приемников GlobalSat (аналогичный алгоритм)
+
+if Name has PROLIFIC
+   LoadScript Scripts\GlobalSat 115200 Bps 5 Hz - 10Hz.rns
+
+if Name has ABCDEF
+   LoadScript Scripts\10Hz Example.rns

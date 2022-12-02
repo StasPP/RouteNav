@@ -1,0 +1,13 @@
+if Bps not 115200
+begin
+  Sendcom $PSRF100,1,115200,8,1,0*05
+  Sendcom $PMTK251,115200*1F
+  SetBps 115200 
+end
+
+Sendcom $PSRF103,00,06,00,01*22
+Sendcom $PMTK220,100*2F
+
+SetFrequency 100
+
+TestRx 3 RMC

@@ -930,7 +930,13 @@ PopupMenu8
 DoReaload3
 Reload track (clear existing)
 
+DoReload4
+Reload markers (clear existing)
+
 DoAdd3
+Add to existing
+
+DoAdd4
 Add to existing
 
 DopAdd4

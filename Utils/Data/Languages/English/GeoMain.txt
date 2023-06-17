@@ -473,6 +473,9 @@ Edit4
 Button5
 Delete
 
+isLocal
+Localization
+
 //
 Form4
 Edit Datums

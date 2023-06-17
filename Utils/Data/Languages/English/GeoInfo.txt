@@ -63,3 +63,8 @@ The initial coordinate system must be not localized-type
 Loading geoid...
 Processing...
 Default
+Latitude-Longtitude
+ECEF (Cartesian)
+Gauss-Kruger
+UTM Northern Hemisphere
+UTM Southern Hemisphere

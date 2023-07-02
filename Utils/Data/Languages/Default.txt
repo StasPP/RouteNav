@@ -43,6 +43,8 @@ SpeedButton6
 
 Bevel1
 
+StatusBar1
+
 Panel3
 
 ComboBox5
@@ -237,8 +239,6 @@ LangBox
 Panel2
 
 Image1
-
-StatusBar1
 
 Panel4
 
@@ -480,7 +480,7 @@ Button5
 Delete
 
 isLocal
-Локализация
+Localization
 
 //
 Form4
@@ -951,5 +951,94 @@ ComboBox6
 
 CheckBox4
 Do not process heights
+
+//
+Form9
+Edit coordinate systems, datums, ellipsoids etc.
+
+Label17
+Attention! To accept changes made due using the editor, RouteNav/RouteEditor and the utilities of RouteNav software pack must be restarted.
+
+GroupBox1
+Coordinate Systems
+
+SpeedButton1
+Edit coordinate systems
+
+
+Label1
+Available: 
+
+Label2
+Gauss-Kruger based: 
+
+Label3
+Transverse Merkator: 
+
+Label4
+Localizations: 
+
+Label5
+Other: 
+
+Label6
+0
+
+Label7
+0
+
+Label8
+0
+
+Label9
+0
+
+Label10
+0
+
+SpeedButton2
+Localization tool
+
+
+GroupBox2
+Datums
+
+SpeedButton3
+Edit Datums
+
+
+Label11
+Available: 
+
+Label16
+0
+
+GroupBox3
+Ellipsoids
+
+SpeedButton4
+Edit Ellipsoids
+
+
+Label12
+Available: 
+
+Label13
+0
+
+GroupBox4
+Geoids
+
+SpeedButton5
+Geoids List
+
+
+Label14
+Available: 
+
+Label15
+0
+
+LangBox
 
 //

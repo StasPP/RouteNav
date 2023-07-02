@@ -3100,6 +3100,9 @@ Save
 Button2
 Cancel
 
+Button3
+Save in All Formats
+
 //
 FreduceTrack
 Dilute the track
@@ -3620,5 +3623,24 @@ Add to existing
 
 DoResetR
 Reset existing
+
+//
+BlnSaver
+Export Data to Surfer *.Bln
+
+BlnData
+Data to save
+Area borders + Routes
+Routes
+Area borders
+
+Label3
+Coordinates order:
+
+Button1
+Proceed
+
+Button2
+Cancel
 
 //

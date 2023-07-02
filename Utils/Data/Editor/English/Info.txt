@@ -276,3 +276,4 @@ Altitude, m:
 Choose the Heigths Mode
 Heights mode:
 Cancel
+On next step the loops will be converted to points. The Loops project (with loops as solid objects) will be unavailable. Do you want to save the Loops project?

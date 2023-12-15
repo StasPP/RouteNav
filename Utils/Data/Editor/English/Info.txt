@@ -277,3 +277,5 @@ Choose the Heigths Mode
 Heights mode:
 Cancel
 On next step the loops will be converted to points. The Loops project (with loops as solid objects) will be unavailable. Do you want to save the Loops project?
+GGA messages only are available. Please enter the date of the measurements.
+Please enter the date as DD.MM.YYYY

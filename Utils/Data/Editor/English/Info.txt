@@ -237,7 +237,7 @@ Speed, kmph
 Number of Satellites 
 Dilution of Precision (PDOP)
 Tracing (Cross Track) Errors 
- 
+Solution Kind (Q) 
 Altitude, m
 Radioaltimeter, m
 Las. altimeter, m
@@ -247,7 +247,7 @@ Speed, kmph
 Sat. Number
 PDOP
 XTE, m
-
+Solution Kind
 Set a Custom Scale
 Enter amount meters in 100 pix
 Set a Custom View Angle
@@ -279,3 +279,12 @@ Cancel
 On next step the loops will be converted to points. The Loops project (with loops as solid objects) will be unavailable. Do you want to save the Loops project?
 GGA messages only are available. Please enter the date of the measurements.
 Please enter the date as DD.MM.YYYY
+Not proc.
+Fixed
+Float
+SBAS
+DGNSS
+Single
+PPP
+Dist. (plan):
+Dist. (heihgt):

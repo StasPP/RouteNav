@@ -128,7 +128,7 @@ Entered value is incorrect
 Epochs time shift
 RouteEditor Statistic Report
 Area Points: 
-#	Slip start time 	Slip End time	Route
+#	Slip start time 	Slip End time	Duration, s	Route
 Route	Tracing start time	Tracing End time	Tracing Dir. Angle,°	StDev, m	Avg XTE, m	Max XTE, m
 Common points: 
 (plan): 

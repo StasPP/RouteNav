@@ -126,6 +126,10 @@ B5a
 
 Load raster maps
 
+fastmap
+
+Download without Saving
+
 B5c
 
 Reset raster maps
@@ -1999,7 +2003,7 @@ Button2
 Cancel
 
 Button3
-Get key
+Register
 
 SimpleN
 Simple arrow to North
@@ -3642,5 +3646,35 @@ Proceed
 
 Button2
 Cancel
+
+//
+RegForm
+Register
+
+Label1
+User ID:
+
+Label2
+Serial Number:
+
+Label3
+Please contact to vendor sending your User ID. The serial number will be attached to your computer.
+
+Label4
+Wrong serial number!
+
+Label5
+Register sortware until: 
+
+Label6
+The trial term of the software is expired.
+
+Label7
+RouteNav/RouteEditor is successfully registered.
+
+Button1
+OK
+
+Languages
 
 //

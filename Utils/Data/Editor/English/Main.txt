@@ -749,7 +749,7 @@ Label30
 Loop side, m:
 
 Label32
-Lengthwise, m:
+Longwise, m:
 
 Label33
 Crosswise, m:
@@ -2820,6 +2820,15 @@ Crosswise
 
 Drop2
 Loop's asimuth
+
+isNoWire
+No points on a loop's wire
+
+Label25
+min. distance, m:
+
+isEven
+Even amount
 
 Label3
 Step (along the ray), m:

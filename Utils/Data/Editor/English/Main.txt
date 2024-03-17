@@ -2771,6 +2771,15 @@ Actions with existing markers
 Delete existing
 Add to existing
 
+Label1
+Min. distance, m
+
+CheckBorders
+Delete points outside of area
+
+CheckDuplicates
+Delete coinciding points
+
 Exp
 
 

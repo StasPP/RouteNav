@@ -217,7 +217,7 @@ Rectangle loop
 Mixed shapes
 Enter the step for corners, m
 Step for corners, m 
-
+(All Frames)
 Loop side, m
 Loop radius, m
 Route	Segments	Length

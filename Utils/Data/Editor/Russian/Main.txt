@@ -1294,6 +1294,33 @@ TreeView1
 
 ImageList1
 
+CleartheFrame1
+Очистить границы участка
+
+ConvertFrametoRoute1
+Пепевести границы в маршрут
+
+SelecttheRoute1
+Выбрать все точки маршрута
+
+SelectTheFrame1
+Выбрать все точки границы
+
+DeletetheRoute1
+Удалить маршрут
+
+DeleteAllRoutes1
+Удалить все маршруты
+
+SelectThePoint1
+Выбрать точку
+
+DeletethePoint1
+Удалить точку
+
+ConverttheRoutetoFrame1
+Конвертировать маршрут в границу участка
+
 //
 Edtools
 Tools
@@ -2754,6 +2781,9 @@ FSaveKnots
 
 GroupBox1
 Перевести в маркеры
+
+GroupBox2
+Дополнительно
 
 doP
 Пикеты

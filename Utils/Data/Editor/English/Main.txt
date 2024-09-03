@@ -1294,6 +1294,33 @@ TreeView1
 
 ImageList1
 
+CleartheFrame1
+Clear the Frame
+
+ConvertFrametoRoute1
+Convert the Frame to Route
+
+SelecttheRoute1
+Select all Points of the Route
+
+SelectTheFrame1
+Select all Points of the Frame
+
+DeletetheRoute1
+Delete the Route
+
+DeleteAllRoutes1
+Delete All Routes
+
+SelectThePoint1
+Select the Point
+
+DeletethePoint1
+Delete the Point
+
+ConverttheRoutetoFrame1
+Convert the Route to Frame
+
 //
 Edtools
 Tools
@@ -2747,6 +2774,9 @@ Save TEM loops set
 
 GroupBox1
 Convert into markers
+
+GroupBox2
+Additional settings
 
 doP
 Pickets

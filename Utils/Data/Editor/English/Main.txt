@@ -3304,10 +3304,10 @@ GroupBox1
 File information
 
 Label1
-Aerage coordinates, m:
+Average coordinates, m:
 
 Label5
-N:
+E:
 
 Label7
 H:
@@ -3322,7 +3322,7 @@ Label4
 Height:
 
 Label6
-E:
+N:
 
 Label8
 WGS-84 latitue, longtitude:

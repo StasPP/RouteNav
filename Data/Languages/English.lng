@@ -617,3 +617,17 @@ ERROR!
 Approximated position
 COORDINATES TRANSFORMATION ERROR!   CHECK THE SETTINGS
 Check Coordinates
+Lock Scale
+
+Arc to next route: 
+Arc diameter
+Routes sequence: 
+Routes step
+
+from current position
+static / from route's end
+OFF
+
+forward
+backward
+loops
